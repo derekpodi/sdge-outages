@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "894745",
+      "startTime": "Mar 06 at 05:50 AM",
+      "customerOut": 79,
+      "xCoord": -117.0858643979,
+      "yCoord": 33.2532586264,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "1021",
+      "estRestTimeType": "I",
+      "estRestTime": "Mar 06 at 09:00 AM",
+      "community": "NE Escondido/ Dixon Lake/ Daley Ranch/ Valley Center/ Lilac",
+      "district": "NE",
+      "substation": "LILAC",
+      "device": "1021-25R",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "894742",
       "startTime": "Mar 06 at 12:56 AM",
       "customerOut": 64,
@@ -20,8 +43,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "892730",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "891398",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "892697",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "891518",
@@ -110,29 +133,6 @@
       "damage": "",
       "switchplan": "252575",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "jobNumber": "892898",
-      "startTime": "Mar 05 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.0576631258,
-      "yCoord": 32.5952654953,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "circuit": "155",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 06 at 06:00 AM",
-      "community": "S Chula Vista/ Castle Park/ Otay",
-      "district": "CM",
-      "substation": "OTAY",
-      "device": "155-21",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "247919",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1427,5 +1427,5 @@
       "nid": 61
     }
   ],
-  "last_updated": "Mar 06 at 04:58 AM"
+  "last_updated": "Mar 06 at 06:43 AM"
 }
