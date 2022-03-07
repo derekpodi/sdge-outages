@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "894819",
+      "startTime": "Mar 07 at 06:16 AM",
+      "customerOut": 223,
+      "xCoord": -117.0326925963,
+      "yCoord": 32.9412824269,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "921",
+      "estRestTimeType": "I",
+      "estRestTime": "Mar 07 at 11:30 AM",
+      "community": "S Poway",
+      "district": "NE",
+      "substation": "POMERADO",
+      "device": "F284146",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "894807",
       "startTime": "Mar 07 at 03:47 AM",
       "customerOut": 8,
@@ -21,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 0
+      "nid": 1
     },
     {
       "jobNumber": "894808",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "894809",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "892730",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "893416",
@@ -110,29 +133,6 @@
       "damage": "",
       "switchplan": "251497",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "jobNumber": "891398",
-      "startTime": "Mar 07 at 08:00 AM",
-      "customerOut": 0,
-      "xCoord": -117.1414233394,
-      "yCoord": 33.0684930322,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1250",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 07 at 06:30 PM",
-      "community": "Harmony Grove/ Lake Hodges",
-      "district": "NE",
-      "substation": "OLIVENHAIN",
-      "device": "F402462",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "253140",
-      "plannedoutagereason": "Cable Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -691,29 +691,6 @@
       "nid": 29
     },
     {
-      "jobNumber": "893348",
-      "startTime": "Mar 07 at 08:00 AM",
-      "customerOut": 0,
-      "xCoord": -116.7922273725,
-      "yCoord": 32.7969734669,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "283",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 07 at 05:00 PM",
-      "community": "Dehesa/ Alpine/ Rancho Palo Verde",
-      "district": "EA",
-      "substation": "LOVELAND",
-      "device": "283-1125",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "253762",
-      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 30
-    },
-    {
       "jobNumber": "893561",
       "startTime": "Mar 07 at 08:00 AM",
       "customerOut": 0,
@@ -734,30 +711,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 31
+      "nid": 30
     },
     {
-      "jobNumber": "893565",
-      "startTime": "Mar 08 at 08:00 AM",
+      "jobNumber": "893348",
+      "startTime": "Mar 07 at 08:00 AM",
       "customerOut": 0,
       "xCoord": -116.7922273725,
       "yCoord": 32.7969734669,
       "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
       "circuit": "283",
       "estRestTimeType": "F",
-      "estRestTime": "Mar 08 at 11:00 AM",
+      "estRestTime": "Mar 07 at 05:00 PM",
       "community": "Dehesa/ Alpine/ Rancho Palo Verde",
       "district": "EA",
       "substation": "LOVELAND",
-      "device": "283-T4-356",
+      "device": "283-1125",
       "calltype": "SWP",
       "damage": "",
-      "switchplan": "253815",
+      "switchplan": "253762",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 32
+      "nid": 31
     },
     {
       "jobNumber": "893564",
@@ -776,6 +753,29 @@
       "calltype": "SWP",
       "damage": "",
       "switchplan": "253812",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 32
+    },
+    {
+      "jobNumber": "893565",
+      "startTime": "Mar 08 at 08:00 AM",
+      "customerOut": 0,
+      "xCoord": -116.7922273725,
+      "yCoord": 32.7969734669,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "283",
+      "estRestTimeType": "F",
+      "estRestTime": "Mar 08 at 11:00 AM",
+      "community": "Dehesa/ Alpine/ Rancho Palo Verde",
+      "district": "EA",
+      "substation": "LOVELAND",
+      "device": "283-T4-356",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "253815",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -1772,5 +1772,5 @@
       "nid": 76
     }
   ],
-  "last_updated": "Mar 07 at 05:02 AM"
+  "last_updated": "Mar 07 at 06:43 AM"
 }
