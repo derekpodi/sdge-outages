@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "899468",
+      "startTime": "Mar 27 at 03:26 PM",
+      "customerOut": 64,
+      "xCoord": -117.2368274697,
+      "yCoord": 33.3846297424,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "520",
+      "estRestTimeType": "I",
+      "estRestTime": "Mar 27 at 07:30 PM",
+      "community": "De Luz",
+      "district": "NE",
+      "substation": "AVOCADO",
+      "device": "F2486419",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "899421",
       "startTime": "Mar 26 at 11:28 PM",
       "customerOut": 2,
@@ -20,8 +43,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "899402",
@@ -37,29 +60,6 @@
       "district": "BC",
       "substation": "MESA HEIGHTS",
       "device": "776-61M",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "jobNumber": "899443",
-      "startTime": "Mar 27 at 11:33 AM",
-      "customerOut": 1112,
-      "xCoord": -117.1122137187,
-      "yCoord": 32.6938041747,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "HL3",
-      "estRestTimeType": "I",
-      "estRestTime": "Mar 27 at 05:00 PM",
-      "community": "Logan Heights/ Mountain View/ Lincoln Park",
-      "district": "CM",
-      "substation": "SAMPSON",
-      "device": "F79988",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -1887,5 +1887,5 @@
       "nid": 81
     }
   ],
-  "last_updated": "Mar 27 at 01:43 PM"
+  "last_updated": "Mar 27 at 03:43 PM"
 }
