@@ -24,6 +24,29 @@
       "nid": 0
     },
     {
+      "jobNumber": "902333",
+      "startTime": "Apr 09 at 08:11 PM",
+      "customerOut": 73,
+      "xCoord": -117.0576550397,
+      "yCoord": 32.5952654991,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "150",
+      "estRestTimeType": "F",
+      "estRestTime": "Apr 10 at 06:00 AM",
+      "community": "S Chula Vista/ Castle Park/ Otay",
+      "district": "CM",
+      "substation": "OTAY",
+      "device": "150-410",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "249818",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 1
+    },
+    {
       "jobNumber": "901733",
       "startTime": "Apr 11 at 09:00 AM",
       "customerOut": 0,
@@ -43,8 +66,8 @@
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 1
+      "first": false,
+      "nid": 2
     },
     {
       "jobNumber": "900554",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "900957",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "900445",
@@ -110,29 +133,6 @@
       "damage": "",
       "switchplan": "256089",
       "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "jobNumber": "899913",
-      "startTime": "Apr 09 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.0576550397,
-      "yCoord": 32.5952654991,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "150",
-      "estRestTimeType": "F",
-      "estRestTime": "Apr 10 at 06:00 AM",
-      "community": "S Chula Vista/ Castle Park/ Otay",
-      "district": "CM",
-      "substation": "OTAY",
-      "device": "150-410",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "249818",
-      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1312,5 +1312,5 @@
       "nid": 56
     }
   ],
-  "last_updated": "Apr 09 at 07:17 PM"
+  "last_updated": "Apr 09 at 08:16 PM"
 }
