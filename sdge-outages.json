@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "903708",
-      "startTime": "Apr 16 at 03:31 PM",
-      "customerOut": 478,
-      "xCoord": -117.0028165752,
-      "yCoord": 32.7392548007,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "94",
+      "jobNumber": "903729",
+      "startTime": "Apr 16 at 06:25 PM",
+      "customerOut": 6,
+      "xCoord": -117.2530160815,
+      "yCoord": 33.2064563428,
+      "cause": "A vehicle accident has caused an outage.",
+      "circuit": "209",
       "estRestTimeType": "I",
-      "estRestTime": "Apr 16 at 08:30 PM",
-      "community": "La Presa/ Spring Valley/ Rancho San Diego",
-      "district": "EA",
-      "substation": "SPRING VALLEY",
-      "device": "F86088",
+      "estRestTime": "Apr 16 at 10:30 PM",
+      "community": "Gopher Canyon",
+      "district": "NC",
+      "substation": "MELROSE",
+      "device": "<inline_jumper.18916>",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -24,26 +24,26 @@
       "nid": 0
     },
     {
-      "jobNumber": "903672",
-      "startTime": "Apr 16 at 09:15 AM",
-      "customerOut": 225,
-      "xCoord": -117.0463803412,
-      "yCoord": 32.7439796869,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "1049",
-      "estRestTimeType": "F",
-      "estRestTime": "Apr 16 at 04:00 PM",
-      "community": "Lemon Grove",
+      "jobNumber": "903721",
+      "startTime": "Apr 16 at 03:31 PM",
+      "customerOut": 38,
+      "xCoord": -117.0028165752,
+      "yCoord": 32.7392548007,
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
+      "circuit": "94",
+      "estRestTimeType": "I",
+      "estRestTime": "Apr 16 at 08:30 PM",
+      "community": "La Presa/ Spring Valley/ Rancho San Diego",
       "district": "EA",
-      "substation": "CHOLLAS WEST",
-      "device": "<inline_jumper.18781>",
-      "calltype": "PLAN",
+      "substation": "SPRING VALLEY",
+      "device": "F87334",
+      "calltype": "OUT",
       "damage": "",
-      "switchplan": "246845",
-      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
       "nid": 1
     },
     {
@@ -66,7 +66,7 @@
       "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
+      "first": true,
       "nid": 2
     },
     {
@@ -1128,5 +1128,5 @@
       "nid": 48
     }
   ],
-  "last_updated": "Apr 16 at 03:44 PM"
+  "last_updated": "Apr 16 at 07:17 PM"
 }
