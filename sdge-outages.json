@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "911982",
+      "jobNumber": "912001",
       "startTime": "May 20 at 06:04 PM",
-      "customerOut": 237,
+      "customerOut": 79,
       "xCoord": -117.1839895488,
       "yCoord": 32.8259861018,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "275",
       "estRestTimeType": "F",
-      "estRestTime": "May 21 at 02:00 AM",
+      "estRestTime": "May 21 at 04:00 AM",
       "community": "Torrey Pines/ Sorrento Valley/ University City",
       "district": "BC",
       "substation": "CLAIREMONT",
-      "device": "LBE.64218",
+      "device": "Cable.Tail.69020",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -25,7 +25,7 @@
     },
     {
       "jobNumber": "911990",
-      "startTime": "May 20 at 09:26 PM",
+      "startTime": "May 20 at 10:04 PM",
       "customerOut": 1,
       "xCoord": -116.8992720168,
       "yCoord": 32.8597523298,
@@ -47,8 +47,31 @@
       "nid": 1
     },
     {
+      "jobNumber": "911999",
+      "startTime": "May 20 at 11:40 PM",
+      "customerOut": 84,
+      "xCoord": -117.2335292272,
+      "yCoord": 32.7415089471,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "50",
+      "estRestTimeType": "F",
+      "estRestTime": "May 21 at 06:00 AM",
+      "community": "Ocean Beach/ Midway/ Lindbergh Field",
+      "district": "BC",
+      "substation": "POINT LOMA",
+      "device": "50-247",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "258377",
+      "plannedoutagereason": "Cable Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 2
+    },
+    {
       "jobNumber": "911985",
-      "startTime": "May 20 at 09:13 PM",
+      "startTime": "May 20 at 10:00 PM",
       "customerOut": 400,
       "xCoord": -117.2442976835,
       "yCoord": 33.2025309739,
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "909053",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "904962",
@@ -113,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "jobNumber": "908771",
@@ -121,10 +144,10 @@
       "customerOut": 0,
       "xCoord": -117.2752933425,
       "yCoord": 32.8401252027,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "circuit": "1173",
       "estRestTimeType": "F",
-      "estRestTime": "May 21 at 01:00 AM",
+      "estRestTime": "May 21 at 03:00 AM",
       "community": "La Jolla/ La Jolla Shores/ Soledad Mountain",
       "district": "BC",
       "substation": "LA JOLLA",
@@ -136,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 6
     },
     {
       "jobNumber": "907789",
@@ -156,29 +179,6 @@
       "damage": "",
       "switchplan": "258487",
       "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 6
-    },
-    {
-      "jobNumber": "908222",
-      "startTime": "May 20 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.0576576952,
-      "yCoord": 32.5952654978,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "152",
-      "estRestTimeType": "F",
-      "estRestTime": "May 21 at 01:00 AM",
-      "community": "S Chula Vista/ Castle Park/ Otay",
-      "district": "CM",
-      "substation": "OTAY",
-      "device": "LBE.43797",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "258654",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -461,29 +461,6 @@
       "nid": 19
     },
     {
-      "jobNumber": "907369",
-      "startTime": "May 20 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.2335292272,
-      "yCoord": 32.7415089471,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "50",
-      "estRestTimeType": "F",
-      "estRestTime": "May 21 at 06:00 AM",
-      "community": "Ocean Beach/ Midway/ Lindbergh Field",
-      "district": "BC",
-      "substation": "POINT LOMA",
-      "device": "1000 XLPECN-PEJ AL ABC 101039.0",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "258377",
-      "plannedoutagereason": "Cable Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 20
-    },
-    {
       "jobNumber": "908207",
       "startTime": "May 23 at 10:00 AM",
       "customerOut": 0,
@@ -504,7 +481,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 20
     },
     {
       "jobNumber": "908202",
@@ -527,7 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 21
     },
     {
       "jobNumber": "911810",
@@ -546,6 +523,29 @@
       "calltype": "SWP",
       "damage": "",
       "switchplan": "255216",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 22
+    },
+    {
+      "jobNumber": "910652",
+      "startTime": "May 23 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.2403315325,
+      "yCoord": 32.7990975261,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "56",
+      "estRestTimeType": "F",
+      "estRestTime": "May 24 at 05:00 AM",
+      "community": "Mission Bay/ Pacific Beach",
+      "district": "BC",
+      "substation": "PACIFIC BEACH",
+      "device": "#6 B.STRD BC 53651.0",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "259289",
       "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -852,5 +852,5 @@
       "nid": 36
     }
   ],
-  "last_updated": "May 20 at 09:55 PM"
+  "last_updated": "May 21 at 01:50 AM"
 }
