@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "913978",
-      "startTime": "May 29 at 05:05 PM",
-      "customerOut": 3,
-      "xCoord": -116.9206168795,
-      "yCoord": 32.8042282338,
-      "cause": "A vehicle accident has caused an outage.",
-      "circuit": "413",
-      "estRestTimeType": "F",
-      "estRestTime": "May 29 at 11:00 PM",
-      "community": "El Cajon",
-      "district": "EA",
-      "substation": "GRANITE",
-      "device": "F2129125",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "908662",
       "startTime": "Jun 01 at 07:00 AM",
       "customerOut": 0,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "jobNumber": "911443",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "909356",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "909357",
@@ -110,6 +87,29 @@
       "damage": "",
       "switchplan": "255278",
       "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 3
+    },
+    {
+      "jobNumber": "912339",
+      "startTime": "Jun 01 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.1305649941,
+      "yCoord": 32.71257994,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1434",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 02 at 05:00 AM",
+      "community": "Logan Heights/ Mountain View/ Lincoln Park",
+      "district": "CM",
+      "substation": "GRANT HILL",
+      "device": "DBE.195828",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "249820",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -990,5 +990,5 @@
       "nid": 42
     }
   ],
-  "last_updated": "May 29 at 07:50 PM"
+  "last_updated": "May 29 at 10:05 PM"
 }
