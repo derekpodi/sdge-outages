@@ -1,50 +1,27 @@
 {
   "locations": [
     {
-      "jobNumber": "917086",
-      "startTime": "Jun 12 at 05:28 AM",
-      "customerOut": 2,
-      "xCoord": -117.3540461226,
-      "yCoord": 33.1975401004,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "EOS3",
-      "estRestTimeType": "F",
-      "estRestTime": "Jun 12 at 11:00 AM",
-      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
-      "district": "NC",
-      "substation": "EAST OCEANSIDE",
-      "device": "EOS3-56",
-      "calltype": "PLAN",
+      "jobNumber": "917116",
+      "startTime": "Jun 12 at 11:43 AM",
+      "customerOut": 246,
+      "xCoord": -117.0327410142,
+      "yCoord": 32.9412734217,
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
+      "circuit": "920",
+      "estRestTimeType": "I",
+      "estRestTime": "Jun 12 at 03:00 PM",
+      "community": "S Poway/ S Ramona/ Iron Mountain/ Barona/ Lake Murray/ Mission Gorge/ Sycamore Canyon/ San Vicente/ Foster/ Moreno",
+      "district": "NE",
+      "substation": "POMERADO",
+      "device": "<inline_jumper.19251>",
+      "calltype": "OUT",
       "damage": "",
-      "switchplan": "260013",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
-    },
-    {
-      "jobNumber": "917087",
-      "startTime": "Jun 12 at 05:28 AM",
-      "customerOut": 22,
-      "xCoord": -117.3540461226,
-      "yCoord": 33.1975401004,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "EOS3",
-      "estRestTimeType": "F",
-      "estRestTime": "Jun 12 at 11:00 AM",
-      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
-      "district": "NC",
-      "substation": "EAST OCEANSIDE",
-      "device": "LBE.365448",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "260013",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 1
     },
     {
       "jobNumber": "914265",
@@ -66,8 +43,8 @@
       "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 2
+      "first": true,
+      "nid": 1
     },
     {
       "jobNumber": "915733",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "914208",
@@ -113,7 +90,76 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
+      "nid": 3
+    },
+    {
+      "jobNumber": "914209",
+      "startTime": "Jun 15 at 11:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2553033767,
+      "yCoord": 32.9805276422,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1081",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 15 at 01:00 PM",
+      "community": "North City West/ Torrey Pines/ Fairbanks Country Club",
+      "district": "NC",
+      "substation": "DEL MAR",
+      "device": "1081-350",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "251351",
+      "plannedoutagereason": "Transformer Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
       "nid": 4
+    },
+    {
+      "jobNumber": "914210",
+      "startTime": "Jun 15 at 01:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.2553033767,
+      "yCoord": 32.9805276422,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1081",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 15 at 03:00 PM",
+      "community": "North City West/ Torrey Pines/ Fairbanks Country Club",
+      "district": "NC",
+      "substation": "DEL MAR",
+      "device": "1081-461",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "248600",
+      "plannedoutagereason": "Transformer Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 5
+    },
+    {
+      "jobNumber": "911028",
+      "startTime": "Jun 15 at 12:00 PM",
+      "customerOut": 0,
+      "xCoord": -116.3537468873,
+      "yCoord": 32.6990039943,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1215",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 15 at 04:00 PM",
+      "community": "Live Oak Springs/ Boulevard/ Jacumba",
+      "district": "ME",
+      "substation": "CRESTWOOD",
+      "device": "1215-102",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "258458",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 6
     },
     {
       "jobNumber": "915452",
@@ -136,7 +182,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 7
     },
     {
       "jobNumber": "908805",
@@ -159,7 +205,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 8
     },
     {
       "jobNumber": "915098",
@@ -182,7 +228,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 9
     },
     {
       "jobNumber": "916349",
@@ -205,7 +251,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 10
     },
     {
       "jobNumber": "911012",
@@ -228,7 +274,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 9
+      "nid": 11
     },
     {
       "jobNumber": "914705",
@@ -251,7 +297,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 10
+      "nid": 12
     },
     {
       "jobNumber": "913672",
@@ -274,7 +320,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 11
+      "nid": 13
     },
     {
       "jobNumber": "914869",
@@ -297,7 +343,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 12
+      "nid": 14
     },
     {
       "jobNumber": "912648",
@@ -320,7 +366,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 13
+      "nid": 15
     },
     {
       "jobNumber": "913708",
@@ -343,7 +389,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 14
+      "nid": 16
     },
     {
       "jobNumber": "914458",
@@ -366,7 +412,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 15
+      "nid": 17
     },
     {
       "jobNumber": "914526",
@@ -389,7 +435,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 18
     },
     {
       "jobNumber": "914703",
@@ -412,7 +458,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 19
     },
     {
       "jobNumber": "914664",
@@ -435,7 +481,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 20
     },
     {
       "jobNumber": "914456",
@@ -458,7 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 21
     },
     {
       "jobNumber": "916139",
@@ -481,7 +527,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 22
     },
     {
       "jobNumber": "914524",
@@ -504,7 +550,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 23
     },
     {
       "jobNumber": "914704",
@@ -527,7 +573,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 24
     },
     {
       "jobNumber": "914201",
@@ -550,7 +596,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 23
+      "nid": 25
     },
     {
       "jobNumber": "914269",
@@ -573,7 +619,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 24
+      "nid": 26
     },
     {
       "jobNumber": "912439",
@@ -596,7 +642,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 27
     },
     {
       "jobNumber": "915017",
@@ -619,7 +665,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 28
     },
     {
       "jobNumber": "912344",
@@ -642,7 +688,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 27
+      "nid": 29
     },
     {
       "jobNumber": "914273",
@@ -665,7 +711,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 28
+      "nid": 30
     },
     {
       "jobNumber": "914379",
@@ -688,7 +734,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 29
+      "nid": 31
     },
     {
       "jobNumber": "910782",
@@ -711,7 +757,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 30
+      "nid": 32
     },
     {
       "jobNumber": "913695",
@@ -734,7 +780,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 31
+      "nid": 33
     },
     {
       "jobNumber": "914707",
@@ -757,7 +803,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 32
+      "nid": 34
     },
     {
       "jobNumber": "911159",
@@ -780,7 +826,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 33
+      "nid": 35
     },
     {
       "jobNumber": "914467",
@@ -803,7 +849,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 34
+      "nid": 36
     },
     {
       "jobNumber": "913736",
@@ -826,7 +872,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 35
+      "nid": 37
     },
     {
       "jobNumber": "913737",
@@ -849,7 +895,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 36
+      "nid": 38
     },
     {
       "jobNumber": "911024",
@@ -872,7 +918,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 37
+      "nid": 39
     },
     {
       "jobNumber": "909880",
@@ -895,7 +941,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 38
+      "nid": 40
     },
     {
       "jobNumber": "914275",
@@ -918,7 +964,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 39
+      "nid": 41
     },
     {
       "jobNumber": "909883",
@@ -941,7 +987,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 40
+      "nid": 42
     },
     {
       "jobNumber": "909881",
@@ -964,7 +1010,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 41
+      "nid": 43
     },
     {
       "jobNumber": "916486",
@@ -987,7 +1033,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 42
+      "nid": 44
     },
     {
       "jobNumber": "914870",
@@ -1010,7 +1056,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 43
+      "nid": 45
     },
     {
       "jobNumber": "911409",
@@ -1033,7 +1079,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 44
+      "nid": 46
     },
     {
       "jobNumber": "910736",
@@ -1056,7 +1102,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 45
+      "nid": 47
     },
     {
       "jobNumber": "912680",
@@ -1079,7 +1125,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 46
+      "nid": 48
     },
     {
       "jobNumber": "913111",
@@ -1102,7 +1148,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 47
+      "nid": 49
     },
     {
       "jobNumber": "909882",
@@ -1125,7 +1171,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 48
+      "nid": 50
     },
     {
       "jobNumber": "909605",
@@ -1148,7 +1194,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 49
+      "nid": 51
     },
     {
       "jobNumber": "911014",
@@ -1171,7 +1217,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 50
+      "nid": 52
     },
     {
       "jobNumber": "914956",
@@ -1194,7 +1240,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 51
+      "nid": 53
     },
     {
       "jobNumber": "912343",
@@ -1217,7 +1263,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 52
+      "nid": 54
     },
     {
       "jobNumber": "912345",
@@ -1240,7 +1286,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 53
+      "nid": 55
     },
     {
       "jobNumber": "914657",
@@ -1263,7 +1309,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 54
+      "nid": 56
     },
     {
       "jobNumber": "914380",
@@ -1286,7 +1332,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 55
+      "nid": 57
     },
     {
       "jobNumber": "914530",
@@ -1309,7 +1355,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 56
+      "nid": 58
     },
     {
       "jobNumber": "914914",
@@ -1332,7 +1378,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 57
+      "nid": 59
+    },
+    {
+      "jobNumber": "914665",
+      "startTime": "Jun 15 at 11:30 AM",
+      "customerOut": 0,
+      "xCoord": -117.6283515109,
+      "yCoord": 33.5497433431,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "981",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 15 at 03:30 PM",
+      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
+      "district": "OC",
+      "substation": "MARGARITA",
+      "device": "981-233",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "248540",
+      "plannedoutagereason": "Transformer Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 60
     },
     {
       "jobNumber": "914666",
@@ -1355,7 +1424,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 58
+      "nid": 61
     },
     {
       "jobNumber": "914917",
@@ -1378,7 +1447,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 59
+      "nid": 62
     },
     {
       "jobNumber": "916161",
@@ -1401,7 +1470,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 60
+      "nid": 63
     },
     {
       "jobNumber": "913384",
@@ -1424,7 +1493,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 61
+      "nid": 64
+    },
+    {
+      "jobNumber": "913659",
+      "startTime": "Jun 15 at 10:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2536286058,
+      "yCoord": 33.369443447,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "FB2",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 15 at 02:00 PM",
+      "community": "Fallbrook",
+      "district": "NE",
+      "substation": "FALLBROOK 2",
+      "device": "FB2-564",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "259760",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 65
     },
     {
       "jobNumber": "913128",
@@ -1447,7 +1539,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 62
+      "nid": 66
     },
     {
       "jobNumber": "914197",
@@ -1470,7 +1562,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 63
+      "nid": 67
     },
     {
       "jobNumber": "912621",
@@ -1493,8 +1585,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 64
+      "nid": 68
     }
   ],
-  "last_updated": "Jun 12 at 09:55 AM"
+  "last_updated": "Jun 12 at 01:40 PM"
 }
