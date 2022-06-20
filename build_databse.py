@@ -12,7 +12,7 @@ def iterate_file_versions(repo_path, filepath, ref="master"):
         blob = [b for b in commit.tree.blobs if b.name == filepath][0]
         yield commit.committed_datetime, commit.hexsha, blob.data_stream.read()
 
-
+"""
 def create_tables(db):
     db["snapshots"].create(
         {
@@ -116,6 +116,7 @@ def save_outage(db, outage, when, hash):
             ),
         }
     )
+"""
 
 
 if __name__ == "__main__":
