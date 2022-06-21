@@ -8,4 +8,4 @@ The scape.yml file is from [Simon Willison's code here](https://github.com/simon
 
 SDGE JSON data pulled from: [Outage Map](https://www.sdge.com/residential/customer-service/outage-center/outage-map-locations-json 'scrape.yml').
 
-Future ToDo: [Graph Map Coords](https://twitter.com/simonw/status/1188612640651661312?s=20&t=DuF6xgum6JauRPpgEu_nFw)
+Future ToDo: [Graph Map Coords with KepplerGl](https://twitter.com/simonw/status/1188612640651661312?s=20&t=DuF6xgum6JauRPpgEu_nFw)
