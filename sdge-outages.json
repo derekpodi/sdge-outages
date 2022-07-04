@@ -24,29 +24,6 @@
       "nid": 0
     },
     {
-      "jobNumber": "922889",
-      "startTime": "Jul 01 at 03:11 PM",
-      "customerOut": 1,
-      "xCoord": -117.0184193593,
-      "yCoord": 33.2306920849,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "908",
-      "estRestTimeType": "F",
-      "estRestTime": "Jul 02 at 12:00 AM",
-      "community": "Valley Center/ Rincon/ Pauma Valley",
-      "district": "NE",
-      "substation": "VALLEY CENTER",
-      "device": "908-122",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "262973",
-      "plannedoutagereason": "Unselected",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 1
-    },
-    {
       "jobNumber": "919969",
       "startTime": "Jul 05 at 10:00 PM",
       "customerOut": 0,
@@ -66,8 +43,8 @@
       "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 2
+      "first": true,
+      "nid": 1
     },
     {
       "jobNumber": "919980",
@@ -87,6 +64,29 @@
       "damage": "",
       "switchplan": "262282",
       "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 2
+    },
+    {
+      "jobNumber": "919283",
+      "startTime": "Jul 07 at 01:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2502762454,
+      "yCoord": 33.1011680795,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1118",
+      "estRestTimeType": "F",
+      "estRestTime": "Jul 07 at 06:00 AM",
+      "community": "Carlsbad/ La Costa",
+      "district": "NC",
+      "substation": "BATIQUITOS",
+      "device": "1118-654",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "262155",
+      "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1174,5 +1174,5 @@
       "nid": 50
     }
   ],
-  "last_updated": "Jul 03 at 10:15 PM"
+  "last_updated": "Jul 04 at 01:50 AM"
 }
