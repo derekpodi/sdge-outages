@@ -1,50 +1,27 @@
 {
   "locations": [
     {
-      "jobNumber": "925918",
-      "startTime": "Jul 16 at 12:04 AM",
+      "jobNumber": "925928",
+      "startTime": "Jul 16 at 02:42 AM",
       "customerOut": 2,
-      "xCoord": -117.5908063477,
-      "yCoord": 33.409347718,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "204",
-      "estRestTimeType": "F",
-      "estRestTime": "Jul 16 at 03:00 AM",
-      "community": "San Clemente/ Talega",
-      "district": "OC",
-      "substation": "SAN MATEO",
-      "device": "F2479992",
-      "calltype": "PLAN",
+      "xCoord": -117.1986295308,
+      "yCoord": 33.0142531924,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "307",
+      "estRestTimeType": "I",
+      "estRestTime": "Jul 16 at 08:00 AM",
+      "community": "NW Rancho Santa Fe/ San Elijo Lagoon",
+      "district": "NC",
+      "substation": "RANCHO SANTA FE",
+      "device": "F401871",
+      "calltype": "OUT",
       "damage": "",
-      "switchplan": "262429",
-      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
-    },
-    {
-      "jobNumber": "925907",
-      "startTime": "Jul 15 at 10:34 PM",
-      "customerOut": 45,
-      "xCoord": -117.0915525521,
-      "yCoord": 32.6580448942,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "42",
-      "estRestTimeType": "F",
-      "estRestTime": "Jul 16 at 06:00 AM",
-      "community": "National City",
-      "district": "CM",
-      "substation": "SWEETWATER",
-      "device": "<inline_jumper.19263>",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "256410",
-      "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 1
     },
     {
       "jobNumber": "925908",
@@ -66,8 +43,8 @@
       "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 2
+      "first": true,
+      "nid": 1
     },
     {
       "jobNumber": "925915",
@@ -78,7 +55,7 @@
       "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
       "circuit": "921",
       "estRestTimeType": "F",
-      "estRestTime": "Jul 16 at 05:00 AM",
+      "estRestTime": "Jul 16 at 07:00 AM",
       "community": "S Poway",
       "district": "NE",
       "substation": "POMERADO",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "925908",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "919684",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "jobNumber": "925817",
@@ -156,6 +133,29 @@
       "damage": "",
       "switchplan": "262736",
       "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 5
+    },
+    {
+      "jobNumber": "922750",
+      "startTime": "Jul 19 at 02:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.1926575208,
+      "yCoord": 32.7659339203,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "107",
+      "estRestTimeType": "F",
+      "estRestTime": "Jul 19 at 06:00 AM",
+      "community": "Clairemont/ Bay Park/ Morena",
+      "district": "BC",
+      "substation": "OLD TOWN",
+      "device": "107-10",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "261268",
+      "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1289,5 +1289,5 @@
       "nid": 55
     }
   ],
-  "last_updated": "Jul 16 at 01:45 AM"
+  "last_updated": "Jul 16 at 06:00 AM"
 }
