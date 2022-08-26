@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "935516",
-      "startTime": "Aug 25 at 10:23 PM",
-      "customerOut": 35,
+      "jobNumber": "935536",
+      "startTime": "Aug 25 at 11:17 PM",
+      "customerOut": 295,
       "xCoord": -117.2355757275,
       "yCoord": 33.3289418185,
       "cause": "SDG&E is assessing the outage to determine the cause.",
       "circuit": "233",
-      "estRestTimeType": "I",
-      "estRestTime": "Aug 26 at 02:00 AM",
-      "community": "Bonsall/ Camino Del Rey Downs/ Gopher Canyon",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 26 at 08:00 AM",
+      "community": "Bonsall/ Camino Del Rey Downs/ Gopher Canyon/ Gopher Canyon",
       "district": "NE",
       "substation": "MONSERATE",
-      "device": "F2384244",
+      "device": "233-1064",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "935537",
+      "startTime": "Aug 25 at 11:17 PM",
+      "customerOut": 4,
+      "xCoord": -117.2355757275,
+      "yCoord": 33.3289418185,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "233",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 26 at 08:00 AM",
+      "community": "Bonsall/ Camino Del Rey Downs/ Gopher Canyon",
+      "district": "NE",
+      "substation": "MONSERATE",
+      "device": "<inline_jumper.19730>",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "935497",
@@ -44,29 +67,6 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
-    },
-    {
-      "jobNumber": "935512",
-      "startTime": "Aug 25 at 10:02 PM",
-      "customerOut": 242,
-      "xCoord": -117.1262145703,
-      "yCoord": 32.755009717,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "362",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 26 at 04:00 AM",
-      "community": "University Heights/ North Park/ Normal Heights",
-      "district": "CM",
-      "substation": "STATION F",
-      "device": "362-40F",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "265839",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
       "nid": 2
     },
     {
@@ -852,5 +852,5 @@
       "nid": 36
     }
   ],
-  "last_updated": "Aug 25 at 10:45 PM"
+  "last_updated": "Aug 26 at 01:50 AM"
 }
