@@ -1,6 +1,52 @@
 {
   "locations": [
     {
+      "jobNumber": "936068",
+      "startTime": "Aug 27 at 10:21 PM",
+      "customerOut": 3,
+      "xCoord": -117.0858644051,
+      "yCoord": 33.2532550337,
+      "cause": "The cause of the outage is being investigated.",
+      "circuit": "1023",
+      "estRestTimeType": "I",
+      "estRestTime": "Aug 28 at 04:30 AM",
+      "community": "Bonsall/ Camino Del Rey Downs/ Gopher Canyon",
+      "district": "NE",
+      "substation": "LILAC",
+      "device": "F587975",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "jobNumber": "936076",
+      "startTime": "Aug 28 at 01:07 AM",
+      "customerOut": 57,
+      "xCoord": -116.3480609268,
+      "yCoord": 33.2708583382,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "171",
+      "estRestTimeType": "I",
+      "estRestTime": "Aug 28 at 04:30 AM",
+      "community": "Borrego Springs/ Shelter Valley/ Canebrake",
+      "district": "RA",
+      "substation": "BORREGO",
+      "device": "F2181615",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
       "jobNumber": "936050",
       "startTime": "Aug 27 at 05:18 PM",
       "customerOut": 5,
@@ -21,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 0
+      "nid": 2
     },
     {
       "jobNumber": "936053",
@@ -41,52 +87,6 @@
       "damage": "",
       "switchplan": "265199",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "jobNumber": "936066",
-      "startTime": "Aug 27 at 10:02 PM",
-      "customerOut": 7,
-      "xCoord": -117.1926565407,
-      "yCoord": 32.7659321429,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "493",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 28 at 02:00 AM",
-      "community": "Clairemont/ Bay Park/ Morena",
-      "district": "BC",
-      "substation": "OLD TOWN",
-      "device": "493-21",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "265475",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 2
-    },
-    {
-      "jobNumber": "936067",
-      "startTime": "Aug 27 at 10:04 PM",
-      "customerOut": 4,
-      "xCoord": -117.1926565407,
-      "yCoord": 32.7659321429,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "493",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 28 at 02:00 AM",
-      "community": "Clairemont/ Bay Park/ Morena",
-      "district": "BC",
-      "substation": "OLD TOWN",
-      "device": "493-41",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "265475",
-      "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
@@ -714,6 +714,29 @@
       "nid": 30
     },
     {
+      "jobNumber": "931863",
+      "startTime": "Aug 30 at 11:00 PM",
+      "customerOut": 0,
+      "xCoord": -116.9724359065,
+      "yCoord": 32.7953948574,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "72",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 31 at 05:00 AM",
+      "community": "El Cajon",
+      "district": "EA",
+      "substation": "EL CAJON",
+      "device": "#2 PECN CU ABC 46530.0",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "228792",
+      "plannedoutagereason": "Cable Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 31
+    },
+    {
       "jobNumber": "933027",
       "startTime": "Aug 30 at 03:30 PM",
       "customerOut": 0,
@@ -734,7 +757,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 31
+      "nid": 32
     },
     {
       "jobNumber": "933031",
@@ -757,7 +780,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 32
+      "nid": 33
     },
     {
       "jobNumber": "931708",
@@ -780,7 +803,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 33
+      "nid": 34
     },
     {
       "jobNumber": "932916",
@@ -803,7 +826,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 34
+      "nid": 35
     },
     {
       "jobNumber": "932931",
@@ -826,7 +849,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 35
+      "nid": 36
     },
     {
       "jobNumber": "932727",
@@ -849,7 +872,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 36
+      "nid": 37
     },
     {
       "jobNumber": "935610",
@@ -872,7 +895,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 37
+      "nid": 38
     },
     {
       "jobNumber": "934368",
@@ -895,7 +918,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 38
+      "nid": 39
     },
     {
       "jobNumber": "934699",
@@ -918,7 +941,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 39
+      "nid": 40
+    },
+    {
+      "jobNumber": "931905",
+      "startTime": "Aug 30 at 10:30 PM",
+      "customerOut": 0,
+      "xCoord": -117.1104470091,
+      "yCoord": 32.7304108936,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "WA1",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 31 at 03:30 AM",
+      "community": "City Heights/ Chollas Creek/ Oak Park",
+      "district": "CM",
+      "substation": "WABASH 1",
+      "device": "WA1-92CF",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "264046",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 41
     },
     {
       "jobNumber": "929649",
@@ -941,8 +987,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 40
+      "nid": 42
     }
   ],
-  "last_updated": "Aug 27 at 10:15 PM"
+  "last_updated": "Aug 28 at 01:50 AM"
 }
