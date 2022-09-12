@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "941758",
+      "jobNumber": "941767",
       "startTime": "Sep 11 at 11:52 AM",
-      "customerOut": 35,
+      "customerOut": 8,
       "xCoord": -116.9585663643,
       "yCoord": 33.2858149592,
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "214",
       "estRestTimeType": "F",
-      "estRestTime": "Sep 11 at 03:30 PM",
+      "estRestTime": "Sep 12 at 12:00 PM",
       "community": "Palomar Mountain/ Lake Henshaw",
       "district": "NE",
       "substation": "RINCON",
-      "device": "214-4R",
+      "device": "<inline_jumper.19816>",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -22,29 +22,6 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
-    },
-    {
-      "jobNumber": "941764",
-      "startTime": "Sep 11 at 12:59 PM",
-      "customerOut": 447,
-      "xCoord": -117.0028191967,
-      "yCoord": 32.7392547988,
-      "cause": "The cause of the outage is being investigated.",
-      "circuit": "733",
-      "estRestTimeType": "",
-      "estRestTime": "",
-      "community": "La Mesa",
-      "district": "EA",
-      "substation": "SPRING VALLEY",
-      "device": "F157651",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
     },
     {
       "jobNumber": "935676",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "937154",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "937157",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "936315",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "jobNumber": "936834",
@@ -156,6 +133,29 @@
       "damage": "",
       "switchplan": "253301",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 5
+    },
+    {
+      "jobNumber": "940507",
+      "startTime": "Sep 14 at 06:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.137572149,
+      "yCoord": 32.7842172337,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "144",
+      "estRestTimeType": "F",
+      "estRestTime": "Sep 14 at 09:00 PM",
+      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
+      "district": "BC",
+      "substation": "MISSION",
+      "device": "144-T2-274",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "266827",
+      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1473,5 +1473,5 @@
       "nid": 63
     }
   ],
-  "last_updated": "Sep 11 at 01:50 PM"
+  "last_updated": "Sep 11 at 08:30 PM"
 }
