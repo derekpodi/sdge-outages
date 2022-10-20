@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "950999",
-      "startTime": "Oct 19 at 10:03 PM",
-      "customerOut": 135,
-      "xCoord": -117.0858485728,
-      "yCoord": 33.2532687803,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "1022",
-      "estRestTimeType": "F",
-      "estRestTime": "Oct 20 at 03:00 AM",
-      "community": "Valley Center/ Lilac",
-      "district": "NE",
-      "substation": "LILAC",
-      "device": "1022-15",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "269339",
-      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "947724",
       "startTime": "Oct 21 at 10:00 PM",
       "customerOut": 0,
@@ -43,8 +20,8 @@
       "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
       "jobNumber": "947725",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "947853",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "949452",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "947074",
@@ -133,6 +110,29 @@
       "damage": "",
       "switchplan": "269775",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 4
+    },
+    {
+      "jobNumber": "947986",
+      "startTime": "Oct 23 at 02:30 AM",
+      "customerOut": 0,
+      "xCoord": -117.6284028867,
+      "yCoord": 33.5497431058,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1259",
+      "estRestTimeType": "F",
+      "estRestTime": "Oct 23 at 04:30 AM",
+      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
+      "district": "OC",
+      "substation": "MARGARITA",
+      "device": "1259-78",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "264482",
+      "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1128,5 +1128,5 @@
       "nid": 48
     }
   ],
-  "last_updated": "Oct 20 at 02:00 AM"
+  "last_updated": "Oct 20 at 06:35 AM"
 }
