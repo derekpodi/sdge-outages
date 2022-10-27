@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "952730",
-      "startTime": "Oct 26 at 05:24 PM",
-      "customerOut": 3,
-      "xCoord": -117.0858643979,
-      "yCoord": 33.2532586264,
-      "cause": "A vehicle accident has caused an outage.",
-      "circuit": "1021",
-      "estRestTimeType": "I",
-      "estRestTime": "Oct 26 at 11:30 PM",
-      "community": "Valley Center/ Lilac",
-      "district": "NE",
-      "substation": "LILAC",
-      "device": "LBE.352744",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "952433",
       "startTime": "Oct 24 at 09:59 AM",
       "customerOut": 13,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "jobNumber": "951847",
@@ -63,6 +40,29 @@
       "calltype": "PLAN",
       "damage": "",
       "switchplan": "266304",
+      "plannedoutagereason": "System Reliability",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
+      "jobNumber": "952749",
+      "startTime": "Oct 26 at 10:06 PM",
+      "customerOut": 56,
+      "xCoord": -117.1572287616,
+      "yCoord": 32.8296908123,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "771",
+      "estRestTimeType": "F",
+      "estRestTime": "Oct 27 at 04:00 AM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "MESA HEIGHTS",
+      "device": "771-374",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "269183",
       "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
@@ -719,7 +719,7 @@
       "customerOut": 0,
       "xCoord": -117.0972937187,
       "yCoord": 32.5833534154,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "circuit": "532",
       "estRestTimeType": "F",
       "estRestTime": "Oct 27 at 04:00 AM",
@@ -852,29 +852,6 @@
       "nid": 36
     },
     {
-      "jobNumber": "947468",
-      "startTime": "Oct 26 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.1572287616,
-      "yCoord": 32.8296908123,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "771",
-      "estRestTimeType": "F",
-      "estRestTime": "Oct 27 at 04:00 AM",
-      "community": "Clairemont/ Kearny Mesa",
-      "district": "BC",
-      "substation": "MESA HEIGHTS",
-      "device": "1000 XLPECN-PEJ AL ABC 34441.0",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "269183",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 37
-    },
-    {
       "jobNumber": "945907",
       "startTime": "Oct 27 at 08:00 AM",
       "customerOut": 0,
@@ -895,7 +872,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 38
+      "nid": 37
     },
     {
       "jobNumber": "951967",
@@ -918,7 +895,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 39
+      "nid": 38
     },
     {
       "jobNumber": "950629",
@@ -941,7 +918,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 40
+      "nid": 39
     },
     {
       "jobNumber": "950390",
@@ -964,7 +941,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 41
+      "nid": 40
     },
     {
       "jobNumber": "949404",
@@ -987,7 +964,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 42
+      "nid": 41
     },
     {
       "jobNumber": "948992",
@@ -1010,7 +987,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 43
+      "nid": 42
     },
     {
       "jobNumber": "951309",
@@ -1033,7 +1010,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 44
+      "nid": 43
     },
     {
       "jobNumber": "951310",
@@ -1056,7 +1033,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 45
+      "nid": 44
     },
     {
       "jobNumber": "948245",
@@ -1079,8 +1056,31 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
+      "nid": 45
+    },
+    {
+      "jobNumber": "949430",
+      "startTime": "Oct 29 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.1926527041,
+      "yCoord": 32.7463429454,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "WY3",
+      "estRestTimeType": "F",
+      "estRestTime": "Oct 30 at 06:00 AM",
+      "community": "Ocean Beach/ Midway/ Lindbergh Field",
+      "district": "BC",
+      "substation": "WITHERBY",
+      "device": "#4 B.STRD ABC 105299.1",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "268063",
+      "plannedoutagereason": "System Reliability",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
       "nid": 46
     }
   ],
-  "last_updated": "Oct 26 at 07:55 PM"
+  "last_updated": "Oct 26 at 10:10 PM"
 }
