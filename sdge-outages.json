@@ -1,6 +1,52 @@
 {
   "locations": [
     {
+      "jobNumber": "953011",
+      "startTime": "Oct 28 at 12:12 AM",
+      "customerOut": 104,
+      "xCoord": -117.1343944299,
+      "yCoord": 33.0213591041,
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
+      "circuit": "1104",
+      "estRestTimeType": "F",
+      "estRestTime": "Oct 28 at 03:30 AM",
+      "community": "Rancho Penasquitos/ Rancho Bernardo/ San Pasqual/ W Bernardo/ Del Dios/ Lake Hodges",
+      "district": "NE",
+      "substation": "ARTESIAN RANCH",
+      "device": "1104-3",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "jobNumber": "953001",
+      "startTime": "Oct 27 at 11:03 PM",
+      "customerOut": 136,
+      "xCoord": -117.6658837238,
+      "yCoord": 33.5126113876,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "197",
+      "estRestTimeType": "F",
+      "estRestTime": "Oct 28 at 05:00 AM",
+      "community": "San Juan Capistrano",
+      "district": "OC",
+      "substation": "SAN JUAN CAPISTRANO",
+      "device": "LBE.417298",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "267151",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 1
+    },
+    {
       "jobNumber": "952998",
       "startTime": "Oct 27 at 10:09 PM",
       "customerOut": 993,
@@ -20,8 +66,8 @@
       "plannedoutagereason": "Cable Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 2
     },
     {
       "jobNumber": "952996",
@@ -44,30 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 1
-    },
-    {
-      "jobNumber": "952995",
-      "startTime": "Oct 27 at 09:59 PM",
-      "customerOut": 1,
-      "xCoord": -117.2387906831,
-      "yCoord": 33.141491505,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "856",
-      "estRestTimeType": "F",
-      "estRestTime": "Oct 28 at 12:00 AM",
-      "community": "S Vista",
-      "district": "NC",
-      "substation": "SHADOWRIDGE",
-      "device": "856-1119",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "271613",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "948952",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "950597",
@@ -113,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "jobNumber": "946410",
@@ -136,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 6
     },
     {
       "jobNumber": "949006",
@@ -156,29 +179,6 @@
       "damage": "",
       "switchplan": "265775",
       "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 6
-    },
-    {
-      "jobNumber": "947323",
-      "startTime": "Oct 27 at 11:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.6658837238,
-      "yCoord": 33.5126113876,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "197",
-      "estRestTimeType": "F",
-      "estRestTime": "Oct 28 at 05:00 AM",
-      "community": "San Juan Capistrano",
-      "district": "OC",
-      "substation": "SAN JUAN CAPISTRANO",
-      "device": "LBE.405149",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "267151",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -645,5 +645,5 @@
       "nid": 27
     }
   ],
-  "last_updated": "Oct 27 at 10:15 PM"
+  "last_updated": "Oct 28 at 01:55 AM"
 }
