@@ -1,8 +1,31 @@
 {
   "locations": [
     {
+      "jobNumber": "955197",
+      "startTime": "Nov 05 at 11:45 PM",
+      "customerOut": 325,
+      "xCoord": -116.9683308543,
+      "yCoord": 32.8545350683,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "1138",
+      "estRestTimeType": "F",
+      "estRestTime": "Nov 06 at 07:00 AM",
+      "community": "Santee/ Carlton Hills",
+      "district": "EA",
+      "substation": "SANTEE",
+      "device": "<inline_jumper.20104>",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "256246",
+      "plannedoutagereason": "System Reliability",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "955193",
-      "startTime": "Nov 05 at 09:40 PM",
+      "startTime": "Nov 05 at 10:56 PM",
       "customerOut": 5,
       "xCoord": -117.196901447,
       "yCoord": 33.1287944846,
@@ -20,8 +43,8 @@
       "plannedoutagereason": "Cable Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "955194",
@@ -43,29 +66,6 @@
       "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "jobNumber": "952928",
-      "startTime": "Nov 05 at 10:30 PM",
-      "customerOut": 0,
-      "xCoord": -116.9683308543,
-      "yCoord": 32.8545350683,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1138",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 06 at 07:00 AM",
-      "community": "Santee/ Carlton Hills",
-      "district": "EA",
-      "substation": "SANTEE",
-      "device": "336.4 ACSR ABC 92235.0",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "256246",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
       "nid": 2
     },
@@ -1013,5 +1013,5 @@
       "nid": 43
     }
   ],
-  "last_updated": "Nov 05 at 09:50 PM"
+  "last_updated": "Nov 06 at 12:55 AM"
 }
