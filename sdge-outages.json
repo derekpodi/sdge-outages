@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "960115",
+      "startTime": "Nov 23 at 07:53 AM",
+      "customerOut": 4,
+      "xCoord": -117.116906746,
+      "yCoord": 33.1254845757,
+      "cause": "A third party affected SDG&E equipment.",
+      "circuit": "188",
+      "estRestTimeType": "I",
+      "estRestTime": "Nov 23 at 02:00 PM",
+      "community": "Escondido",
+      "district": "NE",
+      "substation": "ESCONDIDO",
+      "device": "LBE.272771",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "960021",
       "startTime": "Nov 22 at 11:17 PM",
       "customerOut": 6,
@@ -20,8 +43,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "959386",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "956588",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "956833",
@@ -75,7 +98,7 @@
       "customerOut": 0,
       "xCoord": -117.2368274697,
       "yCoord": 33.3846297424,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "circuit": "520",
       "estRestTimeType": "F",
       "estRestTime": "Nov 23 at 02:00 PM",
@@ -90,8 +113,31 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
+    },
+    {
+      "jobNumber": "956256",
+      "startTime": "Nov 26 at 06:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.1572287657,
+      "yCoord": 32.829693145,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "770",
+      "estRestTimeType": "F",
+      "estRestTime": "Nov 26 at 03:00 PM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "MESA HEIGHTS",
+      "device": "770-215",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "271790",
+      "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 5
     }
   ],
-  "last_updated": "Nov 23 at 05:05 AM"
+  "last_updated": "Nov 23 at 08:50 AM"
 }
