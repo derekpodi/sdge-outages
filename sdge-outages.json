@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "960435",
-      "startTime": "Nov 24 at 10:05 AM",
-      "customerOut": 59,
-      "xCoord": -116.4881462186,
-      "yCoord": 32.6532155467,
-      "cause": "A foreign object contacted the power lines.",
-      "circuit": "449",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 24 at 08:00 PM",
-      "community": "Dulzura/ Potrero/ Campo",
-      "district": "ME",
-      "substation": "CAMERON",
-      "device": "<inline_jumper.20307>",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "960430",
       "startTime": "Nov 24 at 12:05 PM",
       "customerOut": 38,
@@ -32,7 +9,7 @@
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "222",
       "estRestTimeType": "F",
-      "estRestTime": "Nov 24 at 07:00 PM",
+      "estRestTime": "Nov 25 at 03:00 AM",
       "community": "Julian/ Santa Ysabel/ Morettis",
       "district": "RA",
       "substation": "SANTA YSABEL",
@@ -43,23 +20,46 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
-      "jobNumber": "960395",
+      "jobNumber": "960447",
       "startTime": "Nov 24 at 12:34 PM",
-      "customerOut": 324,
+      "customerOut": 256,
       "xCoord": -116.8529158115,
       "yCoord": 33.0179419987,
       "cause": "SDG&E is assessing the outage to determine the cause.",
       "circuit": "237",
       "estRestTimeType": "F",
-      "estRestTime": "Nov 24 at 08:00 PM",
+      "estRestTime": "Nov 25 at 12:00 AM",
       "community": "E Ramona",
       "district": "RA",
       "substation": "CREELMAN",
-      "device": "237-30R",
+      "device": "237-10",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
+      "jobNumber": "960457",
+      "startTime": "Nov 24 at 08:20 PM",
+      "customerOut": 13,
+      "xCoord": -116.4982913449,
+      "yCoord": 32.7983556017,
+      "cause": "A tree has contacted SDG&E equipment.",
+      "circuit": "442",
+      "estRestTimeType": "I",
+      "estRestTime": "Nov 25 at 12:00 AM",
+      "community": "Japatul Valley/ Buckman Springs/ Morena Village",
+      "district": "ME",
+      "substation": "GLENCLIFF",
+      "device": "F2136848",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -116,5 +116,5 @@
       "nid": 4
     }
   ],
-  "last_updated": "Nov 24 at 06:15 PM"
+  "last_updated": "Nov 24 at 08:45 PM"
 }
