@@ -1,25 +1,25 @@
 {
   "locations": [
     {
-      "jobNumber": "962274",
-      "startTime": "Dec 03 at 12:12 PM",
-      "customerOut": 49,
-      "xCoord": -117.2205549345,
-      "yCoord": 32.9585942085,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "830",
+      "jobNumber": "962346",
+      "startTime": "Dec 03 at 08:36 PM",
+      "customerOut": 253,
+      "xCoord": -117.1126185358,
+      "yCoord": 32.9111404003,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "726",
       "estRestTimeType": "F",
-      "estRestTime": "Dec 03 at 08:00 PM",
-      "community": "North City West/ Torrey Pines/ Fairbanks Country Club",
-      "district": "NC",
-      "substation": "NORTH CITY WEST",
-      "device": "LBE.119076",
-      "calltype": "PLAN",
+      "estRestTime": "Dec 04 at 08:00 AM",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
+      "district": "BC",
+      "substation": "SCRIPPS",
+      "device": "726-32",
+      "calltype": "OUT",
       "damage": "",
-      "switchplan": "272440",
-      "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
     },
@@ -43,7 +43,7 @@
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
+      "first": true,
       "nid": 1
     },
     {
@@ -1013,6 +1013,29 @@
       "nid": 43
     },
     {
+      "jobNumber": "957749",
+      "startTime": "Dec 06 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.274247742,
+      "yCoord": 32.8396260539,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "LJ4",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 07 at 06:00 AM",
+      "community": "La Jolla/ La Jolla Shores/ Soledad Mountain",
+      "district": "BC",
+      "substation": "LA JOLLA 4",
+      "device": "LJ4-28",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "259645",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 44
+    },
+    {
       "jobNumber": "961465",
       "startTime": "Dec 05 at 08:00 AM",
       "customerOut": 0,
@@ -1033,7 +1056,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 44
+      "nid": 45
     },
     {
       "jobNumber": "960944",
@@ -1056,7 +1079,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 45
+      "nid": 46
     },
     {
       "jobNumber": "958447",
@@ -1079,8 +1102,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 46
+      "nid": 47
     }
   ],
-  "last_updated": "Dec 03 at 06:05 PM"
+  "last_updated": "Dec 04 at 12:40 AM"
 }
