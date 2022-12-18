@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "966061",
-      "startTime": "Dec 18 at 12:06 AM",
-      "customerOut": 237,
-      "xCoord": -117.6658837557,
-      "yCoord": 33.5126148419,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "196",
-      "estRestTimeType": "F",
-      "estRestTime": "Dec 18 at 04:30 AM",
-      "community": "San Juan Capistrano",
-      "district": "OC",
-      "substation": "SAN JUAN CAPISTRANO",
-      "device": "196-1045",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "273548",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "964329",
       "startTime": "Dec 19 at 08:30 AM",
       "customerOut": 0,
@@ -43,8 +20,8 @@
       "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
       "jobNumber": "964645",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "962880",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "963468",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "963780",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "jobNumber": "962995",
@@ -159,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 5
     },
     {
       "jobNumber": "959356",
@@ -179,6 +156,29 @@
       "damage": "",
       "switchplan": "273097",
       "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 6
+    },
+    {
+      "jobNumber": "963156",
+      "startTime": "Dec 18 at 12:01 AM",
+      "customerOut": 0,
+      "xCoord": -117.6658837557,
+      "yCoord": 33.5126148419,
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
+      "circuit": "196",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 18 at 06:30 AM",
+      "community": "San Juan Capistrano",
+      "district": "OC",
+      "substation": "SAN JUAN CAPISTRANO",
+      "device": "DBE.418707",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "273548",
+      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -990,5 +990,5 @@
       "nid": 42
     }
   ],
-  "last_updated": "Dec 18 at 12:40 AM"
+  "last_updated": "Dec 18 at 04:55 AM"
 }
