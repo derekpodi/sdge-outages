@@ -1,6 +1,52 @@
 {
   "locations": [
     {
+      "jobNumber": "967416",
+      "startTime": "Dec 24 at 12:28 AM",
+      "customerOut": 14,
+      "xCoord": -117.3345200996,
+      "yCoord": 33.2115320628,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "498",
+      "estRestTimeType": "I",
+      "estRestTime": "Dec 24 at 06:00 AM",
+      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
+      "district": "NC",
+      "substation": "SAN LUIS REY",
+      "device": "F615683",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "jobNumber": "966899",
+      "startTime": "Dec 27 at 04:30 AM",
+      "customerOut": 0,
+      "xCoord": -117.1839893559,
+      "yCoord": 32.8259599207,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "274",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 27 at 05:30 AM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "CLAIREMONT",
+      "device": "274-298",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "274026",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": true,
+      "nid": 1
+    },
+    {
       "jobNumber": "966251",
       "startTime": "Dec 26 at 08:00 AM",
       "customerOut": 0,
@@ -20,9 +66,9 @@
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 2
     }
   ],
-  "last_updated": "Dec 24 at 12:40 AM"
+  "last_updated": "Dec 24 at 04:55 AM"
 }
