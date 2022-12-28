@@ -10,4 +10,4 @@ SDGE JSON data pulled from: [Outage Map](https://www.sdge.com/residential/custom
 
 Future ToDo: [Graph Map Coords with KepplerGl](https://twitter.com/simonw/status/1188612640651661312?s=20&t=DuF6xgum6JauRPpgEu_nFw)
 
-NOTE: The /Workflows/scrape.yml file contains the daemon to control scrape time. It runs every 4 hours on the 37th minute.
+NOTE: The scrape.yml file contains the daemon to control scrape time. It runs every 4 hours on the 37th minute.
