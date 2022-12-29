@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "968156",
+      "startTime": "Dec 28 at 07:40 PM",
+      "customerOut": 3,
+      "xCoord": -117.1616648265,
+      "yCoord": 32.7196581026,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "C14",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 29 at 03:00 AM",
+      "community": "Center City/ Balboa Park/ Golden Hills",
+      "district": "CM",
+      "substation": "STATION C 14",
+      "device": "C14-43S",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "273607",
+      "plannedoutagereason": "Transformer Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "965687",
       "startTime": "Dec 29 at 07:30 AM",
       "customerOut": 0,
@@ -20,8 +43,8 @@
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "964298",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "964600",
@@ -64,29 +87,6 @@
       "damage": "",
       "switchplan": "271514",
       "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 2
-    },
-    {
-      "jobNumber": "967812",
-      "startTime": "Dec 29 at 12:01 AM",
-      "customerOut": 0,
-      "xCoord": -117.1695492446,
-      "yCoord": 32.7141241599,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "121",
-      "estRestTimeType": "F",
-      "estRestTime": "Dec 29 at 03:00 AM",
-      "community": "Center City/ Balboa Park/ Golden Hills",
-      "district": "CM",
-      "substation": "STATION B",
-      "device": "LBE.4166060",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "273607",
-      "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -714,5 +714,5 @@
       "nid": 30
     }
   ],
-  "last_updated": "Dec 28 at 06:00 PM"
+  "last_updated": "Dec 28 at 08:40 PM"
 }
