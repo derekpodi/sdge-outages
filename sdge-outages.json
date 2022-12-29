@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "968164",
+      "startTime": "Dec 28 at 10:02 PM",
+      "customerOut": 62,
+      "xCoord": -117.3818196336,
+      "yCoord": 33.1968222401,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "1076",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 29 at 04:00 AM",
+      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
+      "district": "NC",
+      "substation": "OCEANSIDE",
+      "device": "1076-30",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "271885",
+      "plannedoutagereason": "System Reliability",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "968156",
       "startTime": "Dec 28 at 07:40 PM",
       "customerOut": 3,
@@ -20,8 +43,8 @@
       "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "965687",
@@ -41,29 +64,6 @@
       "damage": "",
       "switchplan": "251049",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "jobNumber": "964298",
-      "startTime": "Dec 28 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.3818196336,
-      "yCoord": 33.1968222401,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1076",
-      "estRestTimeType": "F",
-      "estRestTime": "Dec 29 at 04:00 AM",
-      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
-      "district": "NC",
-      "substation": "OCEANSIDE",
-      "device": "1076-695",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "271885",
-      "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -714,5 +714,5 @@
       "nid": 30
     }
   ],
-  "last_updated": "Dec 28 at 08:40 PM"
+  "last_updated": "Dec 29 at 12:40 AM"
 }
