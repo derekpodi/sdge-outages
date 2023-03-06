@@ -9,7 +9,7 @@
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "156",
       "estRestTimeType": "I",
-      "estRestTime": "Mar 05 at 06:30 PM",
+      "estRestTime": "Mar 05 at 08:30 PM",
       "community": "Nestor/ San Ysidro/ Otay Mesa",
       "district": "CM",
       "substation": "IMPERIAL BEACH",
@@ -24,15 +24,38 @@
       "nid": 0
     },
     {
+      "jobNumber": "987892",
+      "startTime": "Mar 05 at 07:23 PM",
+      "customerOut": 111,
+      "xCoord": -117.7026959683,
+      "yCoord": 33.4948361618,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "793",
+      "estRestTimeType": "I",
+      "estRestTime": "Mar 05 at 09:30 PM",
+      "community": "Laguna Niguel",
+      "district": "OC",
+      "substation": "LAGUNA NIGUEL",
+      "device": "F691058",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
       "jobNumber": "987884",
-      "startTime": "Mar 05 at 06:07 PM",
+      "startTime": "Mar 05 at 06:18 PM",
       "customerOut": 2,
       "xCoord": -117.2553001535,
       "yCoord": 32.9805165925,
       "cause": "SDG&E is assessing the outage to determine the cause.",
       "circuit": "1082",
       "estRestTimeType": "I",
-      "estRestTime": "Mar 05 at 09:00 PM",
+      "estRestTime": "Mar 05 at 09:30 PM",
       "community": "North City West/ Torrey Pines/ Fairbanks Country Club",
       "district": "NC",
       "substation": "DEL MAR",
@@ -44,7 +67,7 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "987833",
@@ -55,7 +78,7 @@
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "438",
       "estRestTimeType": "F",
-      "estRestTime": "Mar 05 at 07:30 PM",
+      "estRestTime": "Mar 05 at 09:30 PM",
       "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
       "district": "BC",
       "substation": "SCRIPPS",
@@ -67,7 +90,30 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
+    },
+    {
+      "jobNumber": "987902",
+      "startTime": "Mar 05 at 08:34 PM",
+      "customerOut": 32,
+      "xCoord": -117.2059258909,
+      "yCoord": 32.8927561141,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "1447",
+      "estRestTimeType": "F",
+      "estRestTime": "Mar 06 at 12:30 AM",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
+      "district": "BC",
+      "substation": "MIRA SORRENTO",
+      "device": "1447-6",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "260600",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 4
     },
     {
       "jobNumber": "987365",
@@ -89,8 +135,8 @@
       "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 3
+      "first": false,
+      "nid": 5
     },
     {
       "jobNumber": "985727",
@@ -113,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 6
     },
     {
       "jobNumber": "983827",
@@ -136,7 +182,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 7
     },
     {
       "jobNumber": "982093",
@@ -159,7 +205,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 8
     },
     {
       "jobNumber": "980798",
@@ -182,7 +228,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 9
     },
     {
       "jobNumber": "986179",
@@ -205,30 +251,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
-    },
-    {
-      "jobNumber": "980074",
-      "startTime": "Mar 05 at 08:30 PM",
-      "customerOut": 0,
-      "xCoord": -117.2059258909,
-      "yCoord": 32.8927561141,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1447",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 06 at 12:30 AM",
-      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
-      "district": "BC",
-      "substation": "MIRA SORRENTO",
-      "device": "1447-6",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "260600",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 9
+      "nid": 10
     },
     {
       "jobNumber": "980807",
@@ -251,7 +274,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 10
+      "nid": 11
     },
     {
       "jobNumber": "983505",
@@ -274,7 +297,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 11
+      "nid": 12
     },
     {
       "jobNumber": "982139",
@@ -293,29 +316,6 @@
       "calltype": "SWP",
       "damage": "",
       "switchplan": "268093",
-      "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 12
-    },
-    {
-      "jobNumber": "983334",
-      "startTime": "Mar 05 at 08:00 AM",
-      "customerOut": 0,
-      "xCoord": -116.7001795074,
-      "yCoord": 32.6670741425,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "circuit": "157",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 05 at 06:00 PM",
-      "community": "Lyons Valley/ Barrett Lake",
-      "district": "ME",
-      "substation": "BARRETT",
-      "device": "157-T3-448",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "278943",
       "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -1841,5 +1841,5 @@
       "nid": 79
     }
   ],
-  "last_updated": "Mar 05 at 06:10 PM"
+  "last_updated": "Mar 05 at 08:45 PM"
 }
