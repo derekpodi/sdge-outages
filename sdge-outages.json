@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "989856",
-      "startTime": "Mar 12 at 06:25 PM",
-      "customerOut": 29,
-      "xCoord": -117.1262145875,
-      "yCoord": 32.7550219175,
-      "cause": "A vehicle accident has caused an outage.",
-      "circuit": "364",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 12 at 08:30 PM",
-      "community": "University Heights/ North Park/ Normal Heights",
-      "district": "CM",
-      "substation": "STATION F",
-      "device": "LBE.1627656",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "989563",
       "startTime": "Mar 11 at 12:34 AM",
       "customerOut": 3,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "jobNumber": "987373",
@@ -63,6 +40,29 @@
       "calltype": "SWP",
       "damage": "",
       "switchplan": "279437",
+      "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
+      "jobNumber": "987370",
+      "startTime": "Mar 15 at 08:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.7027060912,
+      "yCoord": 33.4948361044,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1073",
+      "estRestTimeType": "F",
+      "estRestTime": "Mar 15 at 10:00 PM",
+      "community": "Laguna Niguel",
+      "district": "OC",
+      "substation": "LAGUNA NIGUEL",
+      "device": "1073-328",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "279438",
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -1841,5 +1841,5 @@
       "nid": 79
     }
   ],
-  "last_updated": "Mar 12 at 07:00 PM"
+  "last_updated": "Mar 12 at 09:40 PM"
 }
