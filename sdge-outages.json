@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "1013780",
-      "startTime": "Jun 13 at 09:11 PM",
-      "customerOut": 154,
-      "xCoord": -117.0671924427,
-      "yCoord": 32.6793707779,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "RE1",
-      "estRestTimeType": "I",
-      "estRestTime": "Jun 14 at 12:30 AM",
-      "community": "Paradise Hills/ Skyline/ Bay Terraces",
-      "district": "CM",
-      "substation": "PARADISE",
-      "device": "325-22R",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "1013747",
       "startTime": "Jun 13 at 10:10 AM",
       "customerOut": 14,
@@ -43,65 +20,19 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
-      "jobNumber": "1013780",
-      "startTime": "Jun 13 at 09:11 PM",
-      "customerOut": 2096,
+      "jobNumber": "1013794",
+      "startTime": "Jun 13 at 10:39 PM",
+      "customerOut": 171,
       "xCoord": -117.0498638381,
       "yCoord": 32.7044143619,
       "cause": "SDG&E is assessing the outage to determine the cause.",
       "circuit": "325",
-      "estRestTimeType": "I",
-      "estRestTime": "Jun 14 at 12:30 AM",
-      "community": "Paradise Hills/ Skyline/ Bay Terraces",
-      "district": "CM",
-      "substation": "PARADISE",
-      "device": "325-22R",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 2
-    },
-    {
-      "jobNumber": "1013780",
-      "startTime": "Jun 13 at 09:11 PM",
-      "customerOut": 65,
-      "xCoord": -117.0693913546,
-      "yCoord": 32.6786630564,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "FRD1",
-      "estRestTimeType": "I",
-      "estRestTime": "Jun 14 at 12:30 AM",
-      "community": "Paradise Hills/ Skyline/ Bay Terraces",
-      "district": "CM",
-      "substation": "PARADISE",
-      "device": "325-22R",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 3
-    },
-    {
-      "jobNumber": "1013781",
-      "startTime": "Jun 13 at 09:30 PM",
-      "customerOut": 3387,
-      "xCoord": -117.0498638381,
-      "yCoord": 32.7044143619,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "325",
-      "estRestTimeType": "I",
-      "estRestTime": "Jun 14 at 03:00 AM",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 14 at 06:00 AM",
       "community": "Paradise Hills/ Skyline/ Bay Terraces",
       "district": "CM",
       "substation": "PARADISE",
@@ -113,7 +44,30 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 1
+    },
+    {
+      "jobNumber": "1013800",
+      "startTime": "Jun 14 at 12:32 AM",
+      "customerOut": 162,
+      "xCoord": -117.1261998819,
+      "yCoord": 32.7550194624,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "363",
+      "estRestTimeType": "I",
+      "estRestTime": "Jun 14 at 02:30 AM",
+      "community": "University Heights/ North Park/ Normal Heights",
+      "district": "CM",
+      "substation": "STATION F",
+      "device": "LBE.1540274",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "276311",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 2
     },
     {
       "jobNumber": "1013164",
@@ -135,8 +89,8 @@
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 5
+      "first": false,
+      "nid": 3
     },
     {
       "jobNumber": "1012316",
@@ -159,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 4
     },
     {
       "jobNumber": "1009594",
@@ -182,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 5
     },
     {
       "jobNumber": "1009299",
@@ -205,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 6
     },
     {
       "jobNumber": "1011068",
@@ -228,7 +182,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 9
+      "nid": 7
     },
     {
       "jobNumber": "1007204",
@@ -251,7 +205,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 10
+      "nid": 8
+    },
+    {
+      "jobNumber": "1008097",
+      "startTime": "Jun 16 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.0269978158,
+      "yCoord": 32.5622563608,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1202",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 17 at 04:30 AM",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
+      "district": "CM",
+      "substation": "SAN YSIDRO",
+      "device": "1202-356",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "285207",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 9
     },
     {
       "jobNumber": "1011907",
@@ -271,6 +248,29 @@
       "damage": "",
       "switchplan": "265188",
       "plannedoutagereason": "Switch Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 10
+    },
+    {
+      "jobNumber": "1010870",
+      "startTime": "Jun 16 at 11:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.6284050324,
+      "yCoord": 33.5497430967,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1260",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 17 at 04:00 AM",
+      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
+      "district": "OC",
+      "substation": "MARGARITA",
+      "device": "1260-12",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "282105",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -668,6 +668,29 @@
       "nid": 28
     },
     {
+      "jobNumber": "1012561",
+      "startTime": "Jun 16 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.183989543,
+      "yCoord": 32.8259833037,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "276",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 17 at 06:00 AM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "CLAIREMONT",
+      "device": "276-158R",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "285664",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 29
+    },
+    {
       "jobNumber": "1012082",
       "startTime": "Jun 16 at 08:30 AM",
       "customerOut": 0,
@@ -688,7 +711,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 29
+      "nid": 30
     },
     {
       "jobNumber": "1011085",
@@ -711,7 +734,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 30
+      "nid": 31
     },
     {
       "jobNumber": "1008772",
@@ -734,7 +757,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 31
+      "nid": 32
     },
     {
       "jobNumber": "1010710",
@@ -757,7 +780,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 32
+      "nid": 33
     },
     {
       "jobNumber": "1009351",
@@ -780,7 +803,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 33
+      "nid": 34
     },
     {
       "jobNumber": "1008771",
@@ -803,7 +826,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 34
+      "nid": 35
     },
     {
       "jobNumber": "1009256",
@@ -823,29 +846,6 @@
       "damage": "",
       "switchplan": "285623",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 35
-    },
-    {
-      "jobNumber": "1008165",
-      "startTime": "Jun 14 at 12:30 AM",
-      "customerOut": 0,
-      "xCoord": -117.1261998819,
-      "yCoord": 32.7550194624,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "363",
-      "estRestTimeType": "F",
-      "estRestTime": "Jun 14 at 04:30 AM",
-      "community": "University Heights/ North Park/ Normal Heights",
-      "district": "CM",
-      "substation": "STATION F",
-      "device": "LBE.1540274",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "276311",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1404,29 +1404,6 @@
       "nid": 60
     },
     {
-      "jobNumber": "1011036",
-      "startTime": "Jun 13 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.2403315497,
-      "yCoord": 32.7991039352,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "57",
-      "estRestTimeType": "F",
-      "estRestTime": "Jun 14 at 04:00 AM",
-      "community": "Mission Bay/ Pacific Beach",
-      "district": "BC",
-      "substation": "PACIFIC BEACH",
-      "device": "2/0 XLPECN-PEJ AL ABC 2279908.0",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "285680",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 61
-    },
-    {
       "jobNumber": "1011744",
       "startTime": "Jun 15 at 11:00 PM",
       "customerOut": 0,
@@ -1447,7 +1424,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 62
+      "nid": 61
     },
     {
       "jobNumber": "1010602",
@@ -1470,7 +1447,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 63
+      "nid": 62
     },
     {
       "jobNumber": "1010604",
@@ -1493,7 +1470,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 64
+      "nid": 63
     },
     {
       "jobNumber": "1010603",
@@ -1516,7 +1493,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 65
+      "nid": 64
     },
     {
       "jobNumber": "1010605",
@@ -1539,7 +1516,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 66
+      "nid": 65
     },
     {
       "jobNumber": "1010607",
@@ -1562,7 +1539,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 67
+      "nid": 66
     },
     {
       "jobNumber": "1010608",
@@ -1585,7 +1562,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 68
+      "nid": 67
     },
     {
       "jobNumber": "1011546",
@@ -1608,7 +1585,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 69
+      "nid": 68
     },
     {
       "jobNumber": "1009647",
@@ -1631,7 +1608,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 70
+      "nid": 69
     },
     {
       "jobNumber": "1010779",
@@ -1654,7 +1631,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 71
+      "nid": 70
     },
     {
       "jobNumber": "1011626",
@@ -1677,7 +1654,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 72
+      "nid": 71
     },
     {
       "jobNumber": "1011548",
@@ -1700,7 +1677,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 73
+      "nid": 72
     },
     {
       "jobNumber": "1012401",
@@ -1723,7 +1700,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 74
+      "nid": 73
     },
     {
       "jobNumber": "1010729",
@@ -1743,6 +1720,29 @@
       "damage": "",
       "switchplan": "286024",
       "plannedoutagereason": "Cable Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 74
+    },
+    {
+      "jobNumber": "1007281",
+      "startTime": "Jun 16 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.0184193598,
+      "yCoord": 33.2306945077,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "909",
+      "estRestTimeType": "F",
+      "estRestTime": "Jun 17 at 04:00 AM",
+      "community": "Valley Center/ Rincon/ Pauma Valley",
+      "district": "NE",
+      "substation": "VALLEY CENTER",
+      "device": "F547963",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "284515",
+      "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1979,5 +1979,5 @@
       "nid": 85
     }
   ],
-  "last_updated": "Jun 13 at 09:40 PM"
+  "last_updated": "Jun 14 at 01:40 AM"
 }
