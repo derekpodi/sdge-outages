@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1018752",
+      "jobNumber": "1018770",
       "startTime": "Jul 05 at 01:40 PM",
-      "customerOut": 104,
+      "customerOut": 72,
       "xCoord": -117.5890391383,
       "yCoord": 33.4569555377,
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "990",
       "estRestTimeType": "F",
-      "estRestTime": "Jul 05 at 08:00 PM",
+      "estRestTime": "Jul 06 at 02:00 AM",
       "community": "Ladera Ranch/ Coto De Caza/ Ortega",
       "district": "OC",
       "substation": "PICO",
-      "device": "LBE.407432",
+      "device": "LBE.404187",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1018771",
+      "startTime": "Jul 05 at 09:00 PM",
+      "customerOut": 5,
+      "xCoord": -116.9442573348,
+      "yCoord": 32.5661075474,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "1161",
+      "estRestTimeType": "F",
+      "estRestTime": "Jul 06 at 01:00 AM",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
+      "district": "CM",
+      "substation": "BORDER",
+      "device": "1161-260",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "279937",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 1
     },
     {
       "jobNumber": "1016081",
@@ -41,29 +64,6 @@
       "damage": "",
       "switchplan": "287515",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 1
-    },
-    {
-      "jobNumber": "1012710",
-      "startTime": "Jul 05 at 09:00 PM",
-      "customerOut": 0,
-      "xCoord": -116.9442573348,
-      "yCoord": 32.5661075474,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1161",
-      "estRestTimeType": "F",
-      "estRestTime": "Jul 06 at 01:00 AM",
-      "community": "Nestor/ San Ysidro/ Otay Mesa",
-      "district": "CM",
-      "substation": "BORDER",
-      "device": "1161-260",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "279937",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1519,5 +1519,5 @@
       "nid": 65
     }
   ],
-  "last_updated": "Jul 05 at 07:15 PM"
+  "last_updated": "Jul 05 at 09:45 PM"
 }
