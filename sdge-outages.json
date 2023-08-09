@@ -1,15 +1,38 @@
 {
   "locations": [
     {
+      "jobNumber": "1027572",
+      "startTime": "Aug 09 at 04:11 AM",
+      "customerOut": 504,
+      "xCoord": -117.628384784,
+      "yCoord": 33.5497431743,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "987",
+      "estRestTimeType": "I",
+      "estRestTime": "Aug 09 at 06:30 AM",
+      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
+      "district": "OC",
+      "substation": "MARGARITA",
+      "device": "MAR-12KV-987",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "1027531",
       "startTime": "Aug 08 at 04:31 PM",
       "customerOut": 64,
       "xCoord": -116.9683209866,
       "yCoord": 32.8545203875,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "A vehicle accident has caused an outage.",
       "circuit": "396",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 09 at 07:00 AM",
+      "estRestTime": "Aug 09 at 03:00 AM",
       "community": "Santee/ Carlton Hills",
       "district": "EA",
       "substation": "SANTEE",
@@ -20,8 +43,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1027346",
@@ -44,49 +67,26 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
-    },
-    {
-      "jobNumber": "1027551",
-      "startTime": "Aug 08 at 10:54 PM",
-      "customerOut": 1831,
-      "xCoord": -117.196939736,
-      "yCoord": 33.1287906121,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "295",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 09 at 05:30 AM",
-      "community": "W San Marcos",
-      "district": "NE",
-      "substation": "SAN MARCOS",
-      "device": "295-519",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "274381",
-      "plannedoutagereason": "Switch Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
       "nid": 2
     },
     {
-      "jobNumber": "1027550",
-      "startTime": "Aug 08 at 10:37 PM",
-      "customerOut": 544,
-      "xCoord": -117.1969004719,
-      "yCoord": 33.1287944861,
+      "jobNumber": "1027560",
+      "startTime": "Aug 09 at 02:34 AM",
+      "customerOut": 1504,
+      "xCoord": -117.0027981271,
+      "yCoord": 32.7392548092,
       "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "298",
+      "circuit": "730",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 09 at 05:30 AM",
-      "community": "W San Marcos",
-      "district": "NE",
-      "substation": "SAN MARCOS",
-      "device": "298-384",
+      "estRestTime": "Aug 09 at 06:00 AM",
+      "community": "Spring Valley",
+      "district": "EA",
+      "substation": "SPRING VALLEY",
+      "device": "730-1079",
       "calltype": "PLAN",
       "damage": "",
-      "switchplan": "274381",
-      "plannedoutagereason": "Switch Replacement",
+      "switchplan": "284487",
+      "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
@@ -1335,29 +1335,6 @@
       "nid": 57
     },
     {
-      "jobNumber": "1025741",
-      "startTime": "Aug 09 at 02:30 AM",
-      "customerOut": 0,
-      "xCoord": -117.0027981271,
-      "yCoord": 32.7392548092,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "730",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 09 at 06:00 AM",
-      "community": "Spring Valley",
-      "district": "EA",
-      "substation": "SPRING VALLEY",
-      "device": "F85998",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "284487",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 58
-    },
-    {
       "jobNumber": "1023493",
       "startTime": "Aug 11 at 08:30 AM",
       "customerOut": 0,
@@ -1378,7 +1355,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 59
+      "nid": 58
     },
     {
       "jobNumber": "1026071",
@@ -1401,7 +1378,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 60
+      "nid": 59
     },
     {
       "jobNumber": "1024189",
@@ -1424,7 +1401,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 61
+      "nid": 60
     },
     {
       "jobNumber": "1023696",
@@ -1447,7 +1424,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 62
+      "nid": 61
     },
     {
       "jobNumber": "1025349",
@@ -1470,7 +1447,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 63
+      "nid": 62
     },
     {
       "jobNumber": "1026254",
@@ -1493,7 +1470,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 64
+      "nid": 63
     },
     {
       "jobNumber": "1020273",
@@ -1516,7 +1493,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 65
+      "nid": 64
     },
     {
       "jobNumber": "1026653",
@@ -1539,7 +1516,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 66
+      "nid": 65
     },
     {
       "jobNumber": "1023791",
@@ -1562,7 +1539,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 67
+      "nid": 66
     },
     {
       "jobNumber": "1024527",
@@ -1585,7 +1562,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 68
+      "nid": 67
     },
     {
       "jobNumber": "1025664",
@@ -1608,8 +1585,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 69
+      "nid": 68
     }
   ],
-  "last_updated": "Aug 09 at 01:40 AM"
+  "last_updated": "Aug 09 at 05:55 AM"
 }
