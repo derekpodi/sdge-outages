@@ -1,27 +1,73 @@
 {
   "locations": [
     {
-      "jobNumber": "1035398",
-      "startTime": "Sep 01 at 10:02 PM",
-      "customerOut": 12,
-      "xCoord": -117.2400707782,
-      "yCoord": 32.8984942408,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "262",
+      "jobNumber": "1035436",
+      "startTime": "Sep 02 at 02:01 AM",
+      "customerOut": 13,
+      "xCoord": -117.1734391552,
+      "yCoord": 32.9050654765,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "957",
       "estRestTimeType": "F",
-      "estRestTime": "Sep 02 at 06:00 AM",
-      "community": "Torrey Pines/ Sorrento Valley/ University City",
+      "estRestTime": "Sep 02 at 09:00 AM",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
       "district": "BC",
-      "substation": "TORREY PINES",
-      "device": "LBE.1326830",
-      "calltype": "PLAN",
+      "substation": "MESA RIM",
+      "device": "LBE.140378",
+      "calltype": "OUT",
       "damage": "",
-      "switchplan": "291863",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1035432",
+      "startTime": "Sep 02 at 01:31 AM",
+      "customerOut": 23,
+      "xCoord": -117.0740179643,
+      "yCoord": 33.0931944772,
+      "cause": "A vehicle accident has caused an outage.",
+      "circuit": "470",
+      "estRestTimeType": "F",
+      "estRestTime": "Sep 02 at 10:00 AM",
+      "community": "S Escondido",
+      "district": "NE",
+      "substation": "FELICITA",
+      "device": "F546942",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
+      "jobNumber": "1032691",
+      "startTime": "Sep 05 at 05:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.3003061515,
+      "yCoord": 33.2521930526,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "486",
+      "estRestTimeType": "F",
+      "estRestTime": "Sep 05 at 04:00 PM",
+      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
+      "district": "NC",
+      "substation": "MORRO HILL",
+      "device": "636 ACSR ABC 185961.0",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "291500",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": true,
+      "nid": 2
     },
     {
       "jobNumber": "1032005",
@@ -44,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 3
     },
     {
       "jobNumber": "1034146",
@@ -67,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 4
     },
     {
       "jobNumber": "1033004",
@@ -90,8 +136,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 5
     }
   ],
-  "last_updated": "Sep 02 at 01:40 AM"
+  "last_updated": "Sep 02 at 05:50 AM"
 }
