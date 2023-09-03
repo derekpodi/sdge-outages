@@ -1,25 +1,25 @@
 {
   "locations": [
     {
-      "jobNumber": "1035555",
-      "startTime": "Sep 02 at 10:00 PM",
-      "customerOut": 74,
-      "xCoord": -117.2335177881,
-      "yCoord": 32.7415302104,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "740",
-      "estRestTimeType": "F",
-      "estRestTime": "Sep 03 at 06:00 AM",
-      "community": "Ocean Beach/ Midway/ Lindbergh Field",
-      "district": "BC",
-      "substation": "POINT LOMA",
-      "device": "740-857F",
-      "calltype": "PLAN",
+      "jobNumber": "1035580",
+      "startTime": "Sep 03 at 05:26 AM",
+      "customerOut": 224,
+      "xCoord": -116.9683437063,
+      "yCoord": 32.8545204825,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "1140",
+      "estRestTimeType": "I",
+      "estRestTime": "Sep 03 at 11:00 AM",
+      "community": "Santee/ Carlton Hills",
+      "district": "EA",
+      "substation": "SANTEE",
+      "device": "1140-13F",
+      "calltype": "OUT",
       "damage": "",
-      "switchplan": "292419",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
     },
@@ -43,7 +43,7 @@
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
+      "first": true,
       "nid": 1
     },
     {
@@ -369,6 +369,29 @@
       "nid": 15
     },
     {
+      "jobNumber": "1032355",
+      "startTime": "Sep 06 at 02:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2403315325,
+      "yCoord": 32.7990975261,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "56",
+      "estRestTimeType": "F",
+      "estRestTime": "Sep 06 at 04:00 AM",
+      "community": "Mission Bay/ Pacific Beach",
+      "district": "BC",
+      "substation": "PACIFIC BEACH",
+      "device": "56-177",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "288898",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 16
+    },
+    {
       "jobNumber": "1033640",
       "startTime": "Sep 05 at 10:00 PM",
       "customerOut": 0,
@@ -389,7 +412,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 17
     },
     {
       "jobNumber": "1034099",
@@ -412,7 +435,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 18
+    },
+    {
+      "jobNumber": "1031864",
+      "startTime": "Sep 06 at 02:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.5890391554,
+      "yCoord": 33.4569580685,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "995",
+      "estRestTimeType": "F",
+      "estRestTime": "Sep 06 at 05:00 AM",
+      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
+      "district": "OC",
+      "substation": "PICO",
+      "device": "995-13AE",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "291473",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 19
     },
     {
       "jobNumber": "1033143",
@@ -435,8 +481,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 20
     }
   ],
-  "last_updated": "Sep 03 at 01:40 AM"
+  "last_updated": "Sep 03 at 05:50 AM"
 }
