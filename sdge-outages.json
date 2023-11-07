@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "1051565",
-      "startTime": "Nov 06 at 08:37 PM",
-      "customerOut": 1,
-      "xCoord": -116.972435911,
-      "yCoord": 32.7953802565,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "552",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 07 at 05:30 AM",
-      "community": "El Cajon",
-      "district": "EA",
-      "substation": "EL CAJON",
-      "device": "LBE.97770",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "296910",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "1051568",
       "startTime": "Nov 06 at 10:05 PM",
       "customerOut": 102,
@@ -43,8 +20,8 @@
       "plannedoutagereason": "Switch Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
       "jobNumber": "1049297",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "1049294",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "1047635",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "1045220",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "jobNumber": "1048194",
@@ -156,6 +133,29 @@
       "damage": "",
       "switchplan": "294757",
       "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 5
+    },
+    {
+      "jobNumber": "1049295",
+      "startTime": "Nov 10 at 01:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2371307568,
+      "yCoord": 32.8447321351,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "114",
+      "estRestTimeType": "F",
+      "estRestTime": "Nov 10 at 01:45 AM",
+      "community": "La Jolla/ La Jolla Shores/ Soledad Mountain",
+      "district": "BC",
+      "substation": "ROSE CANYON",
+      "device": "114-31",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "278564",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -2301,5 +2301,5 @@
       "nid": 99
     }
   ],
-  "last_updated": "Nov 07 at 12:40 AM"
+  "last_updated": "Nov 07 at 04:50 AM"
 }
