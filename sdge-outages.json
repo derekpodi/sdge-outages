@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1055232",
-      "startTime": "Nov 21 at 12:01 AM",
-      "customerOut": 73,
-      "xCoord": -117.2053556183,
-      "yCoord": 32.7889431409,
-      "cause": "Our crews have found a need to repair SDG&E equipment.",
-      "circuit": "MA1",
+      "jobNumber": "1055239",
+      "startTime": "Nov 21 at 04:32 AM",
+      "customerOut": 3,
+      "xCoord": -116.9442563964,
+      "yCoord": 32.5661101847,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "1162",
       "estRestTimeType": "I",
-      "estRestTime": "Nov 21 at 02:00 AM",
-      "community": "Clairemont/ Bay Park/ Morena",
-      "district": "BC",
-      "substation": "PACIFIC BEACH",
-      "device": "DBE.58205",
+      "estRestTime": "Nov 21 at 10:00 AM",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
+      "district": "CM",
+      "substation": "BORDER",
+      "device": "F13841",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1055235",
+      "startTime": "Nov 21 at 02:14 AM",
+      "customerOut": 3,
+      "xCoord": -116.9442563964,
+      "yCoord": 32.5661101847,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "1162",
+      "estRestTimeType": "I",
+      "estRestTime": "Nov 21 at 08:00 AM",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
+      "district": "CM",
+      "substation": "BORDER",
+      "device": "1162-399M",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1055224",
@@ -44,29 +67,6 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
-    },
-    {
-      "jobNumber": "1055229",
-      "startTime": "Nov 20 at 11:01 PM",
-      "customerOut": 27,
-      "xCoord": -117.0269987414,
-      "yCoord": 32.5622753489,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "460",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 21 at 02:00 AM",
-      "community": "Nestor/ San Ysidro/ Otay Mesa",
-      "district": "CM",
-      "substation": "SAN YSIDRO",
-      "device": "460-1134",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "297922",
-      "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
       "nid": 2
     },
     {
@@ -369,5 +369,5 @@
       "nid": 15
     }
   ],
-  "last_updated": "Nov 21 at 12:40 AM"
+  "last_updated": "Nov 21 at 04:55 AM"
 }
