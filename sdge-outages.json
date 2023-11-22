@@ -1,52 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "1055492",
-      "startTime": "Nov 21 at 08:42 PM",
-      "customerOut": 1,
-      "xCoord": -117.196919417,
-      "yCoord": 33.1287906442,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "598",
-      "estRestTimeType": "I",
-      "estRestTime": "Nov 22 at 02:30 AM",
-      "community": "W San Marcos",
-      "district": "NE",
-      "substation": "SAN MARCOS",
-      "device": "F515536",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "jobNumber": "1055499",
-      "startTime": "Nov 22 at 12:27 AM",
-      "customerOut": 163,
-      "xCoord": -117.0028086598,
-      "yCoord": 32.7392548252,
-      "cause": "Our crews have found a need to repair SDG&E equipment.",
-      "circuit": "731",
-      "estRestTimeType": "I",
-      "estRestTime": "Nov 22 at 03:30 AM",
-      "community": "Spring Valley",
-      "district": "EA",
-      "substation": "SPRING VALLEY",
-      "device": "F129000",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
       "jobNumber": "1055493",
       "startTime": "Nov 21 at 09:10 PM",
       "customerOut": 1,
@@ -55,7 +9,7 @@
       "cause": "SDG&E is assessing the outage to determine the cause.",
       "circuit": "392",
       "estRestTimeType": "I",
-      "estRestTime": "Nov 22 at 02:30 AM",
+      "estRestTime": "Nov 22 at 04:30 AM",
       "community": "Santee/ Carlton Hills",
       "district": "EA",
       "substation": "SANTEE",
@@ -66,54 +20,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 2
-    },
-    {
-      "jobNumber": "1055481",
-      "startTime": "Nov 21 at 07:39 PM",
-      "customerOut": 13,
-      "xCoord": -117.1424163832,
-      "yCoord": 32.6943885359,
-      "cause": "Our crews have found a need to repair SDG&E equipment.",
-      "circuit": "133",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 22 at 03:00 AM",
-      "community": "Logan Heights/ Mountain View/ Lincoln Park",
-      "district": "CM",
-      "substation": "SAMPSON",
-      "device": "<inline_jumper.22912>",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 3
-    },
-    {
-      "jobNumber": "1055495",
-      "startTime": "Nov 21 at 10:01 PM",
-      "customerOut": 31,
-      "xCoord": -116.9494521859,
-      "yCoord": 32.6194187649,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "840",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 22 at 04:00 AM",
-      "community": "Sunnyside/ Otay Lake/ Otay Mesa",
-      "district": "CM",
-      "substation": "SALT CREEK",
-      "device": "840-304F",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "289427",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 4
+      "nid": 0
     },
     {
       "jobNumber": "1054191",
@@ -135,8 +43,8 @@
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 5
+      "first": true,
+      "nid": 1
     },
     {
       "jobNumber": "1051436",
@@ -159,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 2
     },
     {
       "jobNumber": "1055354",
@@ -182,8 +90,31 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 3
+    },
+    {
+      "jobNumber": "1054050",
+      "startTime": "Nov 21 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -116.9494521859,
+      "yCoord": 32.6194187649,
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
+      "circuit": "840",
+      "estRestTimeType": "F",
+      "estRestTime": "Nov 22 at 06:00 AM",
+      "community": "Sunnyside/ Otay Lake/ Otay Mesa",
+      "district": "CM",
+      "substation": "SALT CREEK",
+      "device": "840-304F",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "289427",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 4
     }
   ],
-  "last_updated": "Nov 22 at 12:40 AM"
+  "last_updated": "Nov 22 at 04:55 AM"
 }
