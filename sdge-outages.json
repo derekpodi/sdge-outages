@@ -6,10 +6,10 @@
       "customerOut": 86,
       "xCoord": -117.250297973,
       "yCoord": 33.1011680359,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "751",
       "estRestTimeType": "I",
-      "estRestTime": "Dec 23 at 04:00 AM",
+      "estRestTime": "Dec 23 at 06:00 AM",
       "community": "Carlsbad/ La Costa",
       "district": "NC",
       "substation": "BATIQUITOS",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1062820",
+      "startTime": "Dec 23 at 12:04 AM",
+      "customerOut": 37,
+      "xCoord": -117.1224325547,
+      "yCoord": 32.7543358474,
+      "cause": "A vehicle accident has caused an outage.",
+      "circuit": "BRM1",
+      "estRestTimeType": "I",
+      "estRestTime": "Dec 23 at 05:00 AM",
+      "community": "University Heights/ North Park/ Normal Heights",
+      "district": "CM",
+      "substation": "BRAMSON",
+      "device": "<inline_jumper.23099>",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1062775",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "1061278",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "1056798",
@@ -90,8 +113,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     }
   ],
-  "last_updated": "Dec 23 at 12:40 AM"
+  "last_updated": "Dec 23 at 04:50 AM"
 }
