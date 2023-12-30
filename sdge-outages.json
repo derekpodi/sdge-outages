@@ -6,10 +6,10 @@
       "customerOut": 97,
       "xCoord": -117.0962787792,
       "yCoord": 33.0216074694,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "293",
-      "estRestTimeType": "I",
-      "estRestTime": "Dec 30 at 01:30 PM",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 30 at 04:30 PM",
       "community": "Rancho Penasquitos/ Rancho Bernardo/ San Pasqual",
       "district": "NE",
       "substation": "BERNARDO",
@@ -24,19 +24,19 @@
       "nid": 0
     },
     {
-      "jobNumber": "1064019",
-      "startTime": "Dec 30 at 07:42 AM",
-      "customerOut": 158,
-      "xCoord": -117.1926564756,
-      "yCoord": 32.7659019156,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "491",
+      "jobNumber": "1064070",
+      "startTime": "Dec 30 at 11:41 AM",
+      "customerOut": 33,
+      "xCoord": -117.0184193598,
+      "yCoord": 33.2306945077,
+      "cause": "The cause of the outage is being investigated.",
+      "circuit": "909",
       "estRestTimeType": "I",
-      "estRestTime": "Dec 30 at 10:30 AM",
-      "community": "Clairemont/ Bay Park/ Morena",
-      "district": "BC",
-      "substation": "OLD TOWN",
-      "device": "OT-12KV-491",
+      "estRestTime": "Dec 30 at 03:00 PM",
+      "community": "Valley Center/ Rincon/ Pauma Valley",
+      "district": "NE",
+      "substation": "VALLEY CENTER",
+      "device": "F548243",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -45,6 +45,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
       "nid": 1
+    },
+    {
+      "jobNumber": "1064079",
+      "startTime": "Dec 30 at 12:00 PM",
+      "customerOut": 1,
+      "xCoord": -117.031263157,
+      "yCoord": 32.9787529551,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "176",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 30 at 02:30 PM",
+      "community": "S Poway",
+      "district": "NE",
+      "substation": "POWAY",
+      "device": "176-920",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "301277",
+      "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 2
     },
     {
       "jobNumber": "1063937",
@@ -66,8 +89,31 @@
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 2
+      "first": false,
+      "nid": 3
+    },
+    {
+      "jobNumber": "1060692",
+      "startTime": "Jan 02 at 09:00 AM",
+      "customerOut": 0,
+      "xCoord": -116.9683308543,
+      "yCoord": 32.8545350683,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1138",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 02 at 12:00 PM",
+      "community": "Santee/ Carlton Hills",
+      "district": "EA",
+      "substation": "SANTEE",
+      "device": "1138-730",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "282665",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 4
     },
     {
       "jobNumber": "1061790",
@@ -90,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 5
     },
     {
       "jobNumber": "1060406",
@@ -113,7 +159,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 6
+    },
+    {
+      "jobNumber": "1061993",
+      "startTime": "Jan 02 at 09:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.1986295308,
+      "yCoord": 33.0142531924,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "307",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 02 at 01:00 PM",
+      "community": "SE Rancho Santa Fe",
+      "district": "NC",
+      "substation": "RANCHO SANTA FE",
+      "device": "307-1579",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "299866",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 7
     },
     {
       "jobNumber": "1061016",
@@ -136,7 +205,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 8
     },
     {
       "jobNumber": "1063694",
@@ -159,7 +228,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 9
+    },
+    {
+      "jobNumber": "1059161",
+      "startTime": "Jan 02 at 09:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2449727523,
+      "yCoord": 32.7073811691,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "480",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 02 at 01:00 PM",
+      "community": "Fort Rosecrans/ MCRD",
+      "district": "BC",
+      "substation": "CABRILLO",
+      "device": "#4 B.STRD ABC 107959.0",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "294700",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 10
     },
     {
       "jobNumber": "1061983",
@@ -182,7 +274,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 11
     },
     {
       "jobNumber": "1060651",
@@ -205,8 +297,31 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 12
+    },
+    {
+      "jobNumber": "1060736",
+      "startTime": "Jan 02 at 11:30 AM",
+      "customerOut": 0,
+      "xCoord": -116.9571791606,
+      "yCoord": 32.7439631068,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "93",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 02 at 01:30 PM",
+      "community": "La Presa/ Spring Valley/ Rancho San Diego",
+      "district": "EA",
+      "substation": "JAMACHA",
+      "device": "93-240",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "274754",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 13
     }
   ],
-  "last_updated": "Dec 30 at 08:40 AM"
+  "last_updated": "Dec 30 at 12:40 PM"
 }
