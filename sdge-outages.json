@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "1064197",
+      "startTime": "Dec 31 at 11:14 AM",
+      "customerOut": 341,
+      "xCoord": -117.2530161222,
+      "yCoord": 33.2064704961,
+      "cause": "A vehicle accident has caused an outage.",
+      "circuit": "207",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 31 at 06:00 PM",
+      "community": "N Vista",
+      "district": "NC",
+      "substation": "MELROSE",
+      "device": "F587674",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "1064079",
       "startTime": "Dec 30 at 12:00 PM",
       "customerOut": 1,
@@ -21,29 +44,6 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 0
-    },
-    {
-      "jobNumber": "1063937",
-      "startTime": "Dec 29 at 10:30 AM",
-      "customerOut": 1,
-      "xCoord": -117.2335272218,
-      "yCoord": 32.7415090077,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "52",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 02 at 05:00 PM",
-      "community": "Ocean Beach/ Midway/ Lindbergh Field",
-      "district": "BC",
-      "substation": "POINT LOMA",
-      "device": "F358245",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "301227",
-      "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
       "nid": 1
     },
     {
@@ -139,6 +139,29 @@
       "nid": 5
     },
     {
+      "jobNumber": "1060656",
+      "startTime": "Jan 03 at 11:30 AM",
+      "customerOut": 0,
+      "xCoord": -117.1123151129,
+      "yCoord": 33.3559437467,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1234",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 01:30 PM",
+      "community": "Pala",
+      "district": "NE",
+      "substation": "PALA",
+      "device": "1234-171",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "300271",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 6
+    },
+    {
       "jobNumber": "1061017",
       "startTime": "Jan 03 at 08:30 AM",
       "customerOut": 0,
@@ -159,7 +182,53 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 7
+    },
+    {
+      "jobNumber": "1063589",
+      "startTime": "Jan 03 at 12:00 PM",
+      "customerOut": 0,
+      "xCoord": -116.7001795074,
+      "yCoord": 32.6670741425,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "157",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 03:00 PM",
+      "community": "Lyons Valley/ Barrett Lake",
+      "district": "ME",
+      "substation": "BARRETT",
+      "device": "#2 ACSR AB 23653.0",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "301063",
+      "plannedoutagereason": "System Repairs Needed",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 8
+    },
+    {
+      "jobNumber": "1060985",
+      "startTime": "Jan 03 at 12:30 PM",
+      "customerOut": 0,
+      "xCoord": -117.0312626691,
+      "yCoord": 32.9787257894,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "175",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 02:30 PM",
+      "community": "S Poway",
+      "district": "NE",
+      "substation": "POWAY",
+      "device": "Open.Point.341606",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "284944",
+      "plannedoutagereason": "System Reliability",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 9
     },
     {
       "jobNumber": "1061790",
@@ -182,7 +251,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 10
     },
     {
       "jobNumber": "1060406",
@@ -205,7 +274,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 11
     },
     {
       "jobNumber": "1061978",
@@ -228,7 +297,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 9
+      "nid": 12
+    },
+    {
+      "jobNumber": "1060958",
+      "startTime": "Jan 03 at 09:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.1839890571,
+      "yCoord": 32.8259642366,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "279",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 04:00 PM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "CLAIREMONT",
+      "device": "F2154642",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "291465",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 13
     },
     {
       "jobNumber": "1061993",
@@ -251,7 +343,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 10
+      "nid": 14
     },
     {
       "jobNumber": "1060693",
@@ -274,7 +366,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 11
+      "nid": 15
     },
     {
       "jobNumber": "1060544",
@@ -297,7 +389,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 12
+      "nid": 16
     },
     {
       "jobNumber": "1063615",
@@ -320,7 +412,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 13
+      "nid": 17
     },
     {
       "jobNumber": "1063591",
@@ -343,7 +435,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 14
+      "nid": 18
     },
     {
       "jobNumber": "1063592",
@@ -366,7 +458,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 15
+      "nid": 19
+    },
+    {
+      "jobNumber": "1063590",
+      "startTime": "Jan 03 at 09:00 AM",
+      "customerOut": 0,
+      "xCoord": -116.2723497811,
+      "yCoord": 32.6624066618,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "445",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 11:00 AM",
+      "community": "Live Oak Springs/ Boulevard/ Jacumba",
+      "district": "ME",
+      "substation": "BOULEVARD EAST",
+      "device": "445-682",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "297686",
+      "plannedoutagereason": "System Repairs Needed",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 20
     },
     {
       "jobNumber": "1061016",
@@ -389,7 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 21
     },
     {
       "jobNumber": "1061903",
@@ -412,7 +527,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 22
     },
     {
       "jobNumber": "1063694",
@@ -435,7 +550,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 23
     },
     {
       "jobNumber": "1059161",
@@ -458,7 +573,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 24
     },
     {
       "jobNumber": "1061983",
@@ -481,7 +596,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 25
     },
     {
       "jobNumber": "1061950",
@@ -504,7 +619,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 26
     },
     {
       "jobNumber": "1060868",
@@ -527,7 +642,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 27
     },
     {
       "jobNumber": "1060438",
@@ -550,7 +665,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 23
+      "nid": 28
     },
     {
       "jobNumber": "1060651",
@@ -573,7 +688,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 24
+      "nid": 29
     },
     {
       "jobNumber": "1060736",
@@ -596,7 +711,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 30
     },
     {
       "jobNumber": "1061152",
@@ -619,7 +734,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 31
     },
     {
       "jobNumber": "1061979",
@@ -642,7 +757,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 27
+      "nid": 32
+    },
+    {
+      "jobNumber": "1060660",
+      "startTime": "Jan 03 at 09:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.212382698,
+      "yCoord": 33.1751508895,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "BN2",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 03:00 PM",
+      "community": "Buena",
+      "district": "NC",
+      "substation": "BUENA 2",
+      "device": "BN2-77",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "297557",
+      "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 33
     },
     {
       "jobNumber": "1061698",
@@ -665,8 +803,31 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 28
+      "nid": 34
+    },
+    {
+      "jobNumber": "1062526",
+      "startTime": "Jan 03 at 12:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.0026129027,
+      "yCoord": 32.739289563,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "LR1",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 03 at 02:30 PM",
+      "community": "Spring Valley",
+      "district": "EA",
+      "substation": "LAMAR",
+      "device": "LR1-182",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "300896",
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 35
     }
   ],
-  "last_updated": "Dec 31 at 08:40 AM"
+  "last_updated": "Dec 31 at 12:40 PM"
 }
