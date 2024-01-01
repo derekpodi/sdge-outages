@@ -1,38 +1,15 @@
 {
   "locations": [
     {
-      "jobNumber": "1064275",
-      "startTime": "Jan 01 at 12:11 AM",
-      "customerOut": 357,
-      "xCoord": -117.2877549732,
-      "yCoord": 33.123011679,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "589",
-      "estRestTimeType": "I",
-      "estRestTime": "Jan 01 at 06:00 AM",
-      "community": "Carlsbad/ La Costa",
-      "district": "NC",
-      "substation": "PALOMAR AIRPORT",
-      "device": "F468991",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "1064273",
       "startTime": "Jan 01 at 12:06 AM",
       "customerOut": 107,
       "xCoord": -117.1020390566,
       "yCoord": 32.6936493505,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "HL1",
-      "estRestTimeType": "I",
-      "estRestTime": "Jan 01 at 03:00 AM",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 01 at 06:30 AM",
       "community": "Logan Heights/ Mountain View/ Lincoln Park",
       "district": "CM",
       "substation": "HIGHLAND 1",
@@ -43,8 +20,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
       "jobNumber": "1064079",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "1060407",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "1061712",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "1060658",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "jobNumber": "1060692",
@@ -159,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 5
     },
     {
       "jobNumber": "1060654",
@@ -182,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 6
     },
     {
       "jobNumber": "1060656",
@@ -205,7 +182,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 7
     },
     {
       "jobNumber": "1060659",
@@ -225,6 +202,29 @@
       "damage": "",
       "switchplan": "300272",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 8
+    },
+    {
+      "jobNumber": "1061976",
+      "startTime": "Jan 04 at 03:30 AM",
+      "customerOut": 0,
+      "xCoord": -117.192657448,
+      "yCoord": 32.7659001172,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "124",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 11 at 03:00 PM",
+      "community": "Clairemont/ Bay Park/ Morena",
+      "district": "BC",
+      "substation": "OLD TOWN",
+      "device": "124-234M",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "300692",
+      "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -921,5 +921,5 @@
       "nid": 39
     }
   ],
-  "last_updated": "Jan 01 at 12:40 AM"
+  "last_updated": "Jan 01 at 04:50 AM"
 }
