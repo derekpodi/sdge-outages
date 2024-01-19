@@ -1,27 +1,50 @@
 {
   "locations": [
     {
-      "jobNumber": "1069276",
-      "startTime": "Jan 18 at 11:00 PM",
-      "customerOut": 1,
-      "xCoord": -117.1104479849,
-      "yCoord": 32.7304108927,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "WA1",
-      "estRestTimeType": "I",
-      "estRestTime": "Jan 19 at 02:00 AM",
-      "community": "City Heights/ Chollas Creek/ Oak Park",
+      "jobNumber": "1069298",
+      "startTime": "Jan 19 at 03:00 AM",
+      "customerOut": 3,
+      "xCoord": -117.0269994625,
+      "yCoord": 32.5622771448,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "334",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 19 at 05:00 AM",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
       "district": "CM",
-      "substation": "WABASH 1",
-      "device": "F87112",
-      "calltype": "OUT",
+      "substation": "SAN YSIDRO",
+      "device": "LBE.12741",
+      "calltype": "PLAN",
       "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "switchplan": "301111",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1069300",
+      "startTime": "Jan 19 at 03:54 AM",
+      "customerOut": 9,
+      "xCoord": -117.1789131659,
+      "yCoord": 32.7386996289,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "457",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 23 at 03:00 PM",
+      "community": "Ocean Beach/ Midway/ Lindbergh Field",
+      "district": "BC",
+      "substation": "VINE",
+      "device": "457-37",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "300695",
+      "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1067159",
@@ -43,8 +66,8 @@
       "plannedoutagereason": "Voltage Improvement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 1
+      "first": false,
+      "nid": 2
     },
     {
       "jobNumber": "1066297",
@@ -64,29 +87,6 @@
       "damage": "",
       "switchplan": "301608",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 2
-    },
-    {
-      "jobNumber": "1061974",
-      "startTime": "Jan 19 at 03:00 AM",
-      "customerOut": 0,
-      "xCoord": -117.192657448,
-      "yCoord": 32.7659001172,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "124",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 23 at 03:00 PM",
-      "community": "Clairemont/ Bay Park/ Morena",
-      "district": "BC",
-      "substation": "OLD TOWN",
-      "device": "124-234M",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "300695",
-      "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -323,29 +323,6 @@
       "nid": 13
     },
     {
-      "jobNumber": "1063903",
-      "startTime": "Jan 19 at 03:00 AM",
-      "customerOut": 0,
-      "xCoord": -117.0269994625,
-      "yCoord": 32.5622771448,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "334",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 19 at 05:00 AM",
-      "community": "Nestor/ San Ysidro/ Otay Mesa",
-      "district": "CM",
-      "substation": "SAN YSIDRO",
-      "device": "LBE.12741",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "301111",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 14
-    },
-    {
       "jobNumber": "1066939",
       "startTime": "Jan 19 at 08:00 AM",
       "customerOut": 0,
@@ -366,7 +343,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 15
+      "nid": 14
     },
     {
       "jobNumber": "1064855",
@@ -389,7 +366,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 15
     },
     {
       "jobNumber": "1065986",
@@ -412,7 +389,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 16
     },
     {
       "jobNumber": "1066372",
@@ -435,7 +412,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 17
     },
     {
       "jobNumber": "1066039",
@@ -458,7 +435,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 18
     },
     {
       "jobNumber": "1066040",
@@ -481,7 +458,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 19
     },
     {
       "jobNumber": "1062313",
@@ -504,7 +481,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 20
     },
     {
       "jobNumber": "1068236",
@@ -527,7 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 21
     },
     {
       "jobNumber": "1068956",
@@ -550,7 +527,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 23
+      "nid": 22
     },
     {
       "jobNumber": "1064671",
@@ -573,7 +550,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 24
+      "nid": 23
     },
     {
       "jobNumber": "1062132",
@@ -596,7 +573,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 24
     },
     {
       "jobNumber": "1068276",
@@ -619,7 +596,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 25
     },
     {
       "jobNumber": "1064483",
@@ -642,7 +619,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 27
+      "nid": 26
     },
     {
       "jobNumber": "1066465",
@@ -665,7 +642,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 28
+      "nid": 27
     },
     {
       "jobNumber": "1067295",
@@ -688,7 +665,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 29
+      "nid": 28
     },
     {
       "jobNumber": "1061701",
@@ -707,6 +684,29 @@
       "calltype": "SWP",
       "damage": "",
       "switchplan": "300617",
+      "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 29
+    },
+    {
+      "jobNumber": "1065328",
+      "startTime": "Jan 22 at 04:00 AM",
+      "customerOut": 0,
+      "xCoord": -117.2877732628,
+      "yCoord": 33.1230115917,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "584",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 22 at 07:00 AM",
+      "community": "Carlsbad/ La Costa",
+      "district": "NC",
+      "substation": "PALOMAR AIRPORT",
+      "device": "584-333",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "300839",
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -898,5 +898,5 @@
       "nid": 38
     }
   ],
-  "last_updated": "Jan 19 at 12:40 AM"
+  "last_updated": "Jan 19 at 04:55 AM"
 }
