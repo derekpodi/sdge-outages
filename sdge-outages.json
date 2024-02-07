@@ -8,8 +8,8 @@
       "yCoord": 33.0142530476,
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "306",
-      "estRestTimeType": "I",
-      "estRestTime": "Feb 06 at 07:00 PM",
+      "estRestTimeType": "F",
+      "estRestTime": "Feb 06 at 10:00 PM",
       "community": "SE Rancho Santa Fe",
       "district": "NC",
       "substation": "RANCHO SANTA FE",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1075073",
+      "startTime": "Feb 06 at 07:48 PM",
+      "customerOut": 1,
+      "xCoord": -116.8992720575,
+      "yCoord": 32.8597579036,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "248",
+      "estRestTimeType": "I",
+      "estRestTime": "Feb 06 at 10:30 PM",
+      "community": "Blossom Valley/ El Monte",
+      "district": "EA",
+      "substation": "LOS COCHES",
+      "device": "LCS-12KV-248",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1074347",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "1071886",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "1072781",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "1072958",
@@ -110,29 +133,6 @@
       "damage": "",
       "switchplan": "302642",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "jobNumber": "1072608",
-      "startTime": "Feb 06 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.1305649941,
-      "yCoord": 32.71257994,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1434",
-      "estRestTimeType": "F",
-      "estRestTime": "Feb 07 at 04:00 AM",
-      "community": "Logan Heights/ Mountain View/ Lincoln Park",
-      "district": "CM",
-      "substation": "GRANT HILL",
-      "device": "1434-12",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "293446",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1795,5 +1795,5 @@
       "nid": 77
     }
   ],
-  "last_updated": "Feb 06 at 05:30 PM"
+  "last_updated": "Feb 06 at 08:40 PM"
 }
