@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1084671",
-      "startTime": "Mar 13 at 09:33 PM",
-      "customerOut": 1,
-      "xCoord": -117.3325349713,
-      "yCoord": 33.1374512671,
+      "jobNumber": "1084702",
+      "startTime": "Mar 14 at 04:55 AM",
+      "customerOut": 167,
+      "xCoord": -117.0463520777,
+      "yCoord": 32.7439691295,
       "cause": "Our crews have found a need to repair SDG&E equipment.",
-      "circuit": "782",
+      "circuit": "160",
       "estRestTimeType": "F",
-      "estRestTime": "Mar 14 at 06:00 AM",
-      "community": "Carlsbad/ La Costa",
-      "district": "NC",
-      "substation": "CANNON",
-      "device": "782-333",
+      "estRestTime": "Mar 14 at 11:00 AM",
+      "community": "Lemon Grove",
+      "district": "EA",
+      "substation": "CHOLLAS WEST",
+      "device": "<inline_jumper.23674>",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1084694",
+      "startTime": "Mar 13 at 11:27 PM",
+      "customerOut": 11,
+      "xCoord": -117.173606747,
+      "yCoord": 32.7330206144,
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
+      "circuit": "137",
+      "estRestTimeType": "F",
+      "estRestTime": "Mar 14 at 12:00 PM",
+      "community": "Ocean Beach/ Midway/ Lindbergh Field",
+      "district": "BC",
+      "substation": "KETTNER",
+      "device": "F359475",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1084668",
@@ -44,29 +67,6 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
-    },
-    {
-      "jobNumber": "1084665",
-      "startTime": "Mar 13 at 10:00 PM",
-      "customerOut": 3,
-      "xCoord": -117.0962929538,
-      "yCoord": 33.0216075135,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "290",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 14 at 06:00 AM",
-      "community": "Rancho Penasquitos/ Rancho Bernardo/ San Pasqual",
-      "district": "NE",
-      "substation": "BERNARDO",
-      "device": "BE-12KV-290",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "305073",
-      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
       "nid": 2
     },
     {
@@ -1496,5 +1496,5 @@
       "nid": 64
     }
   ],
-  "last_updated": "Mar 14 at 01:40 AM"
+  "last_updated": "Mar 14 at 05:50 AM"
 }
