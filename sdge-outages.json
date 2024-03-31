@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1089100",
-      "startTime": "Mar 30 at 09:37 AM",
-      "customerOut": 2,
-      "xCoord": -117.0184193593,
-      "yCoord": 33.2306920849,
+      "jobNumber": "1089210",
+      "startTime": "Mar 30 at 05:08 PM",
+      "customerOut": 1,
+      "xCoord": -117.0915525997,
+      "yCoord": 32.6580319628,
       "cause": "Our crews have found a need to repair SDG&E equipment.",
-      "circuit": "908",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 30 at 04:00 PM",
-      "community": "Valley Center/ Rincon/ Pauma Valley",
-      "district": "NE",
-      "substation": "VALLEY CENTER",
-      "device": "F548494",
+      "circuit": "44",
+      "estRestTimeType": "I",
+      "estRestTime": "Mar 30 at 08:00 PM",
+      "community": "National City",
+      "district": "CM",
+      "substation": "SWEETWATER",
+      "device": "F58153",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -24,19 +24,19 @@
       "nid": 0
     },
     {
-      "jobNumber": "1089184",
+      "jobNumber": "1089193",
       "startTime": "Mar 30 at 01:25 PM",
-      "customerOut": 177,
+      "customerOut": 110,
       "xCoord": -117.2852686606,
       "yCoord": 33.050632971,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "A tree has contacted SDG&E equipment.",
       "circuit": "288",
-      "estRestTimeType": "I",
-      "estRestTime": "Mar 30 at 04:30 PM",
+      "estRestTimeType": "F",
+      "estRestTime": "Mar 31 at 12:00 AM",
       "community": "Encinitas/ Cardiff-By-The-Sea/ Olivenhain",
       "district": "NC",
       "substation": "ENCINITAS",
-      "device": "F2461697",
+      "device": "<inline_jumper.23808>",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -45,29 +45,6 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
       "nid": 1
-    },
-    {
-      "jobNumber": "1089162",
-      "startTime": "Mar 30 at 12:30 PM",
-      "customerOut": 20,
-      "xCoord": -117.1567192216,
-      "yCoord": 32.7792483489,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "36",
-      "estRestTimeType": "F",
-      "estRestTime": "Mar 30 at 04:30 PM",
-      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
-      "district": "BC",
-      "substation": "FRIARS",
-      "device": "36-18",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "306080",
-      "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 2
     },
     {
       "jobNumber": "1085911",
@@ -89,8 +66,8 @@
       "plannedoutagereason": "Transformer Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 3
+      "first": true,
+      "nid": 2
     },
     {
       "jobNumber": "1083203",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "jobNumber": "1087260",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "jobNumber": "1085813",
@@ -159,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 5
     },
     {
       "jobNumber": "1087834",
@@ -182,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 6
     },
     {
       "jobNumber": "1082503",
@@ -205,7 +182,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 7
     },
     {
       "jobNumber": "1084539",
@@ -224,6 +201,29 @@
       "calltype": "SWP",
       "damage": "",
       "switchplan": "305163",
+      "plannedoutagereason": "Customer Requested",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 8
+    },
+    {
+      "jobNumber": "1084703",
+      "startTime": "Apr 02 at 02:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.6658837557,
+      "yCoord": 33.5126148419,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "196",
+      "estRestTimeType": "F",
+      "estRestTime": "Apr 02 at 04:00 PM",
+      "community": "San Juan Capistrano",
+      "district": "OC",
+      "substation": "SAN JUAN CAPISTRANO",
+      "device": "196-1120",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "305166",
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -1450,5 +1450,5 @@
       "nid": 62
     }
   ],
-  "last_updated": "Mar 30 at 01:40 PM"
+  "last_updated": "Mar 30 at 06:40 PM"
 }
