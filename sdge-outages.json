@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1092988",
+      "jobNumber": "1092991",
       "startTime": "Apr 15 at 01:19 AM",
-      "customerOut": 1935,
+      "customerOut": 3,
       "xCoord": -117.183989515,
       "yCoord": 32.8259697196,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "278",
-      "estRestTimeType": "I",
-      "estRestTime": "Apr 15 at 03:30 AM",
+      "estRestTimeType": "F",
+      "estRestTime": "Apr 15 at 08:00 AM",
       "community": "Clairemont/ Kearny Mesa",
       "district": "BC",
       "substation": "CLAIREMONT",
-      "device": "278-22R",
+      "device": "278-629F",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -24,6 +24,29 @@
       "nid": 0
     },
     {
+      "jobNumber": "1092990",
+      "startTime": "Apr 15 at 01:19 AM",
+      "customerOut": 1618,
+      "xCoord": -117.183989515,
+      "yCoord": 32.8259697196,
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
+      "circuit": "278",
+      "estRestTimeType": "F",
+      "estRestTime": "Apr 15 at 08:00 AM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "CLAIREMONT",
+      "device": "278-18",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
       "jobNumber": "1092984",
       "startTime": "Apr 14 at 08:05 PM",
       "customerOut": 2,
@@ -32,7 +55,7 @@
       "cause": "SDG&E is assessing the outage to determine the cause.",
       "circuit": "434",
       "estRestTimeType": "F",
-      "estRestTime": "Apr 15 at 04:00 AM",
+      "estRestTime": "Apr 15 at 08:00 AM",
       "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
       "district": "BC",
       "substation": "SCRIPPS",
@@ -44,29 +67,6 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 1
-    },
-    {
-      "jobNumber": "1092982",
-      "startTime": "Apr 14 at 10:59 PM",
-      "customerOut": 121,
-      "xCoord": -117.178913248,
-      "yCoord": 32.738701156,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "139",
-      "estRestTimeType": "F",
-      "estRestTime": "Apr 15 at 06:00 AM",
-      "community": "Ocean Beach/ Midway/ Lindbergh Field",
-      "district": "BC",
-      "substation": "VINE",
-      "device": "139-990",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "306323",
-      "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
       "nid": 2
     },
     {
@@ -89,7 +89,7 @@
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
+      "first": true,
       "nid": 3
     },
     {
@@ -2600,5 +2600,5 @@
       "nid": 112
     }
   ],
-  "last_updated": "Apr 15 at 01:40 AM"
+  "last_updated": "Apr 15 at 05:45 AM"
 }
