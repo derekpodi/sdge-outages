@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1117729",
-      "startTime": "Jul 25 at 07:04 PM",
-      "customerOut": 1,
-      "xCoord": -116.9205791889,
-      "yCoord": 32.8042288386,
+      "jobNumber": "1117767",
+      "startTime": "Jul 26 at 01:25 AM",
+      "customerOut": 78,
+      "xCoord": -117.0463520777,
+      "yCoord": 32.7439691295,
       "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "414",
+      "circuit": "160",
       "estRestTimeType": "I",
-      "estRestTime": "Jul 26 at 12:30 AM",
-      "community": "Granite Hills/ Bostonia/ E El Cajon",
+      "estRestTime": "Jul 26 at 04:30 AM",
+      "community": "Lemon Grove",
       "district": "EA",
-      "substation": "GRANITE",
-      "device": "414-283M",
+      "substation": "CHOLLAS WEST",
+      "device": "F128800",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -24,29 +24,6 @@
       "nid": 0
     },
     {
-      "jobNumber": "1117755",
-      "startTime": "Jul 25 at 09:06 PM",
-      "customerOut": 38,
-      "xCoord": -117.0498638381,
-      "yCoord": 32.7044143619,
-      "cause": "The cause of the outage is being investigated.",
-      "circuit": "325",
-      "estRestTimeType": "I",
-      "estRestTime": "Jul 26 at 12:00 AM",
-      "community": "Paradise Hills/ Skyline/ Bay Terraces",
-      "district": "CM",
-      "substation": "PARADISE",
-      "device": "F59068",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
       "jobNumber": "1117747",
       "startTime": "Jul 25 at 09:10 PM",
       "customerOut": 16,
@@ -54,8 +31,8 @@
       "yCoord": 32.5833574298,
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "531",
-      "estRestTimeType": "I",
-      "estRestTime": "Jul 26 at 12:00 AM",
+      "estRestTimeType": "F",
+      "estRestTime": "Jul 26 at 02:30 AM",
       "community": "Nestor/ San Ysidro/ Otay Mesa",
       "district": "CM",
       "substation": "IMPERIAL BEACH",
@@ -67,11 +44,11 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "1117756",
-      "startTime": "Jul 25 at 09:30 PM",
+      "startTime": "Jul 25 at 10:10 PM",
       "customerOut": 1,
       "xCoord": -116.9724358457,
       "yCoord": 32.7953702823,
@@ -90,6 +67,29 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
+      "nid": 2
+    },
+    {
+      "jobNumber": "1115526",
+      "startTime": "Jul 28 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -116.9867387986,
+      "yCoord": 32.6653989637,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "1007",
+      "estRestTimeType": "F",
+      "estRestTime": "Jul 29 at 04:00 AM",
+      "community": "Sunnyside/ Otay Lake/ Otay Mesa",
+      "district": "CM",
+      "substation": "PROCTOR VALLEY",
+      "device": "LBE.25466",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "306955",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
       "nid": 3
     },
     {
@@ -553,29 +553,6 @@
       "nid": 23
     },
     {
-      "jobNumber": "1113000",
-      "startTime": "Jul 25 at 02:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.1969240075,
-      "yCoord": 33.128790637,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "circuit": "599",
-      "estRestTimeType": "F",
-      "estRestTime": "Jul 25 at 08:00 PM",
-      "community": "W San Marcos",
-      "district": "NE",
-      "substation": "SAN MARCOS",
-      "device": "599-1233",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "299530",
-      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 24
-    },
-    {
       "jobNumber": "1111593",
       "startTime": "Jul 26 at 08:00 AM",
       "customerOut": 0,
@@ -596,7 +573,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 24
     },
     {
       "jobNumber": "1111595",
@@ -619,7 +596,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 25
     },
     {
       "jobNumber": "1115498",
@@ -639,6 +616,29 @@
       "damage": "",
       "switchplan": "315449",
       "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 26
+    },
+    {
+      "jobNumber": "1111687",
+      "startTime": "Jul 28 at 10:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.1572287535,
+      "yCoord": 32.829686182,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "775",
+      "estRestTimeType": "F",
+      "estRestTime": "Jul 29 at 02:00 AM",
+      "community": "Clairemont/ Kearny Mesa",
+      "district": "BC",
+      "substation": "MESA HEIGHTS",
+      "device": "2/0 PECN AL ABC 44528.0",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "295395",
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -806,5 +806,5 @@
       "nid": 34
     }
   ],
-  "last_updated": "Jul 25 at 09:40 PM"
+  "last_updated": "Jul 26 at 01:40 AM"
 }
