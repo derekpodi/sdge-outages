@@ -1,27 +1,50 @@
 {
   "locations": [
     {
-      "jobNumber": "1119583",
-      "startTime": "Aug 01 at 10:37 PM",
-      "customerOut": 2,
-      "xCoord": -117.0703081233,
-      "yCoord": 33.1365252707,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "450",
+      "jobNumber": "1119589",
+      "startTime": "Aug 02 at 01:49 AM",
+      "customerOut": 655,
+      "xCoord": -117.0915525521,
+      "yCoord": 32.6580448942,
+      "cause": "A vehicle accident has caused an outage.",
+      "circuit": "42",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 02 at 04:00 AM",
-      "community": "NE Escondido/ Dixon Lake/ Daley Ranch",
-      "district": "NE",
-      "substation": "ASH",
-      "device": "450-587",
+      "estRestTime": "Aug 02 at 06:00 AM",
+      "community": "National City",
+      "district": "CM",
+      "substation": "SWEETWATER",
+      "device": "LBE.34341",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "jobNumber": "1119593",
+      "startTime": "Aug 02 at 04:03 AM",
+      "customerOut": 1,
+      "xCoord": -117.2936697943,
+      "yCoord": 33.2109374954,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "1408",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 02 at 07:00 AM",
+      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
+      "district": "NC",
+      "substation": "OCEAN RANCH",
+      "device": "LBE.367880",
       "calltype": "PLAN",
       "damage": "",
-      "switchplan": "302168",
-      "plannedoutagereason": "Pole Replacement",
+      "switchplan": "316296",
+      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 0
+      "nid": 1
     },
     {
       "jobNumber": "1119574",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "1119584",
@@ -55,7 +78,7 @@
       "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
       "circuit": "HB5",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 02 at 05:00 AM",
+      "estRestTime": "Aug 02 at 07:00 AM",
       "community": "Center City/ Balboa Park/ Golden Hills",
       "district": "CM",
       "substation": "HARBOR 5",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "1119149",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "1115886",
@@ -113,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "jobNumber": "1113288",
@@ -136,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 6
     },
     {
       "jobNumber": "1113521",
@@ -156,29 +179,6 @@
       "damage": "",
       "switchplan": "299334",
       "plannedoutagereason": "Transformer Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 6
-    },
-    {
-      "jobNumber": "1117839",
-      "startTime": "Aug 02 at 04:00 AM",
-      "customerOut": 0,
-      "xCoord": -117.2936697943,
-      "yCoord": 33.2109374954,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1408",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 02 at 05:00 AM",
-      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
-      "district": "NC",
-      "substation": "OCEAN RANCH",
-      "device": "1408-434",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "316296",
-      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -898,5 +898,5 @@
       "nid": 38
     }
   ],
-  "last_updated": "Aug 02 at 01:40 AM"
+  "last_updated": "Aug 02 at 05:55 AM"
 }
