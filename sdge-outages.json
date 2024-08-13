@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "1122248",
-      "startTime": "Aug 12 at 05:23 PM",
-      "customerOut": 2,
-      "xCoord": -117.1732775702,
-      "yCoord": 32.6987521115,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "374",
-      "estRestTimeType": "I",
-      "estRestTime": "Aug 12 at 11:00 PM",
-      "community": "Coronado/ Coronado Cays",
-      "district": "CM",
-      "substation": "CORONADO",
-      "device": "374-285M",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "1122217",
       "startTime": "Aug 12 at 03:21 PM",
       "customerOut": 545,
@@ -32,7 +9,7 @@
       "cause": "Our crews have found a need to repair SDG&E equipment.",
       "circuit": "RI1",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 12 at 10:00 PM",
+      "estRestTime": "Aug 13 at 12:00 AM",
       "community": "El Cajon",
       "district": "EA",
       "substation": "RICHFIELD",
@@ -43,8 +20,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
       "jobNumber": "1122195",
@@ -67,7 +44,7 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "1122070",
@@ -78,7 +55,7 @@
       "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
       "circuit": "1201",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 12 at 10:00 PM",
+      "estRestTime": "Aug 12 at 11:00 PM",
       "community": "Nestor/ San Ysidro/ Otay Mesa",
       "district": "CM",
       "substation": "SAN YSIDRO",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 3
+      "nid": 2
     },
     {
       "jobNumber": "1122074",
@@ -101,7 +78,7 @@
       "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
       "circuit": "461",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 12 at 10:00 PM",
+      "estRestTime": "Aug 12 at 11:00 PM",
       "community": "Nestor/ San Ysidro/ Otay Mesa",
       "district": "CM",
       "substation": "SAN YSIDRO",
@@ -110,6 +87,29 @@
       "damage": "",
       "switchplan": "314815",
       "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 3
+    },
+    {
+      "jobNumber": "1122285",
+      "startTime": "Aug 12 at 08:41 PM",
+      "customerOut": 137,
+      "xCoord": -117.2442976926,
+      "yCoord": 33.2025342193,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "VS1",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 12 at 11:30 PM",
+      "community": "N Vista",
+      "district": "NC",
+      "substation": "VISTA",
+      "device": "F2127010",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "316728",
+      "plannedoutagereason": "System Reliability",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
@@ -1864,29 +1864,6 @@
       "nid": 80
     },
     {
-      "jobNumber": "1119346",
-      "startTime": "Aug 12 at 09:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.2442976926,
-      "yCoord": 33.2025342193,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "VS1",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 12 at 11:30 PM",
-      "community": "N Vista",
-      "district": "NC",
-      "substation": "VISTA",
-      "device": "F2127010",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "316728",
-      "plannedoutagereason": "System Reliability",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 81
-    },
-    {
       "jobNumber": "1119703",
       "startTime": "Aug 12 at 10:00 PM",
       "customerOut": 0,
@@ -1907,8 +1884,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 82
+      "nid": 81
     }
   ],
-  "last_updated": "Aug 12 at 06:50 PM"
+  "last_updated": "Aug 12 at 09:40 PM"
 }
