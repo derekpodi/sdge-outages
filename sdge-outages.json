@@ -1,19 +1,19 @@
 {
   "locations": [
     {
-      "jobNumber": "1122924",
+      "jobNumber": "1122940",
       "startTime": "Aug 14 at 05:42 PM",
-      "customerOut": 7,
+      "customerOut": 5,
       "xCoord": -116.972435911,
       "yCoord": 32.7953802565,
-      "cause": "The cause of the outage is being investigated.",
+      "cause": "A vehicle accident has caused an outage.",
       "circuit": "552",
-      "estRestTimeType": "I",
-      "estRestTime": "Aug 14 at 09:00 PM",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 15 at 12:00 AM",
       "community": "El Cajon",
       "district": "EA",
       "substation": "EL CAJON",
-      "device": "F2010041",
+      "device": "<inline_jumper.24846>",
       "calltype": "OUT",
       "damage": "",
       "switchplan": "null",
@@ -22,6 +22,29 @@
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1122952",
+      "startTime": "Aug 14 at 08:11 PM",
+      "customerOut": 15,
+      "xCoord": -117.3818142715,
+      "yCoord": 33.1968222566,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "1077",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 15 at 06:00 AM",
+      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
+      "district": "NC",
+      "substation": "OCEANSIDE",
+      "device": "1077-11",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "316297",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 1
     },
     {
       "jobNumber": "1117867",
@@ -43,8 +66,8 @@
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 1
+      "first": false,
+      "nid": 2
     },
     {
       "jobNumber": "1114929",
@@ -64,29 +87,6 @@
       "damage": "",
       "switchplan": "310336",
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 2
-    },
-    {
-      "jobNumber": "1119699",
-      "startTime": "Aug 14 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.3818142715,
-      "yCoord": 33.1968222566,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "1077",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 15 at 06:00 AM",
-      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
-      "district": "NC",
-      "substation": "OCEANSIDE",
-      "device": "1077-11",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "316297",
-      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1220,5 +1220,5 @@
       "nid": 52
     }
   ],
-  "last_updated": "Aug 14 at 06:40 PM"
+  "last_updated": "Aug 14 at 09:40 PM"
 }
