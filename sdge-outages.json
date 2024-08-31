@@ -1,27 +1,50 @@
 {
   "locations": [
     {
-      "jobNumber": "1122652",
-      "startTime": "Aug 30 at 07:00 PM",
-      "customerOut": 0,
+      "jobNumber": "1127589",
+      "startTime": "Aug 30 at 08:01 PM",
+      "customerOut": 1,
       "xCoord": -116.8529334009,
       "yCoord": 33.0179420195,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
       "circuit": "235",
       "estRestTimeType": "F",
-      "estRestTime": "Aug 30 at 11:59 PM",
+      "estRestTime": "Aug 31 at 12:00 AM",
       "community": "E Ramona",
       "district": "RA",
       "substation": "CREELMAN",
-      "device": "235-276",
-      "calltype": "SWP",
+      "device": "235-680",
+      "calltype": "PLAN",
       "damage": "",
       "switchplan": "317283",
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
       "nid": 0
+    },
+    {
+      "jobNumber": "1127590",
+      "startTime": "Aug 30 at 08:19 PM",
+      "customerOut": 4,
+      "xCoord": -116.9724359057,
+      "yCoord": 32.7953973597,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "74",
+      "estRestTimeType": "F",
+      "estRestTime": "Aug 31 at 03:00 AM",
+      "community": "El Cajon",
+      "district": "EA",
+      "substation": "EL CAJON",
+      "device": "74-786",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "317735",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 1
     },
     {
       "jobNumber": "1124232",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "1127376",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "1127489",
@@ -87,29 +110,6 @@
       "damage": "",
       "switchplan": "315805",
       "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 3
-    },
-    {
-      "jobNumber": "1122819",
-      "startTime": "Aug 30 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -116.9724359057,
-      "yCoord": 32.7953973597,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "74",
-      "estRestTimeType": "F",
-      "estRestTime": "Aug 31 at 03:00 AM",
-      "community": "El Cajon",
-      "district": "EA",
-      "substation": "EL CAJON",
-      "device": "74-786",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "317735",
-      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -139,5 +139,5 @@
       "nid": 5
     }
   ],
-  "last_updated": "Aug 30 at 06:55 PM"
+  "last_updated": "Aug 30 at 09:40 PM"
 }
