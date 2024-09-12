@@ -1,29 +1,6 @@
 {
   "locations": [
     {
-      "jobNumber": "1132674",
-      "startTime": "Sep 11 at 06:21 PM",
-      "customerOut": 18,
-      "xCoord": -117.2282310454,
-      "yCoord": 33.2251734997,
-      "cause": "Weather affected SDG&E equipment.",
-      "circuit": "NVS1",
-      "estRestTimeType": "F",
-      "estRestTime": "Sep 11 at 09:00 PM",
-      "community": "N Vista",
-      "district": "NC",
-      "substation": "NORTH VISTA",
-      "device": "SW_2024-09-09_13:04:03_jkstokely",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
       "jobNumber": "1127459",
       "startTime": "Sep 14 at 08:30 AM",
       "customerOut": 0,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "jobNumber": "1127122",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "jobNumber": "1127407",
@@ -87,6 +64,29 @@
       "damage": "",
       "switchplan": "312056",
       "plannedoutagereason": "Pole Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 2
+    },
+    {
+      "jobNumber": "1126605",
+      "startTime": "Sep 14 at 08:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.137572149,
+      "yCoord": 32.7842172337,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "144",
+      "estRestTimeType": "F",
+      "estRestTime": "Sep 15 at 05:00 AM",
+      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
+      "district": "BC",
+      "substation": "MISSION",
+      "device": "F129050",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "316989",
+      "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1381,5 +1381,5 @@
       "nid": 59
     }
   ],
-  "last_updated": "Sep 11 at 07:00 PM"
+  "last_updated": "Sep 11 at 09:45 PM"
 }
