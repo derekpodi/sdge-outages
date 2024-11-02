@@ -1,6 +1,52 @@
 {
   "locations": [
     {
+      "jobNumber": "1145494",
+      "startTime": "Nov 02 at 01:24 PM",
+      "customerOut": 1,
+      "xCoord": -116.9683379067,
+      "yCoord": 32.8545203917,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "392",
+      "estRestTimeType": "I",
+      "estRestTime": "Nov 02 at 07:00 PM",
+      "community": "Santee/ Carlton Hills",
+      "district": "EA",
+      "substation": "SANTEE",
+      "device": "392-165M",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "jobNumber": "1145483",
+      "startTime": "Nov 02 at 12:20 PM",
+      "customerOut": 31,
+      "xCoord": -117.2294706272,
+      "yCoord": 32.7197880628,
+      "cause": "SDG&E is assessing the outage to determine the cause.",
+      "circuit": "RV2",
+      "estRestTimeType": "I",
+      "estRestTime": "Nov 02 at 02:30 PM",
+      "community": "Ocean Beach/ Sunset Cliffs/ Point Loma",
+      "district": "BC",
+      "substation": "ROSEVILLE 2",
+      "device": "F357685",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
       "jobNumber": "1144983",
       "startTime": "Oct 31 at 11:01 AM",
       "customerOut": 1,
@@ -20,8 +66,8 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 2
     },
     {
       "jobNumber": "1145457",
@@ -44,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 3
     },
     {
       "jobNumber": "1145441",
@@ -67,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 4
     },
     {
       "jobNumber": "1145442",
@@ -86,52 +132,6 @@
       "calltype": "PLAN",
       "damage": "",
       "switchplan": "321965",
-      "plannedoutagereason": "Customer Requested",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 3
-    },
-    {
-      "jobNumber": "1145464",
-      "startTime": "Nov 02 at 09:25 AM",
-      "customerOut": 9,
-      "xCoord": -117.2552919486,
-      "yCoord": 32.9805166093,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "510",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 02 at 01:00 PM",
-      "community": "North City West/ Torrey Pines/ Fairbanks Country Club",
-      "district": "NC",
-      "substation": "DEL MAR",
-      "device": "LBE.132391",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "301952",
-      "plannedoutagereason": "Transformer Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "jobNumber": "1145440",
-      "startTime": "Nov 02 at 07:58 AM",
-      "customerOut": 1,
-      "xCoord": -116.9571510769,
-      "yCoord": 32.7439722975,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "circuit": "75",
-      "estRestTimeType": "F",
-      "estRestTime": "Nov 02 at 04:00 PM",
-      "community": "La Presa/ Spring Valley/ Rancho San Diego",
-      "district": "EA",
-      "substation": "JAMACHA",
-      "device": "75-924",
-      "calltype": "PLAN",
-      "damage": "",
-      "switchplan": "321745",
       "plannedoutagereason": "Customer Requested",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
@@ -1243,5 +1243,5 @@
       "nid": 53
     }
   ],
-  "last_updated": "Nov 02 at 09:45 AM"
+  "last_updated": "Nov 02 at 01:40 PM"
 }
