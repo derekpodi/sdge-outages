@@ -1,6 +1,52 @@
 {
   "locations": [
     {
+      "jobNumber": "1158045",
+      "startTime": "Dec 22 at 08:27 PM",
+      "customerOut": 20,
+      "xCoord": -117.2335292272,
+      "yCoord": 32.7415089471,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "50",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 23 at 05:30 AM",
+      "community": "Ocean Beach/ Midway/ Lindbergh Field",
+      "district": "BC",
+      "substation": "POINT LOMA",
+      "device": "LBE.190999",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "323289",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "jobNumber": "1158046",
+      "startTime": "Dec 22 at 08:38 PM",
+      "customerOut": 74,
+      "xCoord": -117.1424022154,
+      "yCoord": 32.694388552,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "70",
+      "estRestTimeType": "F",
+      "estRestTime": "Dec 23 at 06:00 AM",
+      "community": "Logan Heights/ Mountain View/ Lincoln Park",
+      "district": "CM",
+      "substation": "SAMPSON",
+      "device": "LBE.892916",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "325936",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 1
+    },
+    {
       "jobNumber": "1152887",
       "startTime": "Dec 23 at 08:00 AM",
       "customerOut": 0,
@@ -20,8 +66,8 @@
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 2
     },
     {
       "jobNumber": "1156269",
@@ -44,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 3
     },
     {
       "jobNumber": "1154840",
@@ -67,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 4
     },
     {
       "jobNumber": "1155539",
@@ -90,30 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
-    },
-    {
-      "jobNumber": "1156718",
-      "startTime": "Dec 22 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.2335292272,
-      "yCoord": 32.7415089471,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "50",
-      "estRestTimeType": "F",
-      "estRestTime": "Dec 23 at 05:30 AM",
-      "community": "Ocean Beach/ Midway/ Lindbergh Field",
-      "district": "BC",
-      "substation": "POINT LOMA",
-      "device": "Open.Point.194146",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "323289",
-      "plannedoutagereason": "New Business",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "jobNumber": "1154839",
@@ -133,29 +156,6 @@
       "damage": "",
       "switchplan": "325521",
       "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 5
-    },
-    {
-      "jobNumber": "1156606",
-      "startTime": "Dec 22 at 10:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.1424022154,
-      "yCoord": 32.694388552,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "70",
-      "estRestTimeType": "F",
-      "estRestTime": "Dec 23 at 06:00 AM",
-      "community": "Logan Heights/ Mountain View/ Lincoln Park",
-      "district": "CM",
-      "substation": "SAMPSON",
-      "device": "1000 XLPECN-PEJ AL ABC 552222.5",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "325936",
-      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -277,5 +277,5 @@
       "nid": 11
     }
   ],
-  "last_updated": "Dec 22 at 06:05 PM"
+  "last_updated": "Dec 22 at 08:45 PM"
 }
