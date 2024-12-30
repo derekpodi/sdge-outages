@@ -1,6 +1,29 @@
 {
   "locations": [
     {
+      "jobNumber": "1159047",
+      "startTime": "Dec 29 at 04:30 PM",
+      "customerOut": 328,
+      "xCoord": -117.0915525554,
+      "yCoord": 32.6580481002,
+      "cause": "The cause of the outage is being investigated.",
+      "circuit": "45",
+      "estRestTimeType": "I",
+      "estRestTime": "Dec 29 at 10:00 PM",
+      "community": "National City",
+      "district": "CM",
+      "substation": "SWEETWATER",
+      "device": "F2142281",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
       "jobNumber": "1152632",
       "startTime": "Dec 30 at 08:00 AM",
       "customerOut": 0,
@@ -21,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 0
+      "nid": 1
     },
     {
       "jobNumber": "1153993",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "jobNumber": "1152388",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "jobNumber": "1152389",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "jobNumber": "1157695",
@@ -113,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "jobNumber": "1155520",
@@ -136,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 6
     },
     {
       "jobNumber": "1156547",
@@ -156,29 +179,6 @@
       "damage": "",
       "switchplan": "325450",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 6
-    },
-    {
-      "jobNumber": "1159004",
-      "startTime": "Dec 29 at 09:00 AM",
-      "customerOut": 0,
-      "xCoord": -116.9585664516,
-      "yCoord": 33.2858096419,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "circuit": "217",
-      "estRestTimeType": "F",
-      "estRestTime": "Dec 29 at 12:00 PM",
-      "community": "Valley Center/ Rincon/ Pauma Valley",
-      "district": "NE",
-      "substation": "RINCON",
-      "device": "2/0 TRXLPECN-PEJ AL ABC 4510536.0",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "326727",
-      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -645,5 +645,5 @@
       "nid": 27
     }
   ],
-  "last_updated": "Dec 29 at 12:40 PM"
+  "last_updated": "Dec 29 at 06:05 PM"
 }
