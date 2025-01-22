@@ -254,6 +254,29 @@
       "nid": 10
     },
     {
+      "jobNumber": "1165062",
+      "startTime": "Jan 21 at 02:54 PM",
+      "customerOut": 29,
+      "xCoord": -117.7027606802,
+      "yCoord": 33.494835794799997,
+      "cause": "A vehicle accident has caused an outage.",
+      "circuit": "312",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 22 at 02:00 AM",
+      "community": "Laguna Niguel",
+      "district": "OC",
+      "substation": "LAGUNA NIGUEL",
+      "device": "LBE.417710",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 11
+    },
+    {
       "jobNumber": "1164569",
       "startTime": "Jan 20 at 07:35 PM",
       "customerOut": 116,
@@ -274,7 +297,7 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-psps-teal@2x.png",
       "first": false,
-      "nid": 11
+      "nid": 12
     },
     {
       "jobNumber": "1164774",
@@ -296,29 +319,6 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-psps-teal@2x.png",
-      "first": false,
-      "nid": 12
-    },
-    {
-      "jobNumber": "1165062",
-      "startTime": "Jan 21 at 02:54 PM",
-      "customerOut": 29,
-      "xCoord": -117.7027606802,
-      "yCoord": 33.494835794799997,
-      "cause": "A vehicle accident has caused an outage.",
-      "circuit": "312",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 22 at 08:00 PM",
-      "community": "Laguna Niguel",
-      "district": "OC",
-      "substation": "LAGUNA NIGUEL",
-      "device": "LBE.417710",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
       "nid": 13
     },
@@ -1105,29 +1105,6 @@
       "nid": 47
     },
     {
-      "jobNumber": "1165087",
-      "startTime": "Jan 21 at 12:35 PM",
-      "customerOut": 278,
-      "xCoord": -117.1567051892,
-      "yCoord": 32.779239160000003,
-      "cause": "A fire has damaged the electric system.",
-      "circuit": "38",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 21 at 10:00 PM",
-      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
-      "district": "BC",
-      "substation": "FRIARS",
-      "device": "38-23",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 48
-    },
-    {
       "jobNumber": "1164407",
       "startTime": "Jan 20 at 07:04 AM",
       "customerOut": 9,
@@ -1148,6 +1125,29 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
+      "nid": 48
+    },
+    {
+      "jobNumber": "1165131",
+      "startTime": "Jan 21 at 07:30 PM",
+      "customerOut": 11,
+      "xCoord": -117.17341393949999,
+      "yCoord": 32.905104614499997,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "circuit": "961",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 22 at 03:00 AM",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
+      "district": "BC",
+      "substation": "MESA RIM",
+      "device": "LBE.136871",
+      "calltype": "PLAN",
+      "damage": "",
+      "switchplan": "327105",
+      "plannedoutagereason": "New Business",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
       "nid": 49
     },
     {
@@ -1795,6 +1795,29 @@
       "nid": 77
     },
     {
+      "jobNumber": "1163984",
+      "startTime": "Jan 24 at 07:00 PM",
+      "customerOut": 0,
+      "xCoord": -117.28775497319999,
+      "yCoord": 33.123011679000001,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "589",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 25 at 01:00 AM",
+      "community": "Carlsbad/ La Costa",
+      "district": "NC",
+      "substation": "PALOMAR AIRPORT",
+      "device": "589-46",
+      "calltype": "SWP",
+      "damage": "",
+      "switchplan": "324024",
+      "plannedoutagereason": "Switch Replacement",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 78
+    },
+    {
       "jobNumber": "1163026",
       "startTime": "Jan 24 at 09:00 AM",
       "customerOut": 0,
@@ -1815,7 +1838,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 78
+      "nid": 79
     },
     {
       "jobNumber": "1163568",
@@ -1838,7 +1861,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 79
+      "nid": 80
     },
     {
       "jobNumber": "1160827",
@@ -1861,7 +1884,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 80
+      "nid": 81
     },
     {
       "jobNumber": "1164844",
@@ -1884,7 +1907,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 81
+      "nid": 82
     },
     {
       "jobNumber": "1163067",
@@ -1907,7 +1930,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 82
+      "nid": 83
     },
     {
       "jobNumber": "1159407",
@@ -1927,29 +1950,6 @@
       "damage": "",
       "switchplan": "309809",
       "plannedoutagereason": "Pole Replacement",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 83
-    },
-    {
-      "jobNumber": "1162973",
-      "startTime": "Jan 21 at 09:00 PM",
-      "customerOut": 0,
-      "xCoord": -117.17341393949999,
-      "yCoord": 32.905104614499997,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "circuit": "961",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 22 at 03:00 AM",
-      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
-      "district": "BC",
-      "substation": "MESA RIM",
-      "device": "2/0 TRXLPECN-PEJ AL ABC 4397139.1",
-      "calltype": "SWP",
-      "damage": "",
-      "switchplan": "327105",
-      "plannedoutagereason": "New Business",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -2140,5 +2140,5 @@
       "nid": 92
     }
   ],
-  "last_updated": "Jan 21 at 06:00 PM"
+  "last_updated": "Jan 21 at 08:40 PM"
 }
