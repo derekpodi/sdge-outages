@@ -438,29 +438,6 @@
       "nid": 18
     },
     {
-      "jobNumber": "1165553",
-      "startTime": "Jan 22 at 05:31 PM",
-      "customerOut": 79,
-      "xCoord": -116.89927208909999,
-      "yCoord": 32.859738430900002,
-      "cause": "SDG&E is assessing the outage to determine the cause.",
-      "circuit": "243",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 23 at 06:00 AM",
-      "community": "Blossom Valley/ El Monte",
-      "district": "EA",
-      "substation": "LOS COCHES",
-      "device": "F192203",
-      "calltype": "OUT",
-      "damage": "",
-      "switchplan": "null",
-      "plannedoutagereason": "null",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 19
-    },
-    {
       "jobNumber": "1164637",
       "startTime": "Jan 20 at 09:01 PM",
       "customerOut": 382,
@@ -481,7 +458,7 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-psps-teal@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 19
     },
     {
       "jobNumber": "1164642",
@@ -504,7 +481,7 @@
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-psps-teal@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 20
     },
     {
       "jobNumber": "1164569",
@@ -526,6 +503,29 @@
       "plannedoutagereason": "null",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-psps-teal@2x.png",
+      "first": false,
+      "nid": 21
+    },
+    {
+      "jobNumber": "1165575",
+      "startTime": "Jan 22 at 05:04 PM",
+      "customerOut": 2,
+      "xCoord": -116.89927208909999,
+      "yCoord": 32.859738430900002,
+      "cause": "Our crews have found a need to repair SDG&E equipment.",
+      "circuit": "243",
+      "estRestTimeType": "F",
+      "estRestTime": "Jan 23 at 06:00 AM",
+      "community": "Blossom Valley/ El Monte",
+      "district": "EA",
+      "substation": "LOS COCHES",
+      "device": "LBE.112385",
+      "calltype": "OUT",
+      "damage": "",
+      "switchplan": "null",
+      "plannedoutagereason": "null",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
       "nid": 22
     },
@@ -622,19 +622,19 @@
       "nid": 26
     },
     {
-      "jobNumber": "1165241",
-      "startTime": "Jan 22 at 08:10 AM",
-      "customerOut": 2,
+      "jobNumber": "1165570",
+      "startTime": "Jan 22 at 06:23 PM",
+      "customerOut": 1,
       "xCoord": -117.0269997091,
       "yCoord": 32.5622718937,
       "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
       "circuit": "462",
-      "estRestTimeType": "F",
-      "estRestTime": "Jan 22 at 06:30 PM",
+      "estRestTimeType": "",
+      "estRestTime": "",
       "community": "Nestor/ San Ysidro/ Otay Mesa",
       "district": "CM",
       "substation": "SAN YSIDRO",
-      "device": "LBE.1778785",
+      "device": "462-722",
       "calltype": "PLAN",
       "damage": "",
       "switchplan": "327157",
@@ -714,23 +714,23 @@
       "nid": 30
     },
     {
-      "jobNumber": "1164562",
-      "startTime": "Jan 20 at 07:16 PM",
+      "jobNumber": "1162567",
+      "startTime": "Jan 25 at 08:00 PM",
       "customerOut": 0,
-      "xCoord": -116.3480609268,
-      "yCoord": 33.2708583382,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "circuit": "171",
+      "xCoord": -117.031262743,
+      "yCoord": 32.978729249600001,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "circuit": "178",
       "estRestTimeType": "F",
-      "estRestTime": "Jan 24 at 11:16 AM",
-      "community": "Borrego Springs/ Shelter Valley/ Canebrake",
-      "district": "RA",
-      "substation": "BORREGO",
-      "device": "171-429",
+      "estRestTime": "Jan 26 at 05:00 AM",
+      "community": "S Poway",
+      "district": "NE",
+      "substation": "POWAY",
+      "device": "178-24",
       "calltype": "SWP",
       "damage": "",
-      "switchplan": "328001",
-      "plannedoutagereason": "CAISO DER",
+      "switchplan": "327278",
+      "plannedoutagereason": "Pole Replacement",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1519,5 +1519,5 @@
       "nid": 65
     }
   ],
-  "last_updated": "Jan 22 at 06:00 PM"
+  "last_updated": "Jan 22 at 08:40 PM"
 }
