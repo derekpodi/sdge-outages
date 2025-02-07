@@ -2,29 +2,6 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 32.784217233699998,
-      "circuit": "144",
-      "switchplan": "",
-      "cause": "A vehicle accident has caused an outage.",
-      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
-      "customerOut": 1,
-      "plannedoutagereason": "",
-      "xCoord": -117.13757214899999,
-      "district": "BC",
-      "substation": "MISSION",
-      "estRestTimeType": "F",
-      "startTime": "Feb 06 at 11:05 AM",
-      "calltype": "OUT",
-      "device": "LBE.66724",
-      "jobNumber": "1170363",
-      "estRestTime": "Feb 06 at 09:00 PM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "damage": "",
       "yCoord": 32.799091759299998,
       "circuit": "545",
       "switchplan": "",
@@ -43,8 +20,8 @@
       "estRestTime": "Feb 06 at 09:00 PM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
+      "first": true,
+      "nid": 0
     },
     {
       "damage": "",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 2
+      "nid": 1
     },
     {
       "damage": "",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "damage": "",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "damage": "",
@@ -136,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 4
     },
     {
       "damage": "",
@@ -159,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 5
     },
     {
       "damage": "",
@@ -179,6 +156,29 @@
       "device": "#2 5005 ABC 65448.0",
       "jobNumber": "1168451",
       "estRestTime": "Feb 07 at 02:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 6
+    },
+    {
+      "damage": "",
+      "yCoord": 32.892737123099998,
+      "circuit": "1446",
+      "switchplan": 327168,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
+      "customerOut": 0,
+      "plannedoutagereason": "Customer Requested",
+      "xCoord": -117.20592593249999,
+      "district": "BC",
+      "substation": "MIRA SORRENTO",
+      "estRestTimeType": "F",
+      "startTime": "Feb 09 at 06:00 PM",
+      "calltype": "SWP",
+      "device": "1446-24",
+      "jobNumber": "1164862",
+      "estRestTime": "Feb 10 at 02:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -990,5 +990,5 @@
       "nid": 42
     }
   ],
-  "last_updated": "Feb 06 at 05:58 PM"
+  "last_updated": "Feb 06 at 08:43 PM"
 }
