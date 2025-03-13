@@ -2,29 +2,6 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 32.816019025599999,
-      "circuit": "380",
-      "switchplan": "",
-      "cause": "A foreign object contacted the power lines.",
-      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
-      "customerOut": 438,
-      "plannedoutagereason": "",
-      "xCoord": -117.08860746649999,
-      "district": "BC",
-      "substation": "ELLIOTT",
-      "estRestTimeType": "I",
-      "startTime": "Mar 12 at 06:14 PM",
-      "calltype": "OUT",
-      "device": "F128934",
-      "jobNumber": "1180539",
-      "estRestTime": "Mar 12 at 08:30 PM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "damage": "",
       "yCoord": 33.136511424799998,
       "circuit": "452",
       "switchplan": "",
@@ -43,7 +20,30 @@
       "estRestTime": "Mar 13 at 06:00 PM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
+      "yCoord": 32.713345516700002,
+      "circuit": "468",
+      "switchplan": 315402,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Center City/ Balboa Park/ Golden Hills",
+      "customerOut": 1,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.1516369541,
+      "district": "CM",
+      "substation": "URBAN",
+      "estRestTimeType": "F",
+      "startTime": "Mar 12 at 09:27 PM",
+      "calltype": "PLAN",
+      "device": "LBE.2957350",
+      "jobNumber": "1180566",
+      "estRestTime": "Mar 13 at 03:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
       "nid": 1
     },
     {
@@ -66,7 +66,7 @@
       "estRestTime": "Mar 13 at 03:00 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
+      "first": false,
       "nid": 2
     },
     {
@@ -1496,5 +1496,5 @@
       "nid": 64
     }
   ],
-  "last_updated": "Mar 12 at 07:03 PM"
+  "last_updated": "Mar 12 at 09:43 PM"
 }
