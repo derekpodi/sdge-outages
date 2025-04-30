@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 33.128790654100001,
+      "circuit": "1094",
+      "switchplan": 326550,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "W San Marcos",
+      "customerOut": 1,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.1969132056,
+      "district": "NE",
+      "substation": "SAN MARCOS",
+      "estRestTimeType": "F",
+      "startTime": "Apr 30 at 12:13 AM",
+      "calltype": "PLAN",
+      "device": "1094-430",
+      "jobNumber": "1193040",
+      "estRestTime": "Apr 30 at 05:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 33.270867748999997,
       "circuit": "170",
       "switchplan": 334879,
@@ -20,8 +43,31 @@
       "estRestTime": "May 29 at 12:00 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
+    },
+    {
+      "damage": "",
+      "yCoord": 32.893969140499998,
+      "circuit": "223",
+      "switchplan": 317814,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
+      "customerOut": 3,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.13567275520001,
+      "district": "BC",
+      "substation": "MIRAMAR",
+      "estRestTimeType": "F",
+      "startTime": "Apr 29 at 11:28 PM",
+      "calltype": "PLAN",
+      "device": "LBE.152496",
+      "jobNumber": "1193036",
+      "estRestTime": "Apr 30 at 04:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 2
     },
     {
       "damage": "",
@@ -44,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 3
     },
     {
       "damage": "",
@@ -67,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 4
     },
     {
       "damage": "",
@@ -86,52 +132,6 @@
       "calltype": "PLAN",
       "device": "570-66",
       "jobNumber": "1193028",
-      "estRestTime": "Apr 30 at 04:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 3
-    },
-    {
-      "damage": "",
-      "yCoord": 32.884951409599999,
-      "circuit": "968",
-      "switchplan": 317399,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
-      "customerOut": 8,
-      "plannedoutagereason": "Transformer Replacement",
-      "xCoord": -117.200895295,
-      "district": "BC",
-      "substation": "EASTGATE",
-      "estRestTimeType": "F",
-      "startTime": "Apr 29 at 09:06 PM",
-      "calltype": "PLAN",
-      "device": "LBE.133784",
-      "jobNumber": "1193026",
-      "estRestTime": "Apr 30 at 01:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "damage": "",
-      "yCoord": 33.202534219299999,
-      "circuit": "VS1",
-      "switchplan": 332683,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "community": "N Vista",
-      "customerOut": 788,
-      "plannedoutagereason": "Pole Replacement",
-      "xCoord": -117.2442976926,
-      "district": "NC",
-      "substation": "VISTA",
-      "estRestTimeType": "F",
-      "startTime": "Apr 29 at 09:05 PM",
-      "calltype": "PLAN",
-      "device": "LBE.351665",
-      "jobNumber": "1193024",
       "estRestTime": "Apr 30 at 04:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
@@ -189,7 +189,7 @@
       "yCoord": 33.128790654100001,
       "circuit": "1094",
       "switchplan": 326550,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "W San Marcos",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -255,29 +255,6 @@
     },
     {
       "damage": "",
-      "yCoord": 33.5262613409,
-      "circuit": "1242",
-      "switchplan": 331378,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
-      "customerOut": 0,
-      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
-      "xCoord": -117.5987927191,
-      "district": "OC",
-      "substation": "RANCHO MISSION VIEJO",
-      "estRestTimeType": "F",
-      "startTime": "Apr 29 at 11:00 PM",
-      "calltype": "SWP",
-      "device": "F2470957",
-      "jobNumber": "1188164",
-      "estRestTime": "Apr 30 at 05:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 11
-    },
-    {
-      "damage": "",
       "yCoord": 33.068493032200003,
       "circuit": "1250",
       "switchplan": 332936,
@@ -297,7 +274,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 12
+      "nid": 11
     },
     {
       "damage": "",
@@ -320,7 +297,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 13
+      "nid": 12
     },
     {
       "damage": "",
@@ -343,7 +320,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 14
+      "nid": 13
     },
     {
       "damage": "",
@@ -366,7 +343,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 15
+      "nid": 14
     },
     {
       "damage": "",
@@ -389,7 +366,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 15
     },
     {
       "damage": "",
@@ -412,7 +389,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 16
     },
     {
       "damage": "",
@@ -435,7 +412,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 17
     },
     {
       "damage": "",
@@ -458,7 +435,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 18
     },
     {
       "damage": "",
@@ -481,7 +458,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 19
     },
     {
       "damage": "",
@@ -504,7 +481,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 20
     },
     {
       "damage": "",
@@ -527,7 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 21
     },
     {
       "damage": "",
@@ -550,7 +527,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 23
+      "nid": 22
     },
     {
       "damage": "",
@@ -573,7 +550,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 24
+      "nid": 23
     },
     {
       "damage": "",
@@ -596,7 +573,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 24
     },
     {
       "damage": "",
@@ -619,7 +596,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 25
     },
     {
       "damage": "",
@@ -642,14 +619,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 27
+      "nid": 26
     },
     {
       "damage": "",
       "yCoord": 32.893969140499998,
       "circuit": "223",
       "switchplan": 317814,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
       "customerOut": 0,
       "plannedoutagereason": "Transformer Replacement",
@@ -665,7 +642,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 28
+      "nid": 27
     },
     {
       "damage": "",
@@ -688,7 +665,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 29
+      "nid": 28
     },
     {
       "damage": "",
@@ -711,7 +688,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 30
+      "nid": 29
     },
     {
       "damage": "",
@@ -731,6 +708,29 @@
       "device": "240-400",
       "jobNumber": "1188176",
       "estRestTime": "May 01 at 02:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 30
+    },
+    {
+      "damage": "",
+      "yCoord": 32.859741569199997,
+      "circuit": "244",
+      "switchplan": 330834,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "community": "Blossom Valley/ El Monte",
+      "customerOut": 0,
+      "plannedoutagereason": "System Reliability",
+      "xCoord": -116.8992721454,
+      "district": "EA",
+      "substation": "LOS COCHES",
+      "estRestTimeType": "F",
+      "startTime": "May 02 at 10:00 PM",
+      "calltype": "SWP",
+      "device": "F193492",
+      "jobNumber": "1192805",
+      "estRestTime": "May 03 at 05:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1060,6 +1060,29 @@
     },
     {
       "damage": "",
+      "yCoord": 32.827622050899997,
+      "circuit": "355",
+      "switchplan": 333686,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "community": "Harbison Canyon/ Glen Oaks/ W Alpine",
+      "customerOut": 0,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -116.7896476284,
+      "district": "EA",
+      "substation": "ALPINE",
+      "estRestTimeType": "F",
+      "startTime": "May 02 at 10:00 PM",
+      "calltype": "SWP",
+      "device": "355-1765",
+      "jobNumber": "1191073",
+      "estRestTime": "May 03 at 06:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 46
+    },
+    {
+      "damage": "",
       "yCoord": 32.8276367526,
       "circuit": "357",
       "switchplan": 333907,
@@ -1079,7 +1102,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 46
+      "nid": 47
     },
     {
       "damage": "",
@@ -1102,14 +1125,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 47
+      "nid": 48
     },
     {
       "damage": "",
       "yCoord": 32.7550194624,
       "circuit": "363",
       "switchplan": 333648,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "University Heights/ North Park/ Normal Heights",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -1125,7 +1148,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 48
+      "nid": 49
     },
     {
       "damage": "",
@@ -1148,7 +1171,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 49
+      "nid": 50
     },
     {
       "damage": "",
@@ -1171,7 +1194,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 50
+      "nid": 51
     },
     {
       "damage": "",
@@ -1194,7 +1217,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 51
+      "nid": 52
     },
     {
       "damage": "",
@@ -1217,7 +1240,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 52
+      "nid": 53
     },
     {
       "damage": "",
@@ -1240,7 +1263,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 53
+      "nid": 54
     },
     {
       "damage": "",
@@ -1263,7 +1286,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 54
+      "nid": 55
     },
     {
       "damage": "",
@@ -1286,7 +1309,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 55
+      "nid": 56
     },
     {
       "damage": "",
@@ -1309,7 +1332,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 56
+      "nid": 57
     },
     {
       "damage": "",
@@ -1332,7 +1355,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 57
+      "nid": 58
     },
     {
       "damage": "",
@@ -1355,7 +1378,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 58
+      "nid": 59
     },
     {
       "damage": "",
@@ -1378,7 +1401,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 59
+      "nid": 60
     },
     {
       "damage": "",
@@ -1401,7 +1424,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 60
+      "nid": 61
     },
     {
       "damage": "",
@@ -1424,7 +1447,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 61
+      "nid": 62
     },
     {
       "damage": "",
@@ -1447,7 +1470,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 62
+      "nid": 63
     },
     {
       "damage": "",
@@ -1470,7 +1493,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 63
+      "nid": 64
     },
     {
       "damage": "",
@@ -1493,7 +1516,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 64
+      "nid": 65
     },
     {
       "damage": "",
@@ -1516,7 +1539,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 65
+      "nid": 66
     },
     {
       "damage": "",
@@ -1539,7 +1562,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 66
+      "nid": 67
     },
     {
       "damage": "",
@@ -1562,7 +1585,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 67
+      "nid": 68
     },
     {
       "damage": "",
@@ -1585,7 +1608,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 68
+      "nid": 69
     },
     {
       "damage": "",
@@ -1608,7 +1631,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 69
+      "nid": 70
     },
     {
       "damage": "",
@@ -1631,7 +1654,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 70
+      "nid": 71
     },
     {
       "damage": "",
@@ -1654,7 +1677,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 71
+      "nid": 72
     },
     {
       "damage": "",
@@ -1677,7 +1700,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 72
+      "nid": 73
     },
     {
       "damage": "",
@@ -1700,7 +1723,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 73
+      "nid": 74
     },
     {
       "damage": "",
@@ -1723,7 +1746,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 74
+      "nid": 75
     },
     {
       "damage": "",
@@ -1746,14 +1769,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 75
+      "nid": 76
     },
     {
       "damage": "",
       "yCoord": 32.840138891000002,
       "circuit": "570",
       "switchplan": 332264,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "La Jolla/ La Jolla Shores/ Soledad Mountain",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -1769,7 +1792,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 76
+      "nid": 77
     },
     {
       "damage": "",
@@ -1792,7 +1815,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 77
+      "nid": 78
     },
     {
       "damage": "",
@@ -1815,7 +1838,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 78
+      "nid": 79
     },
     {
       "damage": "",
@@ -1838,7 +1861,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 79
+      "nid": 80
     },
     {
       "damage": "",
@@ -1861,7 +1884,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 80
+      "nid": 81
     },
     {
       "damage": "",
@@ -1884,7 +1907,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 81
+      "nid": 82
     },
     {
       "damage": "",
@@ -1907,7 +1930,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 82
+      "nid": 83
     },
     {
       "damage": "",
@@ -1930,7 +1953,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 83
+      "nid": 84
     },
     {
       "damage": "",
@@ -1953,7 +1976,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 84
+      "nid": 85
     },
     {
       "damage": "",
@@ -1976,7 +1999,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 85
+      "nid": 86
     },
     {
       "damage": "",
@@ -1999,7 +2022,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 86
+      "nid": 87
     },
     {
       "damage": "",
@@ -2022,7 +2045,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 87
+      "nid": 88
     },
     {
       "damage": "",
@@ -2045,7 +2068,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 88
+      "nid": 89
     },
     {
       "damage": "",
@@ -2068,7 +2091,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 89
+      "nid": 90
     },
     {
       "damage": "",
@@ -2091,7 +2114,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 90
+      "nid": 91
     },
     {
       "damage": "",
@@ -2111,29 +2134,6 @@
       "device": "908-396",
       "jobNumber": "1188654",
       "estRestTime": "May 02 at 01:00 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 91
-    },
-    {
-      "damage": "",
-      "yCoord": 32.884951409599999,
-      "circuit": "968",
-      "switchplan": 317399,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
-      "customerOut": 0,
-      "plannedoutagereason": "Transformer Replacement",
-      "xCoord": -117.200895295,
-      "district": "BC",
-      "substation": "EASTGATE",
-      "estRestTimeType": "F",
-      "startTime": "Apr 29 at 10:00 PM",
-      "calltype": "SWP",
-      "device": "968-75",
-      "jobNumber": "1184513",
-      "estRestTime": "Apr 30 at 01:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -2554,5 +2554,5 @@
       "nid": 110
     }
   ],
-  "last_updated": "Apr 29 at 09:43 PM"
+  "last_updated": "Apr 30 at 01:43 AM"
 }
