@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 33.456955566300003,
+      "circuit": "991",
+      "switchplan": 329962,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Ladera Ranch/ Coto De Caza/ Ortega",
+      "customerOut": 2,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.5890331169,
+      "district": "OC",
+      "substation": "PICO",
+      "estRestTimeType": "F",
+      "startTime": "May 21 at 09:08 PM",
+      "calltype": "PLAN",
+      "device": "LBE.401160",
+      "jobNumber": "1198615",
+      "estRestTime": "May 21 at 11:30 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 32.6653989637,
       "circuit": "1007",
       "switchplan": 328274,
@@ -20,8 +43,8 @@
       "estRestTime": "May 22 at 12:30 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "damage": "",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
     },
     {
       "damage": "",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "damage": "",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "damage": "",
@@ -113,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "damage": "",
@@ -136,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 6
     },
     {
       "damage": "",
@@ -156,29 +179,6 @@
       "device": "140-318",
       "jobNumber": "1192910",
       "estRestTime": "May 22 at 04:00 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 6
-    },
-    {
-      "damage": "",
-      "yCoord": 32.595284148600001,
-      "circuit": "153",
-      "switchplan": 335720,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "community": "S Chula Vista/ Castle Park/ Otay",
-      "customerOut": 0,
-      "plannedoutagereason": "New Business",
-      "xCoord": -117.057655821,
-      "district": "CM",
-      "substation": "OTAY",
-      "estRestTimeType": "F",
-      "startTime": "May 21 at 10:00 PM",
-      "calltype": "SWP",
-      "device": "#6 B.STRD AC 30474.0",
-      "jobNumber": "1195555",
-      "estRestTime": "May 22 at 05:30 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1293,7 +1293,7 @@
       "yCoord": 33.456955566300003,
       "circuit": "991",
       "switchplan": 329962,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Ladera Ranch/ Coto De Caza/ Ortega",
       "customerOut": 0,
       "plannedoutagereason": "Transformer Replacement",
@@ -1519,5 +1519,5 @@
       "nid": 65
     }
   ],
-  "last_updated": "May 21 at 07:18 PM"
+  "last_updated": "May 21 at 09:43 PM"
 }
