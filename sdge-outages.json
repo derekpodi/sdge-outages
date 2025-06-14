@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 33.021607515299998,
+      "circuit": "537",
+      "switchplan": 336929,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Rancho Penasquitos/ Rancho Bernardo/ San Pasqual",
+      "customerOut": 54,
+      "plannedoutagereason": "New Business",
+      "xCoord": -117.0962893989,
+      "district": "NE",
+      "substation": "BERNARDO",
+      "estRestTimeType": "F",
+      "startTime": "Jun 13 at 09:00 PM",
+      "calltype": "PLAN",
+      "device": "537-43",
+      "jobNumber": "1203960",
+      "estRestTime": "Jun 14 at 05:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 33.014272568800003,
       "circuit": "1001",
       "switchplan": 331900,
@@ -20,8 +43,8 @@
       "estRestTime": "Jun 16 at 10:30 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "damage": "",
@@ -41,29 +64,6 @@
       "device": "1094-454",
       "jobNumber": "1201403",
       "estRestTime": "Jun 16 at 02:30 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "damage": "",
-      "yCoord": 33.101168060200003,
-      "circuit": "1117",
-      "switchplan": 336097,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
-      "community": "Carlsbad/ La Costa",
-      "customerOut": 0,
-      "plannedoutagereason": "Transformer Replacement",
-      "xCoord": -117.2502858778,
-      "district": "NC",
-      "substation": "BATIQUITOS",
-      "estRestTimeType": "F",
-      "startTime": "Jun 13 at 08:00 PM",
-      "calltype": "SWP",
-      "device": "1117-561",
-      "jobNumber": "1198512",
-      "estRestTime": "Jun 13 at 11:00 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -511,7 +511,7 @@
       "yCoord": 33.021607515299998,
       "circuit": "537",
       "switchplan": 336929,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A letter containing detailed outage information was mailed to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Rancho Penasquitos/ Rancho Bernardo/ San Pasqual",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -760,5 +760,5 @@
       "nid": 32
     }
   ],
-  "last_updated": "Jun 13 at 07:13 PM"
+  "last_updated": "Jun 13 at 09:43 PM"
 }
