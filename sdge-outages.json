@@ -2,24 +2,24 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 33.355949633000002,
-      "circuit": "249",
-      "switchplan": "",
-      "cause": "Our equipment has been damaged and our crews need to make repairs.",
-      "community": "Pala",
-      "customerOut": 2,
-      "plannedoutagereason": "",
-      "xCoord": -117.1123150936,
-      "district": "NE",
-      "substation": "PALA",
+      "yCoord": 32.658031962800003,
+      "circuit": "44",
+      "switchplan": 328762,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "National City",
+      "customerOut": 3,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.09155259969999,
+      "district": "CM",
+      "substation": "SWEETWATER",
       "estRestTimeType": "F",
-      "startTime": "Jul 18 at 09:32 AM",
-      "calltype": "OUT",
-      "device": "249-22",
-      "jobNumber": "1211897",
-      "estRestTime": "Jul 18 at 11:00 PM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "startTime": "Jul 18 at 09:26 PM",
+      "calltype": "PLAN",
+      "device": "44-504",
+      "jobNumber": "1212036",
+      "estRestTime": "Jul 19 at 01:30 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
       "nid": 0
     },
@@ -43,7 +43,7 @@
       "estRestTime": "Jul 20 at 04:30 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
+      "first": false,
       "nid": 1
     },
     {
@@ -668,5 +668,5 @@
       "nid": 28
     }
   ],
-  "last_updated": "Jul 18 at 07:23 PM"
+  "last_updated": "Jul 18 at 09:48 PM"
 }
