@@ -2,10 +2,631 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 33.563090111100003,
+      "circuit": "562",
+      "switchplan": "",
+      "cause": "The cause of the outage is unknown and still under investigation.",
+      "community": "Laguna Niguel",
+      "customerOut": 40,
+      "plannedoutagereason": "",
+      "xCoord": -117.6733967521,
+      "district": "OC",
+      "substation": "TRABUCO",
+      "estRestTimeType": "I",
+      "startTime": "Jul 24 at 08:18 AM",
+      "calltype": "OUT",
+      "device": "F739052",
+      "jobNumber": "1213066",
+      "estRestTime": "Jul 24 at 10:30 AM",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 33.253258626399997,
       "circuit": "1021",
       "switchplan": 337068,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Valley Center/ Lilac",
+      "customerOut": 2,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.0858643979,
+      "district": "NE",
+      "substation": "LILAC",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:25 AM",
+      "calltype": "PLAN",
+      "device": "F588527",
+      "jobNumber": "1213110",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 1
+    },
+    {
+      "damage": "",
+      "yCoord": 33.247165471199999,
+      "circuit": "211",
+      "switchplan": 329406,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Oak Grove/ Warner Springs/ Ranchita",
+      "customerOut": 1,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -116.6759838185,
+      "district": "RA",
+      "substation": "WARNERS",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:27 AM",
+      "calltype": "PLAN",
+      "device": "211-14",
+      "jobNumber": "1213111",
+      "estRestTime": "Jul 24 at 02:30 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 2
+    },
+    {
+      "damage": "",
+      "yCoord": 33.285809641900002,
+      "circuit": "217",
+      "switchplan": 340298,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Valley Center/ Rincon/ Pauma Valley",
+      "customerOut": 1,
+      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
+      "xCoord": -116.95856645160001,
+      "district": "NE",
+      "substation": "RINCON",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:22 AM",
+      "calltype": "PLAN",
+      "device": "217-754",
+      "jobNumber": "1213067",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 3
+    },
+    {
+      "damage": "",
+      "yCoord": 33.285809641900002,
+      "circuit": "217",
+      "switchplan": 340298,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Valley Center/ Rincon/ Pauma Valley",
+      "customerOut": 2,
+      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
+      "xCoord": -116.95856645160001,
+      "district": "NE",
+      "substation": "RINCON",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:22 AM",
+      "calltype": "PLAN",
+      "device": "217-763",
+      "jobNumber": "1213068",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 4
+    },
+    {
+      "damage": "",
+      "yCoord": 33.285809641900002,
+      "circuit": "217",
+      "switchplan": 340298,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Valley Center/ Rincon/ Pauma Valley",
+      "customerOut": 2,
+      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
+      "xCoord": -116.95856645160001,
+      "district": "NE",
+      "substation": "RINCON",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:22 AM",
+      "calltype": "PLAN",
+      "device": "217-777",
+      "jobNumber": "1213069",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 5
+    },
+    {
+      "damage": "",
+      "yCoord": 33.110474890399999,
+      "circuit": "222",
+      "switchplan": 339847,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Julian/ Santa Ysabel/ Morettis",
+      "customerOut": 2,
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "xCoord": -116.6711751136,
+      "district": "RA",
+      "substation": "SANTA YSABEL",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:13 AM",
+      "calltype": "PLAN",
+      "device": "222-666",
+      "jobNumber": "1213103",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 6
+    },
+    {
+      "damage": "",
+      "yCoord": 33.017942081500003,
+      "circuit": "236",
+      "switchplan": 329291,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "E Ramona",
+      "customerOut": 2,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -116.8529117898,
+      "district": "RA",
+      "substation": "CREELMAN",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:42 AM",
+      "calltype": "PLAN",
+      "device": "<inline_jumper.27130>",
+      "jobNumber": "1213078",
+      "estRestTime": "Jul 24 at 12:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 7
+    },
+    {
+      "damage": "",
+      "yCoord": 32.854876890299998,
+      "circuit": "280",
+      "switchplan": 331175,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Lake Murray/ Mission Gorge/ Sycamore Canyon",
+      "customerOut": 14,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.0117865289,
+      "district": "EA",
+      "substation": "CARLTON HILLS",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:34 AM",
+      "calltype": "PLAN",
+      "device": "280-373",
+      "jobNumber": "1213077",
+      "estRestTime": "Jul 24 at 11:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 8
+    },
+    {
+      "damage": "",
+      "yCoord": 33.494835794799997,
+      "circuit": "312",
+      "switchplan": 334766,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Laguna Niguel",
+      "customerOut": 308,
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "xCoord": -117.7027606802,
+      "district": "OC",
+      "substation": "LAGUNA NIGUEL",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:01 AM",
+      "calltype": "PLAN",
+      "device": "LBE.418642",
+      "jobNumber": "1213082",
+      "estRestTime": "Jul 24 at 10:30 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 9
+    },
+    {
+      "damage": "",
+      "yCoord": 33.253260920300001,
+      "circuit": "350",
+      "switchplan": 339268,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Valley Center/ Lilac",
+      "customerOut": 13,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.08584856509999,
+      "district": "NE",
+      "substation": "LILAC",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:15 AM",
+      "calltype": "PLAN",
+      "device": "<inline_jumper.27121>",
+      "jobNumber": "1213058",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 10
+    },
+    {
+      "damage": "",
+      "yCoord": 32.827622050899997,
+      "circuit": "355",
+      "switchplan": 334100,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Harbison Canyon/ Glen Oaks/ W Alpine",
+      "customerOut": 16,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -116.7896476284,
+      "district": "EA",
+      "substation": "ALPINE",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:30 AM",
+      "calltype": "PLAN",
+      "device": "<inline_jumper.26963>",
+      "jobNumber": "1213113",
+      "estRestTime": "Jul 24 at 03:30 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 11
+    },
+    {
+      "damage": "",
+      "yCoord": 33.093194477200001,
+      "circuit": "470",
+      "switchplan": 338447,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "S Escondido",
+      "customerOut": 79,
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "xCoord": -117.0740179643,
+      "district": "NE",
+      "substation": "FELICITA",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:44 AM",
+      "calltype": "PLAN",
+      "device": "470-1852F",
+      "jobNumber": "1213084",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 12
+    },
+    {
+      "damage": "",
+      "yCoord": 32.707397732899999,
+      "circuit": "482",
+      "switchplan": 338723,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Fort Rosecrans/ MCRD",
+      "customerOut": 12,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.2449728445,
+      "district": "BC",
+      "substation": "CABRILLO",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:15 AM",
+      "calltype": "PLAN",
+      "device": "482-440",
+      "jobNumber": "1213104",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 13
+    },
+    {
+      "damage": "",
+      "yCoord": 32.707397732899999,
+      "circuit": "482",
+      "switchplan": 338723,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Fort Rosecrans/ MCRD",
+      "customerOut": 5,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.2449728445,
+      "district": "BC",
+      "substation": "CABRILLO",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:15 AM",
+      "calltype": "PLAN",
+      "device": "482-441",
+      "jobNumber": "1213105",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 14
+    },
+    {
+      "damage": "",
+      "yCoord": 33.384629742400001,
+      "circuit": "520",
+      "switchplan": 339626,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Fallbrook",
+      "customerOut": 1,
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "xCoord": -117.2368274697,
+      "district": "NE",
+      "substation": "AVOCADO",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 07:14 AM",
+      "calltype": "PLAN",
+      "device": "520-1112",
+      "jobNumber": "1213045",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 15
+    },
+    {
+      "damage": "",
+      "yCoord": 33.3846176793,
+      "circuit": "522",
+      "switchplan": 334098,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Fallbrook",
+      "customerOut": 150,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.2368270101,
+      "district": "NE",
+      "substation": "AVOCADO",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:28 AM",
+      "calltype": "PLAN",
+      "device": "F658941",
+      "jobNumber": "1213075",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 16
+    },
+    {
+      "damage": "",
+      "yCoord": 32.566125995500002,
+      "circuit": "534",
+      "switchplan": 339064,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
+      "customerOut": 1,
+      "plannedoutagereason": "Cable Replacement",
+      "xCoord": -116.94425758440001,
+      "district": "CM",
+      "substation": "BORDER",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:12 AM",
+      "calltype": "PLAN",
+      "device": "BD-12KV-534",
+      "jobNumber": "1213063",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 17
+    },
+    {
+      "damage": "",
+      "yCoord": 33.123011591699999,
+      "circuit": "584",
+      "switchplan": 330829,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Carlsbad/ La Costa",
+      "customerOut": 2,
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "xCoord": -117.2877732628,
+      "district": "NC",
+      "substation": "PALOMAR AIRPORT",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:24 AM",
+      "calltype": "PLAN",
+      "device": "F468449",
+      "jobNumber": "1213101",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 18
+    },
+    {
+      "damage": "",
+      "yCoord": 32.784216813299999,
+      "circuit": "703",
+      "switchplan": 339684,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
+      "customerOut": 25,
+      "plannedoutagereason": "New Business",
+      "xCoord": -117.13758041379999,
+      "district": "BC",
+      "substation": "MISSION",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:06 AM",
+      "calltype": "PLAN",
+      "device": "703-212",
+      "jobNumber": "1213060",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 19
+    },
+    {
+      "damage": "",
+      "yCoord": 32.784216813299999,
+      "circuit": "703",
+      "switchplan": 339684,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
+      "customerOut": 114,
+      "plannedoutagereason": "New Business",
+      "xCoord": -117.13758041379999,
+      "district": "BC",
+      "substation": "MISSION",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:06 AM",
+      "calltype": "PLAN",
+      "device": "703-206",
+      "jobNumber": "1213061",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 20
+    },
+    {
+      "damage": "",
+      "yCoord": 32.784216813299999,
+      "circuit": "703",
+      "switchplan": 339684,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
+      "customerOut": 43,
+      "plannedoutagereason": "New Business",
+      "xCoord": -117.13758041379999,
+      "district": "BC",
+      "substation": "MISSION",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 08:06 AM",
+      "calltype": "PLAN",
+      "device": "703-214",
+      "jobNumber": "1213062",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 21
+    },
+    {
+      "damage": "",
+      "yCoord": 33.101168040700003,
+      "circuit": "750",
+      "switchplan": 337928,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Carlsbad/ La Costa",
+      "customerOut": 217,
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "xCoord": -117.2502955681,
+      "district": "NC",
+      "substation": "BATIQUITOS",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:04 AM",
+      "calltype": "PLAN",
+      "device": "BQ-12KV-750",
+      "jobNumber": "1213097",
+      "estRestTime": "Jul 24 at 05:30 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 22
+    },
+    {
+      "damage": "",
+      "yCoord": 32.8652216025,
+      "circuit": "79",
+      "switchplan": 330027,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Viejas/ W Descanso/ Boulder Creek",
+      "customerOut": 2,
+      "plannedoutagereason": "System Reliability",
+      "xCoord": -116.6338683868,
+      "district": "ME",
+      "substation": "DESCANSO",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:05 AM",
+      "calltype": "PLAN",
+      "device": "F2409202",
+      "jobNumber": "1213091",
+      "estRestTime": "Jul 24 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 23
+    },
+    {
+      "damage": "",
+      "yCoord": 33.206449220700001,
+      "circuit": "821",
+      "switchplan": 340136,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "N Vista",
+      "customerOut": 1,
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "xCoord": -117.2530249153,
+      "district": "NC",
+      "substation": "MELROSE",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:07 AM",
+      "calltype": "PLAN",
+      "device": "LBE.5212914",
+      "jobNumber": "1213089",
+      "estRestTime": "Jul 24 at 02:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 24
+    },
+    {
+      "damage": "",
+      "yCoord": 32.638023398999998,
+      "circuit": "945",
+      "switchplan": 329252,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Rancho Del Rey/ Eastlake/ Otay Reservoir",
+      "customerOut": 43,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.0158202441,
+      "district": "CM",
+      "substation": "TELEGRAPH CANYON",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:05 AM",
+      "calltype": "PLAN",
+      "device": "LBE.15642",
+      "jobNumber": "1213098",
+      "estRestTime": "Jul 24 at 01:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 25
+    },
+    {
+      "damage": "",
+      "yCoord": 33.225173499699999,
+      "circuit": "NVS1",
+      "switchplan": 337986,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "N Vista",
+      "customerOut": 44,
+      "plannedoutagereason": "System Reliability",
+      "xCoord": -117.22823104539999,
+      "district": "NC",
+      "substation": "NORTH VISTA",
+      "estRestTimeType": "F",
+      "startTime": "Jul 24 at 09:10 AM",
+      "calltype": "PLAN",
+      "device": "LBE.352354",
+      "jobNumber": "1213099",
+      "estRestTime": "Jul 24 at 03:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 26
+    },
+    {
+      "damage": "",
+      "yCoord": 33.253258626399997,
+      "circuit": "1021",
+      "switchplan": 337068,
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Valley Center/ Lilac",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -20,8 +641,8 @@
       "estRestTime": "Jul 24 at 03:00 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 27
     },
     {
       "damage": "",
@@ -44,7 +665,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 28
     },
     {
       "damage": "",
@@ -67,14 +688,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 29
     },
     {
       "damage": "",
       "yCoord": 33.247165471199999,
       "circuit": "211",
       "switchplan": 329406,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Oak Grove/ Warner Springs/ Ranchita",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -90,7 +711,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 30
     },
     {
       "damage": "",
@@ -113,14 +734,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 31
     },
     {
       "damage": "",
       "yCoord": 33.285809641900002,
       "circuit": "217",
       "switchplan": 340298,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Valley Center/ Rincon/ Pauma Valley",
       "customerOut": 0,
       "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
@@ -136,7 +757,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 32
     },
     {
       "damage": "",
@@ -159,7 +780,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 33
     },
     {
       "damage": "",
@@ -182,14 +803,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
+      "nid": 34
     },
     {
       "damage": "",
       "yCoord": 33.110474890399999,
       "circuit": "222",
       "switchplan": 339847,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Julian/ Santa Ysabel/ Morettis",
       "customerOut": 0,
       "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
@@ -205,7 +826,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 8
+      "nid": 35
     },
     {
       "damage": "",
@@ -228,7 +849,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 9
+      "nid": 36
     },
     {
       "damage": "",
@@ -251,7 +872,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 10
+      "nid": 37
     },
     {
       "damage": "",
@@ -274,14 +895,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 11
+      "nid": 38
     },
     {
       "damage": "",
       "yCoord": 33.017942081500003,
       "circuit": "236",
       "switchplan": 329291,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "E Ramona",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -297,14 +918,37 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 12
+      "nid": 39
+    },
+    {
+      "damage": "",
+      "yCoord": 33.017942081500003,
+      "circuit": "236",
+      "switchplan": 339000,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "E Ramona",
+      "customerOut": 0,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -116.8529117898,
+      "district": "RA",
+      "substation": "CREELMAN",
+      "estRestTimeType": "F",
+      "startTime": "Jul 25 at 08:00 AM",
+      "calltype": "SWP",
+      "device": "394.5 5005 ABC 156999.0",
+      "jobNumber": "1213081",
+      "estRestTime": "Jul 25 at 03:30 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 40
     },
     {
       "damage": "",
       "yCoord": 32.854876890299998,
       "circuit": "280",
       "switchplan": 331175,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Lake Murray/ Mission Gorge/ Sycamore Canyon",
       "customerOut": 0,
       "plannedoutagereason": "Transformer Replacement",
@@ -320,7 +964,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 13
+      "nid": 41
     },
     {
       "damage": "",
@@ -343,7 +987,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 14
+      "nid": 42
+    },
+    {
+      "damage": "",
+      "yCoord": 32.854876890299998,
+      "circuit": "280",
+      "switchplan": 339071,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "Lake Murray/ Mission Gorge/ Sycamore Canyon",
+      "customerOut": 0,
+      "plannedoutagereason": "Pole Replacement",
+      "xCoord": -117.0117865289,
+      "district": "EA",
+      "substation": "CARLTON HILLS",
+      "estRestTimeType": "F",
+      "startTime": "Jul 27 at 08:00 AM",
+      "calltype": "SWP",
+      "device": "336.4 ACSR ABC 64333.0",
+      "jobNumber": "1213052",
+      "estRestTime": "Jul 27 at 04:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 43
     },
     {
       "damage": "",
@@ -366,14 +1033,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 15
+      "nid": 44
     },
     {
       "damage": "",
       "yCoord": 33.494835794799997,
       "circuit": "312",
       "switchplan": 334766,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Laguna Niguel",
       "customerOut": 0,
       "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
@@ -389,14 +1056,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 45
     },
     {
       "damage": "",
       "yCoord": 33.253260920300001,
       "circuit": "350",
       "switchplan": 339268,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Valley Center/ Lilac",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -412,7 +1079,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 46
     },
     {
       "damage": "",
@@ -435,7 +1102,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 47
     },
     {
       "damage": "",
@@ -458,14 +1125,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 48
     },
     {
       "damage": "",
       "yCoord": 32.827622050899997,
       "circuit": "355",
       "switchplan": 334100,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Harbison Canyon/ Glen Oaks/ W Alpine",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -481,7 +1148,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 49
     },
     {
       "damage": "",
@@ -504,7 +1171,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 50
     },
     {
       "damage": "",
@@ -527,7 +1194,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 51
     },
     {
       "damage": "",
@@ -550,7 +1217,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 23
+      "nid": 52
     },
     {
       "damage": "",
@@ -573,7 +1240,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 24
+      "nid": 53
     },
     {
       "damage": "",
@@ -596,14 +1263,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 54
     },
     {
       "damage": "",
       "yCoord": 33.093194477200001,
       "circuit": "470",
       "switchplan": 338447,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "S Escondido",
       "customerOut": 0,
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
@@ -619,14 +1286,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 55
     },
     {
       "damage": "",
       "yCoord": 32.707397732899999,
       "circuit": "482",
       "switchplan": 338723,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Fort Rosecrans/ MCRD",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -642,7 +1309,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 27
+      "nid": 56
     },
     {
       "damage": "",
@@ -665,14 +1332,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 28
+      "nid": 57
     },
     {
       "damage": "",
       "yCoord": 33.384629742400001,
       "circuit": "520",
       "switchplan": 339626,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Fallbrook",
       "customerOut": 0,
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
@@ -688,14 +1355,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 29
+      "nid": 58
     },
     {
       "damage": "",
       "yCoord": 33.3846176793,
       "circuit": "522",
       "switchplan": 334098,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Fallbrook",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -711,14 +1378,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 30
+      "nid": 59
     },
     {
       "damage": "",
       "yCoord": 32.566125995500002,
       "circuit": "534",
       "switchplan": 339064,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Nestor/ San Ysidro/ Otay Mesa",
       "customerOut": 0,
       "plannedoutagereason": "Cable Replacement",
@@ -734,14 +1401,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 31
+      "nid": 60
     },
     {
       "damage": "",
       "yCoord": 32.7990879826,
       "circuit": "546",
       "switchplan": 339550,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Mission Bay/ Pacific Beach",
       "customerOut": 0,
       "plannedoutagereason": "Secondary Outage, Underground Extension, Load Swap",
@@ -757,7 +1424,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 32
+      "nid": 61
     },
     {
       "damage": "",
@@ -780,7 +1447,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 33
+      "nid": 62
     },
     {
       "damage": "",
@@ -803,7 +1470,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 34
+      "nid": 63
     },
     {
       "damage": "",
@@ -826,14 +1493,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 35
+      "nid": 64
     },
     {
       "damage": "",
       "yCoord": 33.123011591699999,
       "circuit": "584",
       "switchplan": 330829,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Carlsbad/ La Costa",
       "customerOut": 0,
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
@@ -849,14 +1516,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 36
+      "nid": 65
     },
     {
       "damage": "",
       "yCoord": 32.784216813299999,
       "circuit": "703",
       "switchplan": 339684,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -872,7 +1539,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 37
+      "nid": 66
     },
     {
       "damage": "",
@@ -895,7 +1562,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 38
+      "nid": 67
     },
     {
       "damage": "",
@@ -918,14 +1585,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 39
+      "nid": 68
     },
     {
       "damage": "",
       "yCoord": 33.101168040700003,
       "circuit": "750",
       "switchplan": 337928,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Carlsbad/ La Costa",
       "customerOut": 0,
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
@@ -941,7 +1608,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 40
+      "nid": 69
     },
     {
       "damage": "",
@@ -964,7 +1631,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 41
+      "nid": 70
     },
     {
       "damage": "",
@@ -987,7 +1654,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 42
+      "nid": 71
     },
     {
       "damage": "",
@@ -1010,7 +1677,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 43
+      "nid": 72
     },
     {
       "damage": "",
@@ -1033,7 +1700,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 44
+      "nid": 73
     },
     {
       "damage": "",
@@ -1056,14 +1723,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 45
+      "nid": 74
     },
     {
       "damage": "",
       "yCoord": 32.8652216025,
       "circuit": "79",
       "switchplan": 330027,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Viejas/ W Descanso/ Boulder Creek",
       "customerOut": 0,
       "plannedoutagereason": "System Reliability",
@@ -1079,7 +1746,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 46
+      "nid": 75
     },
     {
       "damage": "",
@@ -1102,14 +1769,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 47
+      "nid": 76
     },
     {
       "damage": "",
       "yCoord": 33.206449220700001,
       "circuit": "821",
       "switchplan": 340136,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "N Vista",
       "customerOut": 0,
       "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
@@ -1125,14 +1792,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 48
+      "nid": 77
     },
     {
       "damage": "",
       "yCoord": 32.638023398999998,
       "circuit": "945",
       "switchplan": 329252,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Rancho Del Rey/ Eastlake/ Otay Reservoir",
       "customerOut": 0,
       "plannedoutagereason": "Transformer Replacement",
@@ -1148,7 +1815,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 49
+      "nid": 78
     },
     {
       "damage": "",
@@ -1171,7 +1838,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 50
+      "nid": 79
     },
     {
       "damage": "",
@@ -1194,7 +1861,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 51
+      "nid": 80
     },
     {
       "damage": "",
@@ -1217,30 +1884,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 52
-    },
-    {
-      "damage": "",
-      "yCoord": 32.799959565400002,
-      "circuit": "BA2",
-      "switchplan": 318077,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
-      "community": "El Cajon",
-      "customerOut": 0,
-      "plannedoutagereason": "Pole Replacement",
-      "xCoord": -116.9378391971,
-      "district": "EA",
-      "substation": "BOSTONIA",
-      "estRestTimeType": "F",
-      "startTime": "Jul 24 at 09:30 AM",
-      "calltype": "SWP",
-      "device": "BA2-73",
-      "jobNumber": "1211830",
-      "estRestTime": "Jul 24 at 12:30 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 53
+      "nid": 81
     },
     {
       "damage": "",
@@ -1263,14 +1907,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 54
+      "nid": 82
     },
     {
       "damage": "",
       "yCoord": 33.225173499699999,
       "circuit": "NVS1",
       "switchplan": 337986,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "N Vista",
       "customerOut": 0,
       "plannedoutagereason": "System Reliability",
@@ -1286,8 +1930,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 55
+      "nid": 83
     }
   ],
-  "last_updated": "Jul 24 at 06:18 AM"
+  "last_updated": "Jul 24 at 09:48 AM"
 }
