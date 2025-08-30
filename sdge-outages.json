@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 33.050632970999999,
+      "circuit": "288",
+      "switchplan": "",
+      "cause": "Our equipment has been damaged and our crews need to make repairs.",
+      "community": "Encinitas/ Cardiff-By-The-Sea/ Olivenhain",
+      "customerOut": 3,
+      "plannedoutagereason": "",
+      "xCoord": -117.2852686606,
+      "district": "NC",
+      "substation": "ENCINITAS",
+      "estRestTimeType": "F",
+      "startTime": "Aug 29 at 09:23 PM",
+      "calltype": "OUT",
+      "device": "LBE.122534",
+      "jobNumber": "1222048",
+      "estRestTime": "Aug 30 at 03:00 AM",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 33.1968010083,
       "circuit": "581",
       "switchplan": "",
@@ -20,31 +43,54 @@
       "estRestTime": "Aug 30 at 03:00 AM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "damage": "",
-      "yCoord": 33.211521626699998,
-      "circuit": "192",
-      "switchplan": 336561,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "yCoord": 33.1968010083,
+      "circuit": "581",
+      "switchplan": "",
+      "cause": "A vehicle has come into contact with our electric system and our crews are currently on scene making repairs.",
       "community": "Oceanside/ San Luis Rey/ Ocean Hills",
-      "customerOut": 0,
-      "plannedoutagereason": "Transformer Replacement",
-      "xCoord": -117.3345200814,
+      "customerOut": 126,
+      "plannedoutagereason": "",
+      "xCoord": -117.38181949,
       "district": "NC",
-      "substation": "SAN LUIS REY",
+      "substation": "OCEANSIDE",
+      "estRestTimeType": "I",
+      "startTime": "Aug 29 at 11:30 PM",
+      "calltype": "OUT",
+      "device": "581-33",
+      "jobNumber": "1222043",
+      "estRestTime": "Aug 30 at 05:00 AM",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": false,
+      "nid": 2
+    },
+    {
+      "damage": "",
+      "yCoord": 32.784216813299999,
+      "circuit": "703",
+      "switchplan": 341722,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
+      "customerOut": 1229,
+      "plannedoutagereason": "New Business",
+      "xCoord": -117.13758041379999,
+      "district": "BC",
+      "substation": "MISSION",
       "estRestTimeType": "F",
-      "startTime": "Aug 29 at 10:30 PM",
-      "calltype": "SWP",
-      "device": "Open.Point.292996",
-      "jobNumber": "1217854",
-      "estRestTime": "Aug 30 at 01:00 AM",
+      "startTime": "Aug 29 at 10:10 PM",
+      "calltype": "PLAN",
+      "device": "F2367205",
+      "jobNumber": "1222034",
+      "estRestTime": "Aug 30 at 05:00 AM",
       "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 3
     },
     {
       "damage": "",
@@ -67,14 +113,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 4
     },
     {
       "damage": "",
       "yCoord": 32.784216813299999,
       "circuit": "703",
       "switchplan": 341722,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -90,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 5
     },
     {
       "damage": "",
@@ -113,8 +159,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 6
     }
   ],
-  "last_updated": "Aug 29 at 09:38 PM"
+  "last_updated": "Aug 30 at 01:38 AM"
 }
