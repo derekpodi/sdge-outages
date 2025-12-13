@@ -2,29 +2,6 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 32.827619389799999,
-      "circuit": "356",
-      "switchplan": "",
-      "cause": "Our equipment has been damaged and our crews need to make repairs.",
-      "community": "Harbison Canyon/ Glen Oaks/ W Alpine",
-      "customerOut": 0,
-      "plannedoutagereason": "",
-      "xCoord": -116.7896476347,
-      "district": "EA",
-      "substation": "ALPINE",
-      "estRestTimeType": "F",
-      "startTime": "Dec 12 at 07:02 PM",
-      "calltype": "OUT",
-      "device": "<inline_jumper.28137>",
-      "jobNumber": "1246400",
-      "estRestTime": "Dec 13 at 03:00 AM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "damage": "",
       "yCoord": 32.694388527299999,
       "circuit": "129",
       "switchplan": 346059,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "damage": "",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "damage": "",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "damage": "",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "damage": "",
@@ -132,9 +109,32 @@
       "calltype": "PLAN",
       "device": "F2481594",
       "jobNumber": "1246406",
-      "estRestTime": "Dec 13 at 05:00 AM",
+      "estRestTime": "Dec 13 at 07:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 4
+    },
+    {
+      "damage": "",
+      "yCoord": 33.253258626399997,
+      "circuit": "1021",
+      "switchplan": 345470,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "Valley Center/ Lilac",
+      "customerOut": 0,
+      "plannedoutagereason": "Overhead Equipment Work (Cross Arms, Cutouts, Lightning Arrestors, Insulators, etc.)",
+      "xCoord": -117.0858643979,
+      "district": "NE",
+      "substation": "LILAC",
+      "estRestTimeType": "F",
+      "startTime": "Dec 16 at 02:00 AM",
+      "calltype": "SWP",
+      "device": "1021-65",
+      "jobNumber": "1243504",
+      "estRestTime": "Dec 16 at 06:30 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
       "nid": 5
     },
@@ -278,29 +278,6 @@
     },
     {
       "damage": "",
-      "yCoord": 32.6943702624,
-      "circuit": "131",
-      "switchplan": 347155,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "community": "Logan Heights/ Mountain View/ Lincoln Park",
-      "customerOut": 0,
-      "plannedoutagereason": "Pole Replacement",
-      "xCoord": -117.14242201250001,
-      "district": "CM",
-      "substation": "SAMPSON",
-      "estRestTimeType": "F",
-      "startTime": "Dec 11 at 03:00 AM",
-      "calltype": "SWP",
-      "device": "336.4 ACSR ABC 111115.0",
-      "jobNumber": "1245755",
-      "estRestTime": "Dec 11 at 06:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 12
-    },
-    {
-      "damage": "",
       "yCoord": 32.694388535900003,
       "circuit": "133",
       "switchplan": 346661,
@@ -320,7 +297,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 13
+      "nid": 12
     },
     {
       "damage": "",
@@ -343,7 +320,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 14
+      "nid": 13
     },
     {
       "damage": "",
@@ -363,6 +340,29 @@
       "device": "LBE.89254",
       "jobNumber": "1242710",
       "estRestTime": "Dec 13 at 02:30 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 14
+    },
+    {
+      "damage": "",
+      "yCoord": 32.595265495299998,
+      "circuit": "155",
+      "switchplan": 346351,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "S Chula Vista/ Castle Park/ Otay",
+      "customerOut": 0,
+      "plannedoutagereason": "Switch Replacement",
+      "xCoord": -117.0576631258,
+      "district": "CM",
+      "substation": "OTAY",
+      "estRestTimeType": "F",
+      "startTime": "Dec 16 at 03:00 AM",
+      "calltype": "SWP",
+      "device": "155-44",
+      "jobNumber": "1239916",
+      "estRestTime": "Dec 16 at 06:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1167,7 +1167,7 @@
       "calltype": "SWP",
       "device": "#2 PECN CU A 198570.0",
       "jobNumber": "1244000",
-      "estRestTime": "Dec 13 at 05:00 AM",
+      "estRestTime": "Dec 13 at 07:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1220,5 +1220,5 @@
       "nid": 52
     }
   ],
-  "last_updated": "Dec 13 at 12:48 AM"
+  "last_updated": "Dec 13 at 05:03 AM"
 }
