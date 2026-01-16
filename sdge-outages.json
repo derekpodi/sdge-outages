@@ -2,29 +2,6 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 33.101168079499999,
-      "circuit": "1118",
-      "switchplan": "",
-      "cause": "Our equipment has been damaged and our crews need to make repairs.",
-      "community": "Carlsbad/ La Costa",
-      "customerOut": 247,
-      "plannedoutagereason": "",
-      "xCoord": -117.2502762454,
-      "district": "NC",
-      "substation": "BATIQUITOS",
-      "estRestTimeType": "F",
-      "startTime": "Jan 15 at 09:05 AM",
-      "calltype": "OUT",
-      "device": "LBE.255654",
-      "jobNumber": "1254294",
-      "estRestTime": "Jan 15 at 10:00 PM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "damage": "",
       "yCoord": 33.230694507700001,
       "circuit": "909",
       "switchplan": 339089,
@@ -44,6 +21,29 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
+      "yCoord": 33.197540112299997,
+      "circuit": "EOS2",
+      "switchplan": 348177,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Oceanside/ San Luis Rey/ Ocean Hills",
+      "customerOut": 1,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.3540419342,
+      "district": "NC",
+      "substation": "EAST OCEANSIDE",
+      "estRestTimeType": "F",
+      "startTime": "Jan 15 at 07:34 PM",
+      "calltype": "PLAN",
+      "device": "EOS2-250",
+      "jobNumber": "1254384",
+      "estRestTime": "Jan 15 at 11:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
       "nid": 1
     },
     {
@@ -764,7 +764,7 @@
       "yCoord": 33.197540112299997,
       "circuit": "EOS2",
       "switchplan": 348177,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Oceanside/ San Luis Rey/ Ocean Hills",
       "customerOut": 0,
       "plannedoutagereason": "Transformer Replacement",
@@ -783,5 +783,5 @@
       "nid": 33
     }
   ],
-  "last_updated": "Jan 15 at 06:33 PM"
+  "last_updated": "Jan 15 at 08:58 PM"
 }
