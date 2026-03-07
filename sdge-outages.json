@@ -5,19 +5,19 @@
       "yCoord": 32.743969129500002,
       "circuit": "160",
       "switchplan": "",
-      "cause": "The cause of the outage is unknown and still under investigation.",
+      "cause": "A vehicle has come into contact with our electric system and our crews are currently on scene making repairs.",
       "community": "Lemon Grove",
       "customerOut": 42,
       "plannedoutagereason": "",
       "xCoord": -117.04635207770001,
       "district": "EA",
       "substation": "CHOLLAS WEST",
-      "estRestTimeType": "I",
+      "estRestTimeType": "F",
       "startTime": "Mar 06 at 07:07 PM",
       "calltype": "OUT",
       "device": "LBE.47446",
       "jobNumber": "1265411",
-      "estRestTime": "Mar 07 at 02:30 AM",
+      "estRestTime": "Mar 07 at 02:00 AM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
@@ -28,23 +28,46 @@
       "yCoord": 33.563051848199997,
       "circuit": "765",
       "switchplan": "",
-      "cause": "The cause of the outage is unknown and still under investigation.",
+      "cause": "Our equipment has been damaged and our crews need to make repairs.",
       "community": "Laguna Niguel",
       "customerOut": 21,
       "plannedoutagereason": "",
       "xCoord": -117.6733964551,
       "district": "OC",
       "substation": "TRABUCO",
-      "estRestTimeType": "I",
+      "estRestTimeType": "F",
       "startTime": "Mar 06 at 07:15 PM",
       "calltype": "OUT",
       "device": "765-13",
       "jobNumber": "1265412",
-      "estRestTime": "Mar 07 at 12:00 AM",
+      "estRestTime": "Mar 07 at 04:00 AM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
       "nid": 1
+    },
+    {
+      "damage": "",
+      "yCoord": 32.595284149900003,
+      "circuit": "151",
+      "switchplan": 353199,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "S Chula Vista/ Castle Park/ Otay",
+      "customerOut": 4,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.0576529608,
+      "district": "CM",
+      "substation": "OTAY",
+      "estRestTimeType": "F",
+      "startTime": "Mar 06 at 11:13 PM",
+      "calltype": "PLAN",
+      "device": "LBE.4274899",
+      "jobNumber": "1265429",
+      "estRestTime": "Mar 07 at 03:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": true,
+      "nid": 2
     },
     {
       "damage": "",
@@ -66,8 +89,8 @@
       "estRestTime": "Mar 09 at 10:30 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
-      "nid": 2
+      "first": false,
+      "nid": 3
     },
     {
       "damage": "",
@@ -87,29 +110,6 @@
       "device": "#2 ACSR AB 163460.0",
       "jobNumber": "1264352",
       "estRestTime": "Mar 09 at 03:30 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 3
-    },
-    {
-      "damage": "",
-      "yCoord": 32.714124119600001,
-      "circuit": "104",
-      "switchplan": 353765,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
-      "community": "Center City/ Balboa Park/ Golden Hills",
-      "customerOut": 0,
-      "plannedoutagereason": "System Reliability",
-      "xCoord": -117.1695790089,
-      "district": "CM",
-      "substation": "STATION B",
-      "estRestTimeType": "F",
-      "startTime": "Mar 06 at 11:00 PM",
-      "calltype": "SWP",
-      "device": "LBE.2854130",
-      "jobNumber": "1264919",
-      "estRestTime": "Mar 07 at 12:01 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -166,7 +166,7 @@
       "yCoord": 32.595284149900003,
       "circuit": "151",
       "switchplan": 353199,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "S Chula Vista/ Castle Park/ Otay",
       "customerOut": 0,
       "plannedoutagereason": "Transformer Replacement",
@@ -393,29 +393,6 @@
     },
     {
       "damage": "",
-      "yCoord": 32.562270230199999,
-      "circuit": "463",
-      "switchplan": 352331,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
-      "community": "Nestor/ San Ysidro/ Otay Mesa",
-      "customerOut": 0,
-      "plannedoutagereason": "Customer Requested",
-      "xCoord": -117.0269995851,
-      "district": "CM",
-      "substation": "SAN YSIDRO",
-      "estRestTimeType": "F",
-      "startTime": "Mar 06 at 10:00 PM",
-      "calltype": "SWP",
-      "device": "463-762",
-      "jobNumber": "1263761",
-      "estRestTime": "Mar 07 at 06:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 17
-    },
-    {
-      "damage": "",
       "yCoord": 32.743970901899999,
       "circuit": "524",
       "switchplan": 346876,
@@ -435,7 +412,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 17
     },
     {
       "damage": "",
@@ -458,7 +435,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 18
     },
     {
       "damage": "",
@@ -481,7 +458,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 19
     },
     {
       "damage": "",
@@ -504,7 +481,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 20
     },
     {
       "damage": "",
@@ -527,7 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
+      "nid": 21
     },
     {
       "damage": "",
@@ -546,6 +523,29 @@
       "calltype": "SWP",
       "device": "58-1127",
       "jobNumber": "1260522",
+      "estRestTime": "Mar 10 at 05:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 22
+    },
+    {
+      "damage": "",
+      "yCoord": 32.665398963000001,
+      "circuit": "593",
+      "switchplan": 351868,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "Sunnyside/ Otay Lake/ Otay Mesa",
+      "customerOut": 0,
+      "plannedoutagereason": "New Business",
+      "xCoord": -116.9867322355,
+      "district": "CM",
+      "substation": "PROCTOR VALLEY",
+      "estRestTimeType": "F",
+      "startTime": "Mar 09 at 11:00 PM",
+      "calltype": "SWP",
+      "device": "2/0 XLPECN-PEJ AL ABC 8291.2",
+      "jobNumber": "1262226",
       "estRestTime": "Mar 10 at 05:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
@@ -783,5 +783,5 @@
       "nid": 33
     }
   ],
-  "last_updated": "Mar 06 at 09:18 PM"
+  "last_updated": "Mar 07 at 12:53 AM"
 }
