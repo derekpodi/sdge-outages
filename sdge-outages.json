@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 33.563090111100003,
+      "circuit": "562",
+      "switchplan": "",
+      "cause": "The cause of the outage is unknown and still under investigation.",
+      "community": "Laguna Niguel",
+      "customerOut": 431,
+      "plannedoutagereason": "",
+      "xCoord": -117.6733967521,
+      "district": "OC",
+      "substation": "TRABUCO",
+      "estRestTimeType": "I",
+      "startTime": "Mar 26 at 12:59 AM",
+      "calltype": "OUT",
+      "device": "562-100F",
+      "jobNumber": "1269512",
+      "estRestTime": "Mar 26 at 03:00 AM",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 32.778770986399998,
       "circuit": "GM2",
       "switchplan": "",
@@ -20,8 +43,8 @@
       "estRestTime": "Mar 26 at 03:00 AM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
+      "first": false,
+      "nid": 1
     },
     {
       "damage": "",
@@ -44,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 2
     },
     {
       "damage": "",
@@ -67,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 3
     },
     {
       "damage": "",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "damage": "",
@@ -110,29 +133,6 @@
       "device": "LBE.59502",
       "jobNumber": "1269119",
       "estRestTime": "Apr 30 at 10:30 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": false,
-      "nid": 4
-    },
-    {
-      "damage": "",
-      "yCoord": 32.799001653099999,
-      "circuit": "PB1",
-      "switchplan": 354161,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "community": "Mission Bay/ Pacific Beach",
-      "customerOut": 32,
-      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
-      "xCoord": -117.24021956369999,
-      "district": "BC",
-      "substation": "PACIFIC BEACH 1",
-      "estRestTimeType": "F",
-      "startTime": "Mar 25 at 09:44 PM",
-      "calltype": "PLAN",
-      "device": "PB1-45",
-      "jobNumber": "1269476",
-      "estRestTime": "Mar 26 at 04:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
@@ -741,7 +741,7 @@
       "yCoord": 32.833040266300003,
       "circuit": "714",
       "switchplan": 353992,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Mission Valley/ Kearny Mesa/ Tierrasanta",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -922,29 +922,6 @@
     },
     {
       "damage": "",
-      "yCoord": 32.799001653099999,
-      "circuit": "PB1",
-      "switchplan": 354161,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
-      "community": "Mission Bay/ Pacific Beach",
-      "customerOut": 0,
-      "plannedoutagereason": "Facilities Conversion (Overhead to Underground) OH Line Extension",
-      "xCoord": -117.24021956369999,
-      "district": "BC",
-      "substation": "PACIFIC BEACH 1",
-      "estRestTimeType": "F",
-      "startTime": "Mar 25 at 11:00 PM",
-      "calltype": "SWP",
-      "device": "PB1-45",
-      "jobNumber": "1265080",
-      "estRestTime": "Mar 26 at 04:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 40
-    },
-    {
-      "damage": "",
       "yCoord": 32.730534817600002,
       "circuit": "WA3",
       "switchplan": 353718,
@@ -964,8 +941,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 41
+      "nid": 40
     }
   ],
-  "last_updated": "Mar 25 at 10:58 PM"
+  "last_updated": "Mar 26 at 02:38 AM"
 }
