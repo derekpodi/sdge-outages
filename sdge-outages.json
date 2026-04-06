@@ -2,29 +2,6 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 33.384620161599997,
-      "circuit": "523",
-      "switchplan": "",
-      "cause": "The cause of the outage is unknown and still under investigation.",
-      "community": "Fallbrook",
-      "customerOut": 265,
-      "plannedoutagereason": "",
-      "xCoord": -117.2368270212,
-      "district": "NE",
-      "substation": "AVOCADO",
-      "estRestTimeType": "I",
-      "startTime": "Apr 06 at 02:32 AM",
-      "calltype": "OUT",
-      "device": "F2480935",
-      "jobNumber": "1271648",
-      "estRestTime": "Apr 06 at 05:00 AM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "damage": "",
       "yCoord": 33.014272568800003,
       "circuit": "1001",
       "switchplan": 354613,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "damage": "",
@@ -67,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "damage": "",
@@ -90,7 +67,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 2
     },
     {
       "damage": "",
@@ -113,7 +90,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 3
     },
     {
       "damage": "",
@@ -133,6 +110,29 @@
       "device": "1222-57",
       "jobNumber": "1267351",
       "estRestTime": "Apr 08 at 12:00 PM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 4
+    },
+    {
+      "damage": "",
+      "yCoord": 33.1230116889,
+      "circuit": "1269",
+      "switchplan": 354754,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "Carlsbad/ La Costa",
+      "customerOut": 0,
+      "plannedoutagereason": "Customer Requested",
+      "xCoord": -117.28775068749999,
+      "district": "NC",
+      "substation": "PALOMAR AIRPORT",
+      "estRestTimeType": "F",
+      "startTime": "Apr 09 at 05:00 AM",
+      "calltype": "SWP",
+      "device": "1269-144",
+      "jobNumber": "1269735",
+      "estRestTime": "Apr 09 at 10:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -772,11 +772,11 @@
       "district": "EA",
       "substation": "GRANITE",
       "estRestTimeType": "F",
-      "startTime": "Apr 06 at 08:30 AM",
+      "startTime": "Apr 06 at 07:30 AM",
       "calltype": "SWP",
       "device": "#2 ACSR ABC 74731.0",
-      "jobNumber": "1271268",
-      "estRestTime": "Apr 06 at 03:30 PM",
+      "jobNumber": "1271653",
+      "estRestTime": "Apr 06 at 02:30 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -1680,5 +1680,5 @@
       "nid": 72
     }
   ],
-  "last_updated": "Apr 06 at 02:43 AM"
+  "last_updated": "Apr 06 at 06:48 AM"
 }
