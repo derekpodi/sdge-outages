@@ -25,29 +25,6 @@
     },
     {
       "damage": "",
-      "yCoord": 33.017942019499998,
-      "circuit": "235",
-      "switchplan": "",
-      "cause": "Our equipment has been damaged and our crews need to make repairs.",
-      "community": "E Ramona",
-      "customerOut": 4,
-      "plannedoutagereason": "",
-      "xCoord": -116.8529334009,
-      "district": "RA",
-      "substation": "CREELMAN",
-      "estRestTimeType": "F",
-      "startTime": "Apr 16 at 08:33 PM",
-      "calltype": "OUT",
-      "device": "<inline_jumper.28152>",
-      "jobNumber": "1273969",
-      "estRestTime": "Apr 17 at 01:00 AM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "damage": "",
       "yCoord": 32.980516609299997,
       "circuit": "510",
       "switchplan": "",
@@ -58,16 +35,16 @@
       "xCoord": -117.2552919486,
       "district": "NC",
       "substation": "DEL MAR",
-      "estRestTimeType": "I",
+      "estRestTimeType": "F",
       "startTime": "Apr 16 at 07:10 PM",
       "calltype": "OUT",
       "device": "LBE.125858",
       "jobNumber": "1273975",
-      "estRestTime": "Apr 17 at 01:00 AM",
+      "estRestTime": "Apr 17 at 04:00 AM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 1
     },
     {
       "damage": "",
@@ -90,6 +67,29 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
+      "nid": 2
+    },
+    {
+      "damage": "",
+      "yCoord": 32.704431912700002,
+      "circuit": "323",
+      "switchplan": 356078,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Paradise Hills/ Skyline/ Bay Terraces",
+      "customerOut": 49,
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "xCoord": -117.0498638478,
+      "district": "CM",
+      "substation": "PARADISE",
+      "estRestTimeType": "F",
+      "startTime": "Apr 16 at 11:52 PM",
+      "calltype": "PLAN",
+      "device": "323-41",
+      "jobNumber": "1273987",
+      "estRestTime": "Apr 17 at 06:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
       "nid": 3
     },
     {
@@ -488,7 +488,7 @@
       "yCoord": 32.704431912700002,
       "circuit": "323",
       "switchplan": 356078,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Paradise Hills/ Skyline/ Bay Terraces",
       "customerOut": 0,
       "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
@@ -783,5 +783,5 @@
       "nid": 33
     }
   ],
-  "last_updated": "Apr 16 at 11:18 PM"
+  "last_updated": "Apr 17 at 02:53 AM"
 }
