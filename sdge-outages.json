@@ -2,49 +2,26 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 33.3559437467,
-      "circuit": "1234",
+      "yCoord": 32.790988062499999,
+      "circuit": "397",
       "switchplan": "",
-      "cause": "The cause of the outage is unknown and still under investigation.",
-      "community": "Pala",
-      "customerOut": 1,
+      "cause": "Our equipment has been damaged and our crews need to make repairs.",
+      "community": "La Mesa",
+      "customerOut": 538,
       "plannedoutagereason": "",
-      "xCoord": -117.11231511290001,
-      "district": "NE",
-      "substation": "PALA",
-      "estRestTimeType": "I",
-      "startTime": "Jun 13 at 09:58 PM",
+      "xCoord": -117.02324782070001,
+      "district": "EA",
+      "substation": "MURRAY",
+      "estRestTimeType": "F",
+      "startTime": "Jun 13 at 11:55 PM",
       "calltype": "OUT",
-      "device": "1234-66M",
-      "jobNumber": "1285907",
-      "estRestTime": "Jun 14 at 02:00 AM",
+      "device": "397-4",
+      "jobNumber": "1285922",
+      "estRestTime": "Jun 14 at 06:00 AM",
       "type": "unplanned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
       "first": true,
       "nid": 0
-    },
-    {
-      "damage": "",
-      "yCoord": 32.6380233987,
-      "circuit": "943",
-      "switchplan": 354722,
-      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
-      "community": "Rancho Del Rey/ Eastlake/ Otay Reservoir",
-      "customerOut": 1,
-      "plannedoutagereason": "Transformer Replacement",
-      "xCoord": -117.0158219371,
-      "district": "CM",
-      "substation": "TELEGRAPH CANYON",
-      "estRestTimeType": "F",
-      "startTime": "Jun 13 at 08:42 PM",
-      "calltype": "PLAN",
-      "device": "943-251",
-      "jobNumber": "1285906",
-      "estRestTime": "Jun 14 at 01:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
-      "first": true,
-      "nid": 1
     },
     {
       "damage": "",
@@ -66,8 +43,8 @@
       "estRestTime": "Jun 16 at 03:00 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 2
+      "first": true,
+      "nid": 1
     },
     {
       "damage": "",
@@ -87,6 +64,29 @@
       "device": "LBE.7542",
       "jobNumber": "1282550",
       "estRestTime": "Jun 17 at 05:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 2
+    },
+    {
+      "damage": "",
+      "yCoord": 32.638025017899999,
+      "circuit": "1221",
+      "switchplan": 355356,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "Rancho Del Rey/ Eastlake/ Otay Reservoir",
+      "customerOut": 0,
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "xCoord": -117.015822511,
+      "district": "CM",
+      "substation": "TELEGRAPH CANYON",
+      "estRestTimeType": "F",
+      "startTime": "Jun 16 at 11:00 PM",
+      "calltype": "SWP",
+      "device": "Cable.Tap.10894",
+      "jobNumber": "1283534",
+      "estRestTime": "Jun 17 at 04:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -922,29 +922,6 @@
     },
     {
       "damage": "",
-      "yCoord": 32.6380233987,
-      "circuit": "943",
-      "switchplan": 354722,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "community": "Rancho Del Rey/ Eastlake/ Otay Reservoir",
-      "customerOut": 0,
-      "plannedoutagereason": "Transformer Replacement",
-      "xCoord": -117.0158219371,
-      "district": "CM",
-      "substation": "TELEGRAPH CANYON",
-      "estRestTimeType": "F",
-      "startTime": "Jun 13 at 10:00 PM",
-      "calltype": "SWP",
-      "device": "LBE.20424",
-      "jobNumber": "1282466",
-      "estRestTime": "Jun 14 at 01:00 AM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 40
-    },
-    {
-      "damage": "",
       "yCoord": 33.017942024299998,
       "circuit": "971",
       "switchplan": 355101,
@@ -964,7 +941,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 41
+      "nid": 40
     },
     {
       "damage": "",
@@ -987,7 +964,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 42
+      "nid": 41
     },
     {
       "damage": "",
@@ -1010,7 +987,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 43
+      "nid": 42
     },
     {
       "damage": "",
@@ -1033,7 +1010,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 44
+      "nid": 43
     },
     {
       "damage": "",
@@ -1056,7 +1033,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 45
+      "nid": 44
     },
     {
       "damage": "",
@@ -1079,8 +1056,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 46
+      "nid": 45
     }
   ],
-  "last_updated": "Jun 13 at 10:13 PM"
+  "last_updated": "Jun 14 at 04:08 AM"
 }
