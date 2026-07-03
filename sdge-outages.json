@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 32.595284148600001,
+      "circuit": "153",
+      "switchplan": "",
+      "cause": "The cause of the outage is unknown and still under investigation.",
+      "community": "S Chula Vista/ Castle Park/ Otay",
+      "customerOut": 116,
+      "plannedoutagereason": "",
+      "xCoord": -117.057655821,
+      "district": "CM",
+      "substation": "OTAY",
+      "estRestTimeType": "I",
+      "startTime": "Jul 03 at 12:12 AM",
+      "calltype": "OUT",
+      "device": "F57892",
+      "jobNumber": "1289481",
+      "estRestTime": "Jul 03 at 02:30 AM",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 33.328943809199998,
       "circuit": "234",
       "switchplan": 361086,
@@ -21,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 0
+      "nid": 1
     },
     {
       "damage": "",
@@ -44,7 +67,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 1
+      "nid": 2
+    },
+    {
+      "damage": "",
+      "yCoord": 32.658027644400001,
+      "circuit": "340",
+      "switchplan": 360362,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Bonita",
+      "customerOut": 920,
+      "plannedoutagereason": "New Business",
+      "xCoord": -117.03042227029999,
+      "district": "CM",
+      "substation": "SUNNYSIDE",
+      "estRestTimeType": "F",
+      "startTime": "Jul 02 at 10:00 PM",
+      "calltype": "PLAN",
+      "device": "340-376F",
+      "jobNumber": "1289475",
+      "estRestTime": "Jul 03 at 05:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 3
     },
     {
       "damage": "",
@@ -67,7 +113,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
-      "nid": 2
+      "nid": 4
+    },
+    {
+      "damage": "",
+      "yCoord": 33.494835861399999,
+      "circuit": "792",
+      "switchplan": 358918,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Laguna Niguel",
+      "customerOut": 1367,
+      "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
+      "xCoord": -117.7027489533,
+      "district": "OC",
+      "substation": "LAGUNA NIGUEL",
+      "estRestTimeType": "F",
+      "startTime": "Jul 02 at 10:06 PM",
+      "calltype": "PLAN",
+      "device": "792-13",
+      "jobNumber": "1289476",
+      "estRestTime": "Jul 03 at 06:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
+      "nid": 5
     },
     {
       "damage": "",
@@ -90,14 +159,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 6
     },
     {
       "damage": "",
       "yCoord": 32.658027644400001,
       "circuit": "340",
       "switchplan": 360362,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Bonita",
       "customerOut": 0,
       "plannedoutagereason": "New Business",
@@ -113,14 +182,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 7
     },
     {
       "damage": "",
       "yCoord": 32.795386199299998,
       "circuit": "547",
       "switchplan": 360226,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "El Cajon",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -136,14 +205,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 8
     },
     {
       "damage": "",
       "yCoord": 33.494835861399999,
       "circuit": "792",
       "switchplan": 358918,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Laguna Niguel",
       "customerOut": 0,
       "plannedoutagereason": "Underground Equip. Replacement (Terminator, Fuse Cabinet, Capacitor, Cable Taps, etc.)",
@@ -159,8 +228,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 9
     }
   ],
-  "last_updated": "Jul 02 at 09:23 PM"
+  "last_updated": "Jul 03 at 12:43 AM"
 }
