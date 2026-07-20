@@ -2,6 +2,29 @@
   "locations": [
     {
       "damage": "",
+      "yCoord": 32.8042378476,
+      "circuit": "415",
+      "switchplan": "",
+      "cause": "The cause of the outage is unknown and still under investigation.",
+      "community": "Crest/ Bostonia",
+      "customerOut": 99,
+      "plannedoutagereason": "",
+      "xCoord": -116.92056351790001,
+      "district": "EA",
+      "substation": "GRANITE",
+      "estRestTimeType": "I",
+      "startTime": "Jul 20 at 06:57 AM",
+      "calltype": "OUT",
+      "device": "F192664",
+      "jobNumber": "1292956",
+      "estRestTime": "Jul 20 at 10:00 AM",
+      "type": "unplanned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "first": true,
+      "nid": 0
+    },
+    {
+      "damage": "",
       "yCoord": 32.765927056499997,
       "circuit": "100",
       "switchplan": 360880,
@@ -21,7 +44,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": true,
-      "nid": 0
+      "nid": 1
     },
     {
       "damage": "",
@@ -41,29 +64,6 @@
       "device": "1090-599",
       "jobNumber": "1291526",
       "estRestTime": "Jul 21 at 02:00 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 1
-    },
-    {
-      "damage": "",
-      "yCoord": 32.694388548699997,
-      "circuit": "123",
-      "switchplan": 360909,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
-      "community": "Logan Heights/ Mountain View/ Lincoln Park",
-      "customerOut": 0,
-      "plannedoutagereason": "Customer Requested",
-      "xCoord": -117.1424050792,
-      "district": "CM",
-      "substation": "SAMPSON",
-      "estRestTimeType": "F",
-      "startTime": "Jul 22 at 09:00 AM",
-      "calltype": "SWP",
-      "device": "123-138",
-      "jobNumber": "1287562",
-      "estRestTime": "Jul 24 at 01:00 PM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
@@ -695,7 +695,7 @@
       "yCoord": 32.795356652099997,
       "circuit": "549",
       "switchplan": 359022,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "El Cajon",
       "customerOut": 0,
       "plannedoutagereason": "Customer Requested",
@@ -764,7 +764,7 @@
       "yCoord": 32.6670741732,
       "circuit": "67",
       "switchplan": 354177,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Lyons Valley/ Barrett Lake",
       "customerOut": 0,
       "plannedoutagereason": "Pole Replacement",
@@ -1151,5 +1151,5 @@
       "nid": 49
     }
   ],
-  "last_updated": "Jul 20 at 04:23 AM"
+  "last_updated": "Jul 20 at 07:48 AM"
 }
