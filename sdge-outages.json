@@ -2,24 +2,24 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 33.3559437467,
-      "circuit": "1234",
-      "switchplan": "",
-      "cause": "The cause of the outage is unknown and still under investigation.",
-      "community": "Pala",
+      "yCoord": 32.583346759800001,
+      "circuit": "723",
+      "switchplan": 362483,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Nestor/ San Ysidro/ Otay Mesa",
       "customerOut": 1,
-      "plannedoutagereason": "",
-      "xCoord": -117.11231511290001,
-      "district": "NE",
-      "substation": "PALA",
-      "estRestTimeType": "I",
-      "startTime": "Aug 22 at 05:40 PM",
-      "calltype": "OUT",
-      "device": "F659940",
-      "jobNumber": "1300789",
-      "estRestTime": "Aug 22 at 11:30 PM",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.0972937115,
+      "district": "CM",
+      "substation": "IMPERIAL BEACH",
+      "estRestTimeType": "F",
+      "startTime": "Aug 22 at 09:29 PM",
+      "calltype": "PLAN",
+      "device": "LBE.10353",
+      "jobNumber": "1300827",
+      "estRestTime": "Aug 23 at 01:30 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
       "nid": 0
     },
@@ -43,7 +43,7 @@
       "estRestTime": "Aug 24 at 01:00 AM",
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": true,
+      "first": false,
       "nid": 1
     },
     {
@@ -921,5 +921,5 @@
       "nid": 39
     }
   ],
-  "last_updated": "Aug 22 at 07:08 PM"
+  "last_updated": "Aug 22 at 09:58 PM"
 }
