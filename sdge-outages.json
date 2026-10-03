@@ -2,29 +2,6 @@
   "locations": [
     {
       "damage": "",
-      "yCoord": 33.1414915374,
-      "circuit": "855",
-      "switchplan": "",
-      "cause": "The cause of the outage is unknown and still under investigation.",
-      "community": "S Vista",
-      "customerOut": 92,
-      "plannedoutagereason": "",
-      "xCoord": -117.2387737361,
-      "district": "NC",
-      "substation": "SHADOWRIDGE",
-      "estRestTimeType": "",
-      "startTime": "Oct 02 at 10:11 PM",
-      "calltype": "OUT",
-      "device": "F514696",
-      "jobNumber": "1311549",
-      "estRestTime": "",
-      "type": "unplanned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-unplanned@2x.png",
-      "first": true,
-      "nid": 0
-    },
-    {
-      "damage": "",
       "yCoord": 33.2708583382,
       "circuit": "171",
       "switchplan": 367506,
@@ -44,7 +21,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": true,
-      "nid": 1
+      "nid": 0
     },
     {
       "damage": "",
@@ -67,7 +44,53 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
       "first": false,
+      "nid": 1
+    },
+    {
+      "damage": "",
+      "yCoord": 32.9050655104,
+      "circuit": "959",
+      "switchplan": 365179,
+      "cause": "Upgrading the electric system in your area requires us to turn off the power. Our crews are working to safely restore your electric service by the estimated restoration time.",
+      "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
+      "customerOut": 2,
+      "plannedoutagereason": "Customer Requested",
+      "xCoord": -117.1734147252,
+      "district": "BC",
+      "substation": "MESA RIM",
+      "estRestTimeType": "F",
+      "startTime": "Oct 03 at 05:52 AM",
+      "calltype": "PLAN",
+      "device": "959-155",
+      "jobNumber": "1311580",
+      "estRestTime": "Oct 03 at 10:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-active@2x.png",
+      "first": false,
       "nid": 2
+    },
+    {
+      "damage": "",
+      "yCoord": 33.1011680079,
+      "circuit": "1119",
+      "switchplan": 366724,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "Carlsbad/ La Costa",
+      "customerOut": 0,
+      "plannedoutagereason": "Customer Requested",
+      "xCoord": -117.25031190510001,
+      "district": "NC",
+      "substation": "BATIQUITOS",
+      "estRestTimeType": "F",
+      "startTime": "Oct 05 at 11:00 PM",
+      "calltype": "SWP",
+      "device": "1119-95",
+      "jobNumber": "1308995",
+      "estRestTime": "Oct 06 at 02:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 3
     },
     {
       "damage": "",
@@ -90,7 +113,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 3
+      "nid": 4
     },
     {
       "damage": "",
@@ -113,7 +136,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 4
+      "nid": 5
     },
     {
       "damage": "",
@@ -136,7 +159,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 5
+      "nid": 6
     },
     {
       "damage": "",
@@ -159,7 +182,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 6
+      "nid": 7
     },
     {
       "damage": "",
@@ -182,76 +205,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 7
-    },
-    {
-      "damage": "",
-      "yCoord": 33.110472176199998,
-      "circuit": "221",
-      "switchplan": 367457,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "community": "Julian/ Santa Ysabel/ Morettis",
-      "customerOut": 0,
-      "plannedoutagereason": "System Reliability",
-      "xCoord": -116.6711751237,
-      "district": "RA",
-      "substation": "SANTA YSABEL",
-      "estRestTimeType": "F",
-      "startTime": "Oct 01 at 12:01 AM",
-      "calltype": "SWP",
-      "device": "221-1251R",
-      "jobNumber": "1310924",
-      "estRestTime": "Oct 04 at 11:59 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
       "nid": 8
-    },
-    {
-      "damage": "",
-      "yCoord": 33.110472176199998,
-      "circuit": "221",
-      "switchplan": 367458,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "community": "Julian/ Santa Ysabel/ Morettis",
-      "customerOut": 0,
-      "plannedoutagereason": "System Reliability",
-      "xCoord": -116.6711751237,
-      "district": "RA",
-      "substation": "SANTA YSABEL",
-      "estRestTimeType": "F",
-      "startTime": "Oct 01 at 12:01 AM",
-      "calltype": "SWP",
-      "device": "221-1248",
-      "jobNumber": "1310925",
-      "estRestTime": "Oct 04 at 11:59 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 9
-    },
-    {
-      "damage": "",
-      "yCoord": 33.110472176199998,
-      "circuit": "221",
-      "switchplan": 367555,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "community": "Julian/ Santa Ysabel/ Morettis",
-      "customerOut": 0,
-      "plannedoutagereason": "System Reliability",
-      "xCoord": -116.6711751237,
-      "district": "RA",
-      "substation": "SANTA YSABEL",
-      "estRestTimeType": "F",
-      "startTime": "Oct 01 at 12:01 AM",
-      "calltype": "SWP",
-      "device": "221-1236F",
-      "jobNumber": "1310926",
-      "estRestTime": "Oct 04 at 11:59 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 10
     },
     {
       "damage": "",
@@ -274,7 +228,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 11
+      "nid": 9
     },
     {
       "damage": "",
@@ -297,7 +251,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 12
+      "nid": 10
     },
     {
       "damage": "",
@@ -320,7 +274,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 13
+      "nid": 11
     },
     {
       "damage": "",
@@ -343,7 +297,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 14
+      "nid": 12
     },
     {
       "damage": "",
@@ -366,7 +320,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 15
+      "nid": 13
     },
     {
       "damage": "",
@@ -389,7 +343,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 16
+      "nid": 14
     },
     {
       "damage": "",
@@ -412,7 +366,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 17
+      "nid": 15
     },
     {
       "damage": "",
@@ -435,7 +389,30 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 18
+      "nid": 16
+    },
+    {
+      "damage": "",
+      "yCoord": 32.755021917500002,
+      "circuit": "364",
+      "switchplan": 352628,
+      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "community": "University Heights/ North Park/ Normal Heights",
+      "customerOut": 0,
+      "plannedoutagereason": "Transformer Replacement",
+      "xCoord": -117.1262145875,
+      "district": "CM",
+      "substation": "STATION F",
+      "estRestTimeType": "F",
+      "startTime": "Oct 06 at 04:00 AM",
+      "calltype": "SWP",
+      "device": "364-303",
+      "jobNumber": "1306584",
+      "estRestTime": "Oct 06 at 06:00 AM",
+      "type": "planned",
+      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
+      "first": false,
+      "nid": 17
     },
     {
       "damage": "",
@@ -458,7 +435,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 19
+      "nid": 18
     },
     {
       "damage": "",
@@ -481,7 +458,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 20
+      "nid": 19
     },
     {
       "damage": "",
@@ -504,7 +481,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 21
+      "nid": 20
     },
     {
       "damage": "",
@@ -527,30 +504,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 22
-    },
-    {
-      "damage": "",
-      "yCoord": 32.653203682899999,
-      "circuit": "448",
-      "switchplan": 367455,
-      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
-      "community": "Dulzura/ Potrero/ Campo",
-      "customerOut": 0,
-      "plannedoutagereason": "System Reliability",
-      "xCoord": -116.48814628620001,
-      "district": "ME",
-      "substation": "CAMERON",
-      "estRestTimeType": "F",
-      "startTime": "Oct 01 at 12:01 AM",
-      "calltype": "SWP",
-      "device": "448-1204",
-      "jobNumber": "1310923",
-      "estRestTime": "Oct 04 at 11:59 PM",
-      "type": "planned",
-      "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
-      "first": false,
-      "nid": 23
+      "nid": 21
     },
     {
       "damage": "",
@@ -573,7 +527,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 24
+      "nid": 22
     },
     {
       "damage": "",
@@ -596,7 +550,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 25
+      "nid": 23
     },
     {
       "damage": "",
@@ -619,7 +573,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 26
+      "nid": 24
     },
     {
       "damage": "",
@@ -642,7 +596,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 27
+      "nid": 25
     },
     {
       "damage": "",
@@ -665,7 +619,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 28
+      "nid": 26
     },
     {
       "damage": "",
@@ -688,7 +642,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 29
+      "nid": 27
     },
     {
       "damage": "",
@@ -711,7 +665,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 30
+      "nid": 28
     },
     {
       "damage": "",
@@ -734,7 +688,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 31
+      "nid": 29
     },
     {
       "damage": "",
@@ -757,7 +711,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 32
+      "nid": 30
     },
     {
       "damage": "",
@@ -780,7 +734,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 33
+      "nid": 31
     },
     {
       "damage": "",
@@ -803,14 +757,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 34
+      "nid": 32
     },
     {
       "damage": "",
       "yCoord": 32.9050655104,
       "circuit": "959",
       "switchplan": 365179,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "Sorrento/ Mira Mesa/ Scripps Ranch",
       "customerOut": 0,
       "plannedoutagereason": "Customer Requested",
@@ -826,14 +780,14 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 35
+      "nid": 33
     },
     {
       "damage": "",
       "yCoord": 33.017942013499997,
       "circuit": "972",
       "switchplan": 367454,
-      "cause": "A power outage has been scheduled in your area to make required repairs to our electrical system. A notification containing detailed outage information was sent to you.",
+      "cause": "The start time for today's planned outage has been delayed, however the outage will still occur today.",
       "community": "E Ramona",
       "customerOut": 0,
       "plannedoutagereason": "CAISO DER",
@@ -849,7 +803,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 36
+      "nid": 34
     },
     {
       "damage": "",
@@ -872,7 +826,7 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 37
+      "nid": 35
     },
     {
       "damage": "",
@@ -895,8 +849,8 @@
       "type": "planned",
       "icon_pin": "https://www.sdge.com/themes/custom/sdge//images/outage-map/icon-planned-future@2x.png",
       "first": false,
-      "nid": 38
+      "nid": 36
     }
   ],
-  "last_updated": "Oct 02 at 10:38 PM"
+  "last_updated": "Oct 03 at 06:48 AM"
 }
